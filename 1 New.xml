@@ -1,0 +1,2302 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<yml_catalog date="2024-12-25 19:00">
+ <shop>
+  <name>SHOP24</name>
+  <company>OOO «Дома ТВ»</company>
+  <url>https://shop24.com</url>
+  <currencies>
+   <currency id="RUR" rate="1" plus="0"/>
+  </currencies>
+  <delivery-options>
+   <option cost="250" days="2"/>
+  </delivery-options>
+  <offers>
+   <offer id="870993" group_id="2002697" available="false">
+    <url>https://shop24.com/goods/plate_italyaanskiy_stil/?COLOR_GROUP=2002697</url>
+    <price>1799</price>
+    <oldprice>4699</oldprice>
+    <currencyId>RUR</currencyId>
+    <name>Платье Итальянский Стиль</name>
+    <picture>https://www.leomax.ru/upload/iblock/b0b/b0bb119c83f22937dc4eab8446f9ff18_thumb_0caa7e99b4c13f3fb5aedd359ef65c34.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/4e3/4e3fee53dfc57679cf8df329e4290ca2_thumb_8f9df2844ea5211b972bf17c0c79c1fc.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/a1b/a1bc15d491597109187682f75d163d06_thumb_e6eba40bd2f45b841513017072f92b40.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/fc0/fc05e2a66157548395ab358b96c9f002_thumb_50e2d33fad82c27dcd8536b77485a8b8.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/330/3302e7bd4e872e9c718094ade995b898_thumb_be564581cd61f53fe7b1f655631ec345.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/0dd/0ddf6ec83b4a64a2660cc5024f4b4e65_thumb_d5ce94a4c01715cd28959ff5cefd694e.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/0bf/0bf2642decb23fd55aa6715654ccf84b_thumb_738c33b9ca010e048fa6613688d88df7.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/eb7/eb71d48cd0dcc6fbf521c2bd73e7c876_thumb_ff2b27a14af84b6631d2938d18e0e30d.jpg</picture>
+    <param name="Артикул">47499</param>
+    <param name="ГТК">47499</param>
+    <param name="СКУ">47499-19</param>
+    <param name ="SkuName">бежевый</param>
+    <param name="Размер" unit="RU">64</param>
+    <param name="Бренд">Vivienne Mare</param>
+    <vendor>Vivienne Mare</vendor>
+    <param name="Размер российский (для одежды)">64</param>
+    <param name="Сезон">Демисезон</param>
+    <param name="Цвет">Бежевый</param>
+    <param name="Доступность товара">0</param>
+    <param name="Ликвидация">0</param>
+    <param name="Товар в эфире">0</param>
+    <param name="Новинка">0</param>
+    <param name="Динамический бейдж">Акция|ffffff|ff8642</param>
+    <param name="Скидка">62</param>
+    <param name="groupId">870813</param>
+   </offer>
+   <offer id="870933" group_id="2002697" available="false">
+    <url>https://shop24.com/goods/plate_italyaanskiy_stil/?COLOR_GROUP=2002697</url>
+    <price>1799</price>
+    <oldprice>4699</oldprice>
+    <currencyId>RUR</currencyId>
+    <name>Платье Итальянский Стиль</name>
+    <picture>https://www.leomax.ru/upload/iblock/b0b/b0bb119c83f22937dc4eab8446f9ff18_thumb_0caa7e99b4c13f3fb5aedd359ef65c34.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/4e3/4e3fee53dfc57679cf8df329e4290ca2_thumb_8f9df2844ea5211b972bf17c0c79c1fc.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/a1b/a1bc15d491597109187682f75d163d06_thumb_e6eba40bd2f45b841513017072f92b40.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/fc0/fc05e2a66157548395ab358b96c9f002_thumb_50e2d33fad82c27dcd8536b77485a8b8.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/330/3302e7bd4e872e9c718094ade995b898_thumb_be564581cd61f53fe7b1f655631ec345.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/0dd/0ddf6ec83b4a64a2660cc5024f4b4e65_thumb_d5ce94a4c01715cd28959ff5cefd694e.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/0bf/0bf2642decb23fd55aa6715654ccf84b_thumb_738c33b9ca010e048fa6613688d88df7.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/eb7/eb71d48cd0dcc6fbf521c2bd73e7c876_thumb_ff2b27a14af84b6631d2938d18e0e30d.jpg</picture>
+    <param name="Артикул">47499</param>
+    <param name="ГТК">47499</param>
+    <param name="СКУ">47499-13</param>
+    <param name ="SkuName">бежевый</param>
+    <param name="Размер" unit="RU">52</param>
+    <param name="Бренд">Vivienne Mare</param>
+    <vendor>Vivienne Mare</vendor>
+    <param name="Размер российский (для одежды)">52</param>
+    <param name="Сезон">Демисезон</param>
+    <param name="Цвет">Бежевый</param>
+    <param name="Доступность товара">0</param>
+    <param name="Ликвидация">0</param>
+    <param name="Товар в эфире">0</param>
+    <param name="Новинка">0</param>
+    <param name="Динамический бейдж">Акция|ffffff|ff8642</param>
+    <param name="Скидка">62</param>
+    <param name="groupId">870813</param>
+   </offer>
+   <offer id="870943" group_id="2002697" available="false">
+    <url>https://shop24.com/goods/plate_italyaanskiy_stil/?COLOR_GROUP=2002697</url>
+    <price>1799</price>
+    <oldprice>4699</oldprice>
+    <currencyId>RUR</currencyId>
+    <name>Платье Итальянский Стиль</name>
+    <picture>https://www.leomax.ru/upload/iblock/b0b/b0bb119c83f22937dc4eab8446f9ff18_thumb_0caa7e99b4c13f3fb5aedd359ef65c34.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/4e3/4e3fee53dfc57679cf8df329e4290ca2_thumb_8f9df2844ea5211b972bf17c0c79c1fc.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/a1b/a1bc15d491597109187682f75d163d06_thumb_e6eba40bd2f45b841513017072f92b40.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/fc0/fc05e2a66157548395ab358b96c9f002_thumb_50e2d33fad82c27dcd8536b77485a8b8.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/330/3302e7bd4e872e9c718094ade995b898_thumb_be564581cd61f53fe7b1f655631ec345.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/0dd/0ddf6ec83b4a64a2660cc5024f4b4e65_thumb_d5ce94a4c01715cd28959ff5cefd694e.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/0bf/0bf2642decb23fd55aa6715654ccf84b_thumb_738c33b9ca010e048fa6613688d88df7.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/eb7/eb71d48cd0dcc6fbf521c2bd73e7c876_thumb_ff2b27a14af84b6631d2938d18e0e30d.jpg</picture>
+    <param name="Артикул">47499</param>
+    <param name="ГТК">47499</param>
+    <param name="СКУ">47499-14</param>
+    <param name ="SkuName">бежевый</param>
+    <param name="Размер" unit="RU">54</param>
+    <param name="Бренд">Vivienne Mare</param>
+    <vendor>Vivienne Mare</vendor>
+    <param name="Размер российский (для одежды)">54</param>
+    <param name="Сезон">Демисезон</param>
+    <param name="Цвет">Бежевый</param>
+    <param name="Доступность товара">0</param>
+    <param name="Ликвидация">0</param>
+    <param name="Товар в эфире">0</param>
+    <param name="Новинка">0</param>
+    <param name="Динамический бейдж">Акция|ffffff|ff8642</param>
+    <param name="Скидка">62</param>
+    <param name="groupId">870813</param>
+   </offer>
+   <offer id="870953" group_id="2002697" available="false">
+    <url>https://shop24.com/goods/plate_italyaanskiy_stil/?COLOR_GROUP=2002697</url>
+    <price>1799</price>
+    <oldprice>4699</oldprice>
+    <currencyId>RUR</currencyId>
+    <name>Платье Итальянский Стиль</name>
+    <picture>https://www.leomax.ru/upload/iblock/b0b/b0bb119c83f22937dc4eab8446f9ff18_thumb_0caa7e99b4c13f3fb5aedd359ef65c34.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/4e3/4e3fee53dfc57679cf8df329e4290ca2_thumb_8f9df2844ea5211b972bf17c0c79c1fc.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/a1b/a1bc15d491597109187682f75d163d06_thumb_e6eba40bd2f45b841513017072f92b40.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/fc0/fc05e2a66157548395ab358b96c9f002_thumb_50e2d33fad82c27dcd8536b77485a8b8.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/330/3302e7bd4e872e9c718094ade995b898_thumb_be564581cd61f53fe7b1f655631ec345.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/0dd/0ddf6ec83b4a64a2660cc5024f4b4e65_thumb_d5ce94a4c01715cd28959ff5cefd694e.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/0bf/0bf2642decb23fd55aa6715654ccf84b_thumb_738c33b9ca010e048fa6613688d88df7.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/eb7/eb71d48cd0dcc6fbf521c2bd73e7c876_thumb_ff2b27a14af84b6631d2938d18e0e30d.jpg</picture>
+    <param name="Артикул">47499</param>
+    <param name="ГТК">47499</param>
+    <param name="СКУ">47499-15</param>
+    <param name ="SkuName">бежевый</param>
+    <param name="Размер" unit="RU">56</param>
+    <param name="Бренд">Vivienne Mare</param>
+    <vendor>Vivienne Mare</vendor>
+    <param name="Размер российский (для одежды)">56</param>
+    <param name="Сезон">Демисезон</param>
+    <param name="Цвет">Бежевый</param>
+    <param name="Доступность товара">0</param>
+    <param name="Ликвидация">0</param>
+    <param name="Товар в эфире">0</param>
+    <param name="Новинка">0</param>
+    <param name="Динамический бейдж">Акция|ffffff|ff8642</param>
+    <param name="Скидка">62</param>
+    <param name="groupId">870813</param>
+   </offer>
+   <offer id="870963" group_id="2002697" available="false">
+    <url>https://shop24.com/goods/plate_italyaanskiy_stil/?COLOR_GROUP=2002697</url>
+    <price>1799</price>
+    <oldprice>4699</oldprice>
+    <currencyId>RUR</currencyId>
+    <name>Платье Итальянский Стиль</name>
+    <picture>https://www.leomax.ru/upload/iblock/b0b/b0bb119c83f22937dc4eab8446f9ff18_thumb_0caa7e99b4c13f3fb5aedd359ef65c34.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/4e3/4e3fee53dfc57679cf8df329e4290ca2_thumb_8f9df2844ea5211b972bf17c0c79c1fc.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/a1b/a1bc15d491597109187682f75d163d06_thumb_e6eba40bd2f45b841513017072f92b40.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/fc0/fc05e2a66157548395ab358b96c9f002_thumb_50e2d33fad82c27dcd8536b77485a8b8.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/330/3302e7bd4e872e9c718094ade995b898_thumb_be564581cd61f53fe7b1f655631ec345.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/0dd/0ddf6ec83b4a64a2660cc5024f4b4e65_thumb_d5ce94a4c01715cd28959ff5cefd694e.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/0bf/0bf2642decb23fd55aa6715654ccf84b_thumb_738c33b9ca010e048fa6613688d88df7.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/eb7/eb71d48cd0dcc6fbf521c2bd73e7c876_thumb_ff2b27a14af84b6631d2938d18e0e30d.jpg</picture>
+    <param name="Артикул">47499</param>
+    <param name="ГТК">47499</param>
+    <param name="СКУ">47499-16</param>
+    <param name ="SkuName">бежевый</param>
+    <param name="Размер" unit="RU">58</param>
+    <param name="Бренд">Vivienne Mare</param>
+    <vendor>Vivienne Mare</vendor>
+    <param name="Размер российский (для одежды)">58</param>
+    <param name="Сезон">Демисезон</param>
+    <param name="Цвет">Бежевый</param>
+    <param name="Доступность товара">0</param>
+    <param name="Ликвидация">0</param>
+    <param name="Товар в эфире">0</param>
+    <param name="Новинка">0</param>
+    <param name="Динамический бейдж">Акция|ffffff|ff8642</param>
+    <param name="Скидка">62</param>
+    <param name="groupId">870813</param>
+   </offer>
+   <offer id="870973" group_id="2002697" available="false">
+    <url>https://shop24.com/goods/plate_italyaanskiy_stil/?COLOR_GROUP=2002697</url>
+    <price>1799</price>
+    <oldprice>4699</oldprice>
+    <currencyId>RUR</currencyId>
+    <name>Платье Итальянский Стиль</name>
+    <picture>https://www.leomax.ru/upload/iblock/b0b/b0bb119c83f22937dc4eab8446f9ff18_thumb_0caa7e99b4c13f3fb5aedd359ef65c34.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/4e3/4e3fee53dfc57679cf8df329e4290ca2_thumb_8f9df2844ea5211b972bf17c0c79c1fc.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/a1b/a1bc15d491597109187682f75d163d06_thumb_e6eba40bd2f45b841513017072f92b40.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/fc0/fc05e2a66157548395ab358b96c9f002_thumb_50e2d33fad82c27dcd8536b77485a8b8.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/330/3302e7bd4e872e9c718094ade995b898_thumb_be564581cd61f53fe7b1f655631ec345.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/0dd/0ddf6ec83b4a64a2660cc5024f4b4e65_thumb_d5ce94a4c01715cd28959ff5cefd694e.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/0bf/0bf2642decb23fd55aa6715654ccf84b_thumb_738c33b9ca010e048fa6613688d88df7.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/eb7/eb71d48cd0dcc6fbf521c2bd73e7c876_thumb_ff2b27a14af84b6631d2938d18e0e30d.jpg</picture>
+    <param name="Артикул">47499</param>
+    <param name="ГТК">47499</param>
+    <param name="СКУ">47499-17</param>
+    <param name ="SkuName">бежевый</param>
+    <param name="Размер" unit="RU">60</param>
+    <param name="Бренд">Vivienne Mare</param>
+    <vendor>Vivienne Mare</vendor>
+    <param name="Размер российский (для одежды)">60</param>
+    <param name="Сезон">Демисезон</param>
+    <param name="Цвет">Бежевый</param>
+    <param name="Доступность товара">0</param>
+    <param name="Ликвидация">0</param>
+    <param name="Товар в эфире">0</param>
+    <param name="Новинка">0</param>
+    <param name="Динамический бейдж">Акция|ffffff|ff8642</param>
+    <param name="Скидка">62</param>
+    <param name="groupId">870813</param>
+   </offer>
+   <offer id="870983" group_id="2002697" available="false">
+    <url>https://shop24.com/goods/plate_italyaanskiy_stil/?COLOR_GROUP=2002697</url>
+    <price>1799</price>
+    <oldprice>4699</oldprice>
+    <currencyId>RUR</currencyId>
+    <name>Платье Итальянский Стиль</name>
+    <picture>https://www.leomax.ru/upload/iblock/b0b/b0bb119c83f22937dc4eab8446f9ff18_thumb_0caa7e99b4c13f3fb5aedd359ef65c34.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/4e3/4e3fee53dfc57679cf8df329e4290ca2_thumb_8f9df2844ea5211b972bf17c0c79c1fc.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/a1b/a1bc15d491597109187682f75d163d06_thumb_e6eba40bd2f45b841513017072f92b40.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/fc0/fc05e2a66157548395ab358b96c9f002_thumb_50e2d33fad82c27dcd8536b77485a8b8.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/330/3302e7bd4e872e9c718094ade995b898_thumb_be564581cd61f53fe7b1f655631ec345.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/0dd/0ddf6ec83b4a64a2660cc5024f4b4e65_thumb_d5ce94a4c01715cd28959ff5cefd694e.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/0bf/0bf2642decb23fd55aa6715654ccf84b_thumb_738c33b9ca010e048fa6613688d88df7.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/eb7/eb71d48cd0dcc6fbf521c2bd73e7c876_thumb_ff2b27a14af84b6631d2938d18e0e30d.jpg</picture>
+    <param name="Артикул">47499</param>
+    <param name="ГТК">47499</param>
+    <param name="СКУ">47499-18</param>
+    <param name ="SkuName">бежевый</param>
+    <param name="Размер" unit="RU">62</param>
+    <param name="Бренд">Vivienne Mare</param>
+    <vendor>Vivienne Mare</vendor>
+    <param name="Размер российский (для одежды)">62</param>
+    <param name="Сезон">Демисезон</param>
+    <param name="Цвет">Бежевый</param>
+    <param name="Доступность товара">0</param>
+    <param name="Ликвидация">0</param>
+    <param name="Товар в эфире">0</param>
+    <param name="Новинка">0</param>
+    <param name="Динамический бейдж">Акция|ffffff|ff8642</param>
+    <param name="Скидка">62</param>
+    <param name="groupId">870813</param>
+   </offer>
+   <offer id="870913" group_id="2002697" available="false">
+    <url>https://shop24.com/goods/plate_italyaanskiy_stil/?COLOR_GROUP=2002697</url>
+    <price>1799</price>
+    <oldprice>4699</oldprice>
+    <currencyId>RUR</currencyId>
+    <name>Платье Итальянский Стиль</name>
+    <picture>https://www.leomax.ru/upload/iblock/b0b/b0bb119c83f22937dc4eab8446f9ff18_thumb_0caa7e99b4c13f3fb5aedd359ef65c34.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/4e3/4e3fee53dfc57679cf8df329e4290ca2_thumb_8f9df2844ea5211b972bf17c0c79c1fc.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/a1b/a1bc15d491597109187682f75d163d06_thumb_e6eba40bd2f45b841513017072f92b40.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/fc0/fc05e2a66157548395ab358b96c9f002_thumb_50e2d33fad82c27dcd8536b77485a8b8.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/330/3302e7bd4e872e9c718094ade995b898_thumb_be564581cd61f53fe7b1f655631ec345.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/0dd/0ddf6ec83b4a64a2660cc5024f4b4e65_thumb_d5ce94a4c01715cd28959ff5cefd694e.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/0bf/0bf2642decb23fd55aa6715654ccf84b_thumb_738c33b9ca010e048fa6613688d88df7.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/eb7/eb71d48cd0dcc6fbf521c2bd73e7c876_thumb_ff2b27a14af84b6631d2938d18e0e30d.jpg</picture>
+    <param name="Артикул">47499</param>
+    <param name="ГТК">47499</param>
+    <param name="СКУ">47499-11</param>
+    <param name ="SkuName">бежевый</param>
+    <param name="Размер" unit="RU">48</param>
+    <param name="Бренд">Vivienne Mare</param>
+    <vendor>Vivienne Mare</vendor>
+    <param name="Размер российский (для одежды)">48</param>
+    <param name="Сезон">Демисезон</param>
+    <param name="Цвет">Бежевый</param>
+    <param name="Доступность товара">0</param>
+    <param name="Ликвидация">0</param>
+    <param name="Товар в эфире">0</param>
+    <param name="Новинка">0</param>
+    <param name="Динамический бейдж">Акция|ffffff|ff8642</param>
+    <param name="Скидка">62</param>
+    <param name="groupId">870813</param>
+   </offer>
+   <offer id="870923" group_id="2002697" available="false">
+    <url>https://shop24.com/goods/plate_italyaanskiy_stil/?COLOR_GROUP=2002697</url>
+    <price>1799</price>
+    <oldprice>4699</oldprice>
+    <currencyId>RUR</currencyId>
+    <name>Платье Итальянский Стиль</name>
+    <picture>https://www.leomax.ru/upload/iblock/b0b/b0bb119c83f22937dc4eab8446f9ff18_thumb_0caa7e99b4c13f3fb5aedd359ef65c34.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/4e3/4e3fee53dfc57679cf8df329e4290ca2_thumb_8f9df2844ea5211b972bf17c0c79c1fc.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/a1b/a1bc15d491597109187682f75d163d06_thumb_e6eba40bd2f45b841513017072f92b40.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/fc0/fc05e2a66157548395ab358b96c9f002_thumb_50e2d33fad82c27dcd8536b77485a8b8.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/330/3302e7bd4e872e9c718094ade995b898_thumb_be564581cd61f53fe7b1f655631ec345.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/0dd/0ddf6ec83b4a64a2660cc5024f4b4e65_thumb_d5ce94a4c01715cd28959ff5cefd694e.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/0bf/0bf2642decb23fd55aa6715654ccf84b_thumb_738c33b9ca010e048fa6613688d88df7.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/eb7/eb71d48cd0dcc6fbf521c2bd73e7c876_thumb_ff2b27a14af84b6631d2938d18e0e30d.jpg</picture>
+    <param name="Артикул">47499</param>
+    <param name="ГТК">47499</param>
+    <param name="СКУ">47499-12</param>
+    <param name ="SkuName">бежевый</param>
+    <param name="Размер" unit="RU">50</param>
+    <param name="Бренд">Vivienne Mare</param>
+    <vendor>Vivienne Mare</vendor>
+    <param name="Размер российский (для одежды)">50</param>
+    <param name="Сезон">Демисезон</param>
+    <param name="Цвет">Бежевый</param>
+    <param name="Доступность товара">0</param>
+    <param name="Ликвидация">0</param>
+    <param name="Товар в эфире">0</param>
+    <param name="Новинка">0</param>
+    <param name="Динамический бейдж">Акция|ffffff|ff8642</param>
+    <param name="Скидка">62</param>
+    <param name="groupId">870813</param>
+   </offer>
+   <offer id="872033" group_id="2002710" available="true">
+    <url>https://shop24.com/goods/plate_frantsuzsskaya_izyskannost/?COLOR_GROUP=2002710</url>
+    <price>2099</price>
+    <oldprice>5299</oldprice>
+    <currencyId>RUR</currencyId>
+    <name>Платье Французская Изысканность</name>
+    <picture>https://www.leomax.ru/upload/iblock/7b6/7b6f69d74135316b4d6159d5c3cc771a_thumb_c6e5059c90caad18052a23ba714f4c67.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/902/90228236b47fc05e8ef2cc4bd74dd984_thumb_bc811375e297161efb01e095452e7c5a.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/2ba/2ba0a4ed74269f21e123ba77283347fb_thumb_931d128849b35ef6d8fc2316b62a00b3.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/7ac/7acf511a718b4250ee74d140287783c6_thumb_98fdcfe3ddbc83374ad5ea42b2ee4c6f.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/41a/41aa336b579313b8c682f3922b386637_thumb_97b4c0bdf7babab39f926543de65d538.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/8d7/8d74b4cecc712cee7abf2d948a9f90ba_thumb_33ca8feaa9d32b5e7f9337008c64e6f4.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/abc/abc2df2421f9abfb9bd7e5269382853c_thumb_dd115e52fb7f3b6ac7e7174d7666a60f.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/dfb/dfb8b27287006d700b1d5142b4ca9af7_thumb_b7d48a56c832d850157916250f513fbe.jpg</picture>
+    <param name="Артикул">47504</param>
+    <param name="ГТК">47504</param>
+    <param name="СКУ">47504-16</param>
+    <param name ="SkuName">серый</param>
+    <param name="Размер" unit="RU">58</param>
+    <param name="Бренд">Vivienne Mare</param>
+    <vendor>Vivienne Mare</vendor>
+    <param name="Размер российский (для одежды)">58</param>
+    <param name="Сезон">Демисезон</param>
+    <param name="Стиль">коктейльный</param>
+    <param name="Цвет">Серый</param>
+    <param name="Доступность товара">0</param>
+    <param name="Ликвидация">0</param>
+    <param name="Товар в эфире">0</param>
+    <param name="Новинка">0</param>
+    <param name="Динамический бейдж">Акция|ffffff|ff8642</param>
+    <param name="Скидка">60</param>
+    <param name="groupId">871873</param>
+   </offer>
+   <offer id="872003" group_id="2002710" available="false">
+    <url>https://shop24.com/goods/plate_frantsuzsskaya_izyskannost/?COLOR_GROUP=2002710</url>
+    <price>2099</price>
+    <oldprice>5299</oldprice>
+    <currencyId>RUR</currencyId>
+    <name>Платье Французская Изысканность</name>
+    <picture>https://www.leomax.ru/upload/iblock/7b6/7b6f69d74135316b4d6159d5c3cc771a_thumb_c6e5059c90caad18052a23ba714f4c67.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/902/90228236b47fc05e8ef2cc4bd74dd984_thumb_bc811375e297161efb01e095452e7c5a.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/2ba/2ba0a4ed74269f21e123ba77283347fb_thumb_931d128849b35ef6d8fc2316b62a00b3.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/7ac/7acf511a718b4250ee74d140287783c6_thumb_98fdcfe3ddbc83374ad5ea42b2ee4c6f.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/41a/41aa336b579313b8c682f3922b386637_thumb_97b4c0bdf7babab39f926543de65d538.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/8d7/8d74b4cecc712cee7abf2d948a9f90ba_thumb_33ca8feaa9d32b5e7f9337008c64e6f4.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/abc/abc2df2421f9abfb9bd7e5269382853c_thumb_dd115e52fb7f3b6ac7e7174d7666a60f.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/dfb/dfb8b27287006d700b1d5142b4ca9af7_thumb_b7d48a56c832d850157916250f513fbe.jpg</picture>
+    <param name="Артикул">47504</param>
+    <param name="ГТК">47504</param>
+    <param name="СКУ">47504-13</param>
+    <param name ="SkuName">серый</param>
+    <param name="Размер" unit="RU">52</param>
+    <param name="Бренд">Vivienne Mare</param>
+    <vendor>Vivienne Mare</vendor>
+    <param name="Размер российский (для одежды)">52</param>
+    <param name="Сезон">Демисезон</param>
+    <param name="Стиль">коктейльный</param>
+    <param name="Цвет">Серый</param>
+    <param name="Доступность товара">0</param>
+    <param name="Ликвидация">0</param>
+    <param name="Товар в эфире">0</param>
+    <param name="Новинка">0</param>
+    <param name="Динамический бейдж">Акция|ffffff|ff8642</param>
+    <param name="Скидка">60</param>
+    <param name="groupId">871873</param>
+   </offer>
+   <offer id="872013" group_id="2002710" available="false">
+    <url>https://shop24.com/goods/plate_frantsuzsskaya_izyskannost/?COLOR_GROUP=2002710</url>
+    <price>2099</price>
+    <oldprice>5299</oldprice>
+    <currencyId>RUR</currencyId>
+    <name>Платье Французская Изысканность</name>
+    <picture>https://www.leomax.ru/upload/iblock/7b6/7b6f69d74135316b4d6159d5c3cc771a_thumb_c6e5059c90caad18052a23ba714f4c67.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/902/90228236b47fc05e8ef2cc4bd74dd984_thumb_bc811375e297161efb01e095452e7c5a.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/2ba/2ba0a4ed74269f21e123ba77283347fb_thumb_931d128849b35ef6d8fc2316b62a00b3.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/7ac/7acf511a718b4250ee74d140287783c6_thumb_98fdcfe3ddbc83374ad5ea42b2ee4c6f.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/41a/41aa336b579313b8c682f3922b386637_thumb_97b4c0bdf7babab39f926543de65d538.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/8d7/8d74b4cecc712cee7abf2d948a9f90ba_thumb_33ca8feaa9d32b5e7f9337008c64e6f4.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/abc/abc2df2421f9abfb9bd7e5269382853c_thumb_dd115e52fb7f3b6ac7e7174d7666a60f.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/dfb/dfb8b27287006d700b1d5142b4ca9af7_thumb_b7d48a56c832d850157916250f513fbe.jpg</picture>
+    <param name="Артикул">47504</param>
+    <param name="ГТК">47504</param>
+    <param name="СКУ">47504-14</param>
+    <param name ="SkuName">серый</param>
+    <param name="Размер" unit="RU">54</param>
+    <param name="Бренд">Vivienne Mare</param>
+    <vendor>Vivienne Mare</vendor>
+    <param name="Размер российский (для одежды)">54</param>
+    <param name="Сезон">Демисезон</param>
+    <param name="Стиль">коктейльный</param>
+    <param name="Цвет">Серый</param>
+    <param name="Доступность товара">0</param>
+    <param name="Ликвидация">0</param>
+    <param name="Товар в эфире">0</param>
+    <param name="Новинка">0</param>
+    <param name="Динамический бейдж">Акция|ffffff|ff8642</param>
+    <param name="Скидка">60</param>
+    <param name="groupId">871873</param>
+   </offer>
+   <offer id="872023" group_id="2002710" available="false">
+    <url>https://shop24.com/goods/plate_frantsuzsskaya_izyskannost/?COLOR_GROUP=2002710</url>
+    <price>2099</price>
+    <oldprice>5299</oldprice>
+    <currencyId>RUR</currencyId>
+    <name>Платье Французская Изысканность</name>
+    <picture>https://www.leomax.ru/upload/iblock/7b6/7b6f69d74135316b4d6159d5c3cc771a_thumb_c6e5059c90caad18052a23ba714f4c67.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/902/90228236b47fc05e8ef2cc4bd74dd984_thumb_bc811375e297161efb01e095452e7c5a.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/2ba/2ba0a4ed74269f21e123ba77283347fb_thumb_931d128849b35ef6d8fc2316b62a00b3.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/7ac/7acf511a718b4250ee74d140287783c6_thumb_98fdcfe3ddbc83374ad5ea42b2ee4c6f.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/41a/41aa336b579313b8c682f3922b386637_thumb_97b4c0bdf7babab39f926543de65d538.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/8d7/8d74b4cecc712cee7abf2d948a9f90ba_thumb_33ca8feaa9d32b5e7f9337008c64e6f4.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/abc/abc2df2421f9abfb9bd7e5269382853c_thumb_dd115e52fb7f3b6ac7e7174d7666a60f.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/dfb/dfb8b27287006d700b1d5142b4ca9af7_thumb_b7d48a56c832d850157916250f513fbe.jpg</picture>
+    <param name="Артикул">47504</param>
+    <param name="ГТК">47504</param>
+    <param name="СКУ">47504-15</param>
+    <param name ="SkuName">серый</param>
+    <param name="Размер" unit="RU">56</param>
+    <param name="Бренд">Vivienne Mare</param>
+    <vendor>Vivienne Mare</vendor>
+    <param name="Размер российский (для одежды)">56</param>
+    <param name="Сезон">Демисезон</param>
+    <param name="Стиль">коктейльный</param>
+    <param name="Цвет">Серый</param>
+    <param name="Доступность товара">0</param>
+    <param name="Ликвидация">0</param>
+    <param name="Товар в эфире">0</param>
+    <param name="Новинка">0</param>
+    <param name="Динамический бейдж">Акция|ffffff|ff8642</param>
+    <param name="Скидка">60</param>
+    <param name="groupId">871873</param>
+   </offer>
+   <offer id="872043" group_id="2002710" available="false">
+    <url>https://shop24.com/goods/plate_frantsuzsskaya_izyskannost/?COLOR_GROUP=2002710</url>
+    <price>2099</price>
+    <oldprice>5299</oldprice>
+    <currencyId>RUR</currencyId>
+    <name>Платье Французская Изысканность</name>
+    <picture>https://www.leomax.ru/upload/iblock/7b6/7b6f69d74135316b4d6159d5c3cc771a_thumb_c6e5059c90caad18052a23ba714f4c67.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/902/90228236b47fc05e8ef2cc4bd74dd984_thumb_bc811375e297161efb01e095452e7c5a.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/2ba/2ba0a4ed74269f21e123ba77283347fb_thumb_931d128849b35ef6d8fc2316b62a00b3.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/7ac/7acf511a718b4250ee74d140287783c6_thumb_98fdcfe3ddbc83374ad5ea42b2ee4c6f.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/41a/41aa336b579313b8c682f3922b386637_thumb_97b4c0bdf7babab39f926543de65d538.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/8d7/8d74b4cecc712cee7abf2d948a9f90ba_thumb_33ca8feaa9d32b5e7f9337008c64e6f4.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/abc/abc2df2421f9abfb9bd7e5269382853c_thumb_dd115e52fb7f3b6ac7e7174d7666a60f.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/dfb/dfb8b27287006d700b1d5142b4ca9af7_thumb_b7d48a56c832d850157916250f513fbe.jpg</picture>
+    <param name="Артикул">47504</param>
+    <param name="ГТК">47504</param>
+    <param name="СКУ">47504-17</param>
+    <param name ="SkuName">серый</param>
+    <param name="Размер" unit="RU">60</param>
+    <param name="Бренд">Vivienne Mare</param>
+    <vendor>Vivienne Mare</vendor>
+    <param name="Размер российский (для одежды)">60</param>
+    <param name="Сезон">Демисезон</param>
+    <param name="Стиль">коктейльный</param>
+    <param name="Цвет">Серый</param>
+    <param name="Доступность товара">0</param>
+    <param name="Ликвидация">0</param>
+    <param name="Товар в эфире">0</param>
+    <param name="Новинка">0</param>
+    <param name="Динамический бейдж">Акция|ffffff|ff8642</param>
+    <param name="Скидка">60</param>
+    <param name="groupId">871873</param>
+   </offer>
+   <offer id="871993" group_id="2002710" available="false">
+    <url>https://shop24.com/goods/plate_frantsuzsskaya_izyskannost/?COLOR_GROUP=2002710</url>
+    <price>2099</price>
+    <oldprice>5299</oldprice>
+    <currencyId>RUR</currencyId>
+    <name>Платье Французская Изысканность</name>
+    <picture>https://www.leomax.ru/upload/iblock/7b6/7b6f69d74135316b4d6159d5c3cc771a_thumb_c6e5059c90caad18052a23ba714f4c67.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/902/90228236b47fc05e8ef2cc4bd74dd984_thumb_bc811375e297161efb01e095452e7c5a.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/2ba/2ba0a4ed74269f21e123ba77283347fb_thumb_931d128849b35ef6d8fc2316b62a00b3.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/7ac/7acf511a718b4250ee74d140287783c6_thumb_98fdcfe3ddbc83374ad5ea42b2ee4c6f.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/41a/41aa336b579313b8c682f3922b386637_thumb_97b4c0bdf7babab39f926543de65d538.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/8d7/8d74b4cecc712cee7abf2d948a9f90ba_thumb_33ca8feaa9d32b5e7f9337008c64e6f4.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/abc/abc2df2421f9abfb9bd7e5269382853c_thumb_dd115e52fb7f3b6ac7e7174d7666a60f.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/dfb/dfb8b27287006d700b1d5142b4ca9af7_thumb_b7d48a56c832d850157916250f513fbe.jpg</picture>
+    <param name="Артикул">47504</param>
+    <param name="ГТК">47504</param>
+    <param name="СКУ">47504-12</param>
+    <param name ="SkuName">серый</param>
+    <param name="Размер" unit="RU">50</param>
+    <param name="Бренд">Vivienne Mare</param>
+    <vendor>Vivienne Mare</vendor>
+    <param name="Размер российский (для одежды)">50</param>
+    <param name="Сезон">Демисезон</param>
+    <param name="Стиль">коктейльный</param>
+    <param name="Цвет">Серый</param>
+    <param name="Доступность товара">0</param>
+    <param name="Ликвидация">0</param>
+    <param name="Товар в эфире">0</param>
+    <param name="Новинка">0</param>
+    <param name="Динамический бейдж">Акция|ffffff|ff8642</param>
+    <param name="Скидка">60</param>
+    <param name="groupId">871873</param>
+   </offer>
+   <offer id="872063" group_id="2002710" available="false">
+    <url>https://shop24.com/goods/plate_frantsuzsskaya_izyskannost/?COLOR_GROUP=2002710</url>
+    <price>2099</price>
+    <oldprice>5299</oldprice>
+    <currencyId>RUR</currencyId>
+    <name>Платье Французская Изысканность</name>
+    <picture>https://www.leomax.ru/upload/iblock/7b6/7b6f69d74135316b4d6159d5c3cc771a_thumb_c6e5059c90caad18052a23ba714f4c67.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/902/90228236b47fc05e8ef2cc4bd74dd984_thumb_bc811375e297161efb01e095452e7c5a.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/2ba/2ba0a4ed74269f21e123ba77283347fb_thumb_931d128849b35ef6d8fc2316b62a00b3.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/7ac/7acf511a718b4250ee74d140287783c6_thumb_98fdcfe3ddbc83374ad5ea42b2ee4c6f.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/41a/41aa336b579313b8c682f3922b386637_thumb_97b4c0bdf7babab39f926543de65d538.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/8d7/8d74b4cecc712cee7abf2d948a9f90ba_thumb_33ca8feaa9d32b5e7f9337008c64e6f4.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/abc/abc2df2421f9abfb9bd7e5269382853c_thumb_dd115e52fb7f3b6ac7e7174d7666a60f.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/dfb/dfb8b27287006d700b1d5142b4ca9af7_thumb_b7d48a56c832d850157916250f513fbe.jpg</picture>
+    <param name="Артикул">47504</param>
+    <param name="ГТК">47504</param>
+    <param name="СКУ">47504-19</param>
+    <param name ="SkuName">серый</param>
+    <param name="Размер" unit="RU">64</param>
+    <param name="Бренд">Vivienne Mare</param>
+    <vendor>Vivienne Mare</vendor>
+    <param name="Размер российский (для одежды)">64</param>
+    <param name="Сезон">Демисезон</param>
+    <param name="Стиль">коктейльный</param>
+    <param name="Цвет">Серый</param>
+    <param name="Доступность товара">0</param>
+    <param name="Ликвидация">0</param>
+    <param name="Товар в эфире">0</param>
+    <param name="Новинка">0</param>
+    <param name="Динамический бейдж">Акция|ffffff|ff8642</param>
+    <param name="Скидка">60</param>
+    <param name="groupId">871873</param>
+   </offer>
+   <offer id="1113033" group_id="2002713" available="true">
+    <url>https://shop24.com/goods/pplate_parizhskaya_krasota/?COLOR_GROUP=2002713</url>
+    <price>1399</price>
+    <oldprice>3599</oldprice>
+    <currencyId>RUR</currencyId>
+    <name>Платье Парижская Красота</name>
+    <picture>https://www.leomax.ru/upload/iblock/573/57339bdb52db97d7be75f749c3179b9e_thumb_d6d4bf3c18096ee6e41fbdfd9094813b.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/45e/45eb2dfc7e6e7b9c6ca6ca83341255d7_thumb_5cf40a86768e800464d3ca3b2d5795d2.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/f0f/f0f45e0276947474713abb5ce905fdba_thumb_d195d5c5ff8d09681d3d09c7ed9dc943.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/f52/f52fc8661687a226e6cb45424f6efbc4_thumb_f2196dc439ff50d24406184d3bb86440.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/fae/faed246ff37ba22045fa8881644d35b9_thumb_67184551a0f700ddee7d6d40e3521cf5.jpg</picture>
+    <param name="Артикул">47507</param>
+    <param name="ГТК">47507</param>
+    <param name="СКУ">47507-01</param>
+    <param name ="SkuName">серый</param>
+    <param name="Размер" unit="RU">48</param>
+    <param name="Бренд">Vivienne Mare</param>
+    <vendor>Vivienne Mare</vendor>
+    <param name="Размер российский (для одежды)">48</param>
+    <param name="Сезон">Демисезон</param>
+    <param name="Цвет">Серый</param>
+    <param name="Доступность товара">0</param>
+    <param name="Ликвидация">0</param>
+    <param name="Товар в эфире">0</param>
+    <param name="Новинка">0</param>
+    <param name="Динамический бейдж">Акция|ffffff|ff8642</param>
+    <param name="Скидка">61</param>
+    <param name="groupId">1113023</param>
+   </offer>
+   <offer id="1113043" group_id="2002713" available="true">
+    <url>https://shop24.com/goods/pplate_parizhskaya_krasota/?COLOR_GROUP=2002713</url>
+    <price>1399</price>
+    <oldprice>3599</oldprice>
+    <currencyId>RUR</currencyId>
+    <name>Платье Парижская Красота</name>
+    <picture>https://www.leomax.ru/upload/iblock/573/57339bdb52db97d7be75f749c3179b9e_thumb_d6d4bf3c18096ee6e41fbdfd9094813b.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/45e/45eb2dfc7e6e7b9c6ca6ca83341255d7_thumb_5cf40a86768e800464d3ca3b2d5795d2.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/f0f/f0f45e0276947474713abb5ce905fdba_thumb_d195d5c5ff8d09681d3d09c7ed9dc943.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/f52/f52fc8661687a226e6cb45424f6efbc4_thumb_f2196dc439ff50d24406184d3bb86440.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/fae/faed246ff37ba22045fa8881644d35b9_thumb_67184551a0f700ddee7d6d40e3521cf5.jpg</picture>
+    <param name="Артикул">47507</param>
+    <param name="ГТК">47507</param>
+    <param name="СКУ">47507-02</param>
+    <param name ="SkuName">серый</param>
+    <param name="Размер" unit="RU">50</param>
+    <param name="Бренд">Vivienne Mare</param>
+    <vendor>Vivienne Mare</vendor>
+    <param name="Размер российский (для одежды)">50</param>
+    <param name="Сезон">Демисезон</param>
+    <param name="Цвет">Серый</param>
+    <param name="Доступность товара">0</param>
+    <param name="Ликвидация">0</param>
+    <param name="Товар в эфире">0</param>
+    <param name="Новинка">0</param>
+    <param name="Динамический бейдж">Акция|ffffff|ff8642</param>
+    <param name="Скидка">61</param>
+    <param name="groupId">1113023</param>
+   </offer>
+   <offer id="1113113" group_id="2002713" available="false">
+    <url>https://shop24.com/goods/pplate_parizhskaya_krasota/?COLOR_GROUP=2002713</url>
+    <price>1399</price>
+    <oldprice>3599</oldprice>
+    <currencyId>RUR</currencyId>
+    <name>Платье Парижская Красота</name>
+    <picture>https://www.leomax.ru/upload/iblock/573/57339bdb52db97d7be75f749c3179b9e_thumb_d6d4bf3c18096ee6e41fbdfd9094813b.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/45e/45eb2dfc7e6e7b9c6ca6ca83341255d7_thumb_5cf40a86768e800464d3ca3b2d5795d2.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/f0f/f0f45e0276947474713abb5ce905fdba_thumb_d195d5c5ff8d09681d3d09c7ed9dc943.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/f52/f52fc8661687a226e6cb45424f6efbc4_thumb_f2196dc439ff50d24406184d3bb86440.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/fae/faed246ff37ba22045fa8881644d35b9_thumb_67184551a0f700ddee7d6d40e3521cf5.jpg</picture>
+    <param name="Артикул">47507</param>
+    <param name="ГТК">47507</param>
+    <param name="СКУ">47507-09</param>
+    <param name ="SkuName">серый</param>
+    <param name="Размер" unit="RU">64</param>
+    <param name="Бренд">Vivienne Mare</param>
+    <vendor>Vivienne Mare</vendor>
+    <param name="Размер российский (для одежды)">64</param>
+    <param name="Сезон">Демисезон</param>
+    <param name="Цвет">Серый</param>
+    <param name="Доступность товара">0</param>
+    <param name="Ликвидация">0</param>
+    <param name="Товар в эфире">0</param>
+    <param name="Новинка">0</param>
+    <param name="Динамический бейдж">Акция|ffffff|ff8642</param>
+    <param name="Скидка">61</param>
+    <param name="groupId">1113023</param>
+   </offer>
+   <offer id="1113053" group_id="2002713" available="false">
+    <url>https://shop24.com/goods/pplate_parizhskaya_krasota/?COLOR_GROUP=2002713</url>
+    <price>1399</price>
+    <oldprice>3599</oldprice>
+    <currencyId>RUR</currencyId>
+    <name>Платье Парижская Красота</name>
+    <picture>https://www.leomax.ru/upload/iblock/573/57339bdb52db97d7be75f749c3179b9e_thumb_d6d4bf3c18096ee6e41fbdfd9094813b.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/45e/45eb2dfc7e6e7b9c6ca6ca83341255d7_thumb_5cf40a86768e800464d3ca3b2d5795d2.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/f0f/f0f45e0276947474713abb5ce905fdba_thumb_d195d5c5ff8d09681d3d09c7ed9dc943.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/f52/f52fc8661687a226e6cb45424f6efbc4_thumb_f2196dc439ff50d24406184d3bb86440.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/fae/faed246ff37ba22045fa8881644d35b9_thumb_67184551a0f700ddee7d6d40e3521cf5.jpg</picture>
+    <param name="Артикул">47507</param>
+    <param name="ГТК">47507</param>
+    <param name="СКУ">47507-03</param>
+    <param name ="SkuName">серый</param>
+    <param name="Размер" unit="RU">52</param>
+    <param name="Бренд">Vivienne Mare</param>
+    <vendor>Vivienne Mare</vendor>
+    <param name="Размер российский (для одежды)">52</param>
+    <param name="Сезон">Демисезон</param>
+    <param name="Цвет">Серый</param>
+    <param name="Доступность товара">0</param>
+    <param name="Ликвидация">0</param>
+    <param name="Товар в эфире">0</param>
+    <param name="Новинка">0</param>
+    <param name="Динамический бейдж">Акция|ffffff|ff8642</param>
+    <param name="Скидка">61</param>
+    <param name="groupId">1113023</param>
+   </offer>
+   <offer id="1113063" group_id="2002713" available="false">
+    <url>https://shop24.com/goods/pplate_parizhskaya_krasota/?COLOR_GROUP=2002713</url>
+    <price>1399</price>
+    <oldprice>3599</oldprice>
+    <currencyId>RUR</currencyId>
+    <name>Платье Парижская Красота</name>
+    <picture>https://www.leomax.ru/upload/iblock/573/57339bdb52db97d7be75f749c3179b9e_thumb_d6d4bf3c18096ee6e41fbdfd9094813b.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/45e/45eb2dfc7e6e7b9c6ca6ca83341255d7_thumb_5cf40a86768e800464d3ca3b2d5795d2.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/f0f/f0f45e0276947474713abb5ce905fdba_thumb_d195d5c5ff8d09681d3d09c7ed9dc943.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/f52/f52fc8661687a226e6cb45424f6efbc4_thumb_f2196dc439ff50d24406184d3bb86440.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/fae/faed246ff37ba22045fa8881644d35b9_thumb_67184551a0f700ddee7d6d40e3521cf5.jpg</picture>
+    <param name="Артикул">47507</param>
+    <param name="ГТК">47507</param>
+    <param name="СКУ">47507-04</param>
+    <param name ="SkuName">серый</param>
+    <param name="Размер" unit="RU">54</param>
+    <param name="Бренд">Vivienne Mare</param>
+    <vendor>Vivienne Mare</vendor>
+    <param name="Размер российский (для одежды)">54</param>
+    <param name="Сезон">Демисезон</param>
+    <param name="Цвет">Серый</param>
+    <param name="Доступность товара">0</param>
+    <param name="Ликвидация">0</param>
+    <param name="Товар в эфире">0</param>
+    <param name="Новинка">0</param>
+    <param name="Динамический бейдж">Акция|ffffff|ff8642</param>
+    <param name="Скидка">61</param>
+    <param name="groupId">1113023</param>
+   </offer>
+   <offer id="1113073" group_id="2002713" available="false">
+    <url>https://shop24.com/goods/pplate_parizhskaya_krasota/?COLOR_GROUP=2002713</url>
+    <price>1399</price>
+    <oldprice>3599</oldprice>
+    <currencyId>RUR</currencyId>
+    <name>Платье Парижская Красота</name>
+    <picture>https://www.leomax.ru/upload/iblock/573/57339bdb52db97d7be75f749c3179b9e_thumb_d6d4bf3c18096ee6e41fbdfd9094813b.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/45e/45eb2dfc7e6e7b9c6ca6ca83341255d7_thumb_5cf40a86768e800464d3ca3b2d5795d2.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/f0f/f0f45e0276947474713abb5ce905fdba_thumb_d195d5c5ff8d09681d3d09c7ed9dc943.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/f52/f52fc8661687a226e6cb45424f6efbc4_thumb_f2196dc439ff50d24406184d3bb86440.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/fae/faed246ff37ba22045fa8881644d35b9_thumb_67184551a0f700ddee7d6d40e3521cf5.jpg</picture>
+    <param name="Артикул">47507</param>
+    <param name="ГТК">47507</param>
+    <param name="СКУ">47507-05</param>
+    <param name ="SkuName">серый</param>
+    <param name="Размер" unit="RU">56</param>
+    <param name="Бренд">Vivienne Mare</param>
+    <vendor>Vivienne Mare</vendor>
+    <param name="Размер российский (для одежды)">56</param>
+    <param name="Сезон">Демисезон</param>
+    <param name="Цвет">Серый</param>
+    <param name="Доступность товара">0</param>
+    <param name="Ликвидация">0</param>
+    <param name="Товар в эфире">0</param>
+    <param name="Новинка">0</param>
+    <param name="Динамический бейдж">Акция|ffffff|ff8642</param>
+    <param name="Скидка">61</param>
+    <param name="groupId">1113023</param>
+   </offer>
+   <offer id="1113083" group_id="2002713" available="false">
+    <url>https://shop24.com/goods/pplate_parizhskaya_krasota/?COLOR_GROUP=2002713</url>
+    <price>1399</price>
+    <oldprice>3599</oldprice>
+    <currencyId>RUR</currencyId>
+    <name>Платье Парижская Красота</name>
+    <picture>https://www.leomax.ru/upload/iblock/573/57339bdb52db97d7be75f749c3179b9e_thumb_d6d4bf3c18096ee6e41fbdfd9094813b.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/45e/45eb2dfc7e6e7b9c6ca6ca83341255d7_thumb_5cf40a86768e800464d3ca3b2d5795d2.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/f0f/f0f45e0276947474713abb5ce905fdba_thumb_d195d5c5ff8d09681d3d09c7ed9dc943.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/f52/f52fc8661687a226e6cb45424f6efbc4_thumb_f2196dc439ff50d24406184d3bb86440.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/fae/faed246ff37ba22045fa8881644d35b9_thumb_67184551a0f700ddee7d6d40e3521cf5.jpg</picture>
+    <param name="Артикул">47507</param>
+    <param name="ГТК">47507</param>
+    <param name="СКУ">47507-06</param>
+    <param name ="SkuName">серый</param>
+    <param name="Размер" unit="RU">58</param>
+    <param name="Бренд">Vivienne Mare</param>
+    <vendor>Vivienne Mare</vendor>
+    <param name="Размер российский (для одежды)">58</param>
+    <param name="Сезон">Демисезон</param>
+    <param name="Цвет">Серый</param>
+    <param name="Доступность товара">0</param>
+    <param name="Ликвидация">0</param>
+    <param name="Товар в эфире">0</param>
+    <param name="Новинка">0</param>
+    <param name="Динамический бейдж">Акция|ffffff|ff8642</param>
+    <param name="Скидка">61</param>
+    <param name="groupId">1113023</param>
+   </offer>
+   <offer id="1113093" group_id="2002713" available="false">
+    <url>https://shop24.com/goods/pplate_parizhskaya_krasota/?COLOR_GROUP=2002713</url>
+    <price>1399</price>
+    <oldprice>3599</oldprice>
+    <currencyId>RUR</currencyId>
+    <name>Платье Парижская Красота</name>
+    <picture>https://www.leomax.ru/upload/iblock/573/57339bdb52db97d7be75f749c3179b9e_thumb_d6d4bf3c18096ee6e41fbdfd9094813b.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/45e/45eb2dfc7e6e7b9c6ca6ca83341255d7_thumb_5cf40a86768e800464d3ca3b2d5795d2.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/f0f/f0f45e0276947474713abb5ce905fdba_thumb_d195d5c5ff8d09681d3d09c7ed9dc943.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/f52/f52fc8661687a226e6cb45424f6efbc4_thumb_f2196dc439ff50d24406184d3bb86440.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/fae/faed246ff37ba22045fa8881644d35b9_thumb_67184551a0f700ddee7d6d40e3521cf5.jpg</picture>
+    <param name="Артикул">47507</param>
+    <param name="ГТК">47507</param>
+    <param name="СКУ">47507-07</param>
+    <param name ="SkuName">серый</param>
+    <param name="Размер" unit="RU">60</param>
+    <param name="Бренд">Vivienne Mare</param>
+    <vendor>Vivienne Mare</vendor>
+    <param name="Размер российский (для одежды)">60</param>
+    <param name="Сезон">Демисезон</param>
+    <param name="Цвет">Серый</param>
+    <param name="Доступность товара">0</param>
+    <param name="Ликвидация">0</param>
+    <param name="Товар в эфире">0</param>
+    <param name="Новинка">0</param>
+    <param name="Динамический бейдж">Акция|ffffff|ff8642</param>
+    <param name="Скидка">61</param>
+    <param name="groupId">1113023</param>
+   </offer>
+   <offer id="1113103" group_id="2002713" available="false">
+    <url>https://shop24.com/goods/pplate_parizhskaya_krasota/?COLOR_GROUP=2002713</url>
+    <price>1399</price>
+    <oldprice>3599</oldprice>
+    <currencyId>RUR</currencyId>
+    <name>Платье Парижская Красота</name>
+    <picture>https://www.leomax.ru/upload/iblock/573/57339bdb52db97d7be75f749c3179b9e_thumb_d6d4bf3c18096ee6e41fbdfd9094813b.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/45e/45eb2dfc7e6e7b9c6ca6ca83341255d7_thumb_5cf40a86768e800464d3ca3b2d5795d2.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/f0f/f0f45e0276947474713abb5ce905fdba_thumb_d195d5c5ff8d09681d3d09c7ed9dc943.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/f52/f52fc8661687a226e6cb45424f6efbc4_thumb_f2196dc439ff50d24406184d3bb86440.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/fae/faed246ff37ba22045fa8881644d35b9_thumb_67184551a0f700ddee7d6d40e3521cf5.jpg</picture>
+    <param name="Артикул">47507</param>
+    <param name="ГТК">47507</param>
+    <param name="СКУ">47507-08</param>
+    <param name ="SkuName">серый</param>
+    <param name="Размер" unit="RU">62</param>
+    <param name="Бренд">Vivienne Mare</param>
+    <vendor>Vivienne Mare</vendor>
+    <param name="Размер российский (для одежды)">62</param>
+    <param name="Сезон">Демисезон</param>
+    <param name="Цвет">Серый</param>
+    <param name="Доступность товара">0</param>
+    <param name="Ликвидация">0</param>
+    <param name="Товар в эфире">0</param>
+    <param name="Новинка">0</param>
+    <param name="Динамический бейдж">Акция|ffffff|ff8642</param>
+    <param name="Скидка">61</param>
+    <param name="groupId">1113023</param>
+   </offer>
+   <offer id="1229733" group_id="2006702" available="true">
+    <url>https://shop24.com/goods/pplate_charuyushchaya_krasota/?COLOR_GROUP=2006702</url>
+    <price>1399</price>
+    <oldprice>3399</oldprice>
+    <currencyId>RUR</currencyId>
+    <name>Платье Чарующая Красота</name>
+    <picture>https://www.leomax.ru/upload/iblock/1f3/1f377353f947db323ad668e0a365383f_thumb_021d85fd8f15524f426db63ff1bfb4ba.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/bb8/bb8a68a11ad765136b5ae5c55c7caef2_thumb_de03d21d33ff3b74dcd7d258a73f3359.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/ecf/ecfb90a4c0dfb780818ce6641f6d923c_thumb_efad6c38ce7c075837862b3b71879e80.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/f44/f44b4f8c841d55a8f5c699a07f17852e_thumb_3aa608fb1c4c06ff11e2ad93779ba57d.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/359/359f3ebf63df6bd8e7e0ee5c6406885b_thumb_b309e5406b3c2eca76489a1ef6329b39.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/45e/45e682b564f70ebff80a3f0687597550_thumb_ba802aec0b9ec5218827c66036a8e3da.jpg</picture>
+    <param name="Артикул">48822</param>
+    <param name="ГТК">48822</param>
+    <param name="СКУ">48822-11</param>
+    <param name ="SkuName">голубой</param>
+    <param name="Размер" unit="RU">48</param>
+    <param name="Бренд">Vivienne Mare</param>
+    <vendor>Vivienne Mare</vendor>
+    <param name="Размер российский (для одежды)">48</param>
+    <param name="Сезон">Лето</param>
+    <param name="Цвет">Голубой</param>
+    <param name="Доступность товара">0</param>
+    <param name="Ликвидация">0</param>
+    <param name="Товар в эфире">0</param>
+    <param name="Новинка">0</param>
+    <param name="Рейтинг">5</param>
+    <param name="Количество отзывов">8</param>
+    <param name="Динамический бейдж">Акция|ffffff|ff8642</param>
+    <param name="Скидка">59</param>
+    <param name="groupId">1229633</param>
+   </offer>
+   <offer id="1229743" group_id="2006702" available="false">
+    <url>https://shop24.com/goods/pplate_charuyushchaya_krasota/?COLOR_GROUP=2006702</url>
+    <price>1399</price>
+    <oldprice>3399</oldprice>
+    <currencyId>RUR</currencyId>
+    <name>Платье Чарующая Красота</name>
+    <picture>https://www.leomax.ru/upload/iblock/1f3/1f377353f947db323ad668e0a365383f_thumb_021d85fd8f15524f426db63ff1bfb4ba.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/bb8/bb8a68a11ad765136b5ae5c55c7caef2_thumb_de03d21d33ff3b74dcd7d258a73f3359.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/ecf/ecfb90a4c0dfb780818ce6641f6d923c_thumb_efad6c38ce7c075837862b3b71879e80.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/f44/f44b4f8c841d55a8f5c699a07f17852e_thumb_3aa608fb1c4c06ff11e2ad93779ba57d.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/359/359f3ebf63df6bd8e7e0ee5c6406885b_thumb_b309e5406b3c2eca76489a1ef6329b39.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/45e/45e682b564f70ebff80a3f0687597550_thumb_ba802aec0b9ec5218827c66036a8e3da.jpg</picture>
+    <param name="Артикул">48822</param>
+    <param name="ГТК">48822</param>
+    <param name="СКУ">48822-12</param>
+    <param name ="SkuName">голубой</param>
+    <param name="Размер" unit="RU">50</param>
+    <param name="Бренд">Vivienne Mare</param>
+    <vendor>Vivienne Mare</vendor>
+    <param name="Размер российский (для одежды)">50</param>
+    <param name="Сезон">Лето</param>
+    <param name="Цвет">Голубой</param>
+    <param name="Доступность товара">0</param>
+    <param name="Ликвидация">0</param>
+    <param name="Товар в эфире">0</param>
+    <param name="Новинка">0</param>
+    <param name="Рейтинг">5</param>
+    <param name="Количество отзывов">8</param>
+    <param name="Динамический бейдж">Акция|ffffff|ff8642</param>
+    <param name="Скидка">59</param>
+    <param name="groupId">1229633</param>
+   </offer>
+   <offer id="1229883" group_id="2006693" available="false">
+    <url>https://shop24.com/goods/pplate_charuyushchaya_krasota/?COLOR_GROUP=2006693</url>
+    <price>1399</price>
+    <oldprice>3399</oldprice>
+    <currencyId>RUR</currencyId>
+    <name>Платье Чарующая Красота</name>
+    <picture>https://www.leomax.ru/upload/iblock/606/60697186990cf22a81064a7bf052887a_thumb_a9064dbad6310f08999cf688ca9c460d.jpg</picture>
+    <param name="Артикул">48822</param>
+    <param name="ГТК">48822</param>
+    <param name="СКУ">48822-57</param>
+    <param name ="SkuName">лавандовый</param>
+    <param name="Размер" unit="RU">60</param>
+    <param name="Бренд">Vivienne Mare</param>
+    <vendor>Vivienne Mare</vendor>
+    <param name="Размер российский (для одежды)">60</param>
+    <param name="Сезон">Лето</param>
+    <param name="Цвет">Фиолетовый</param>
+    <param name="Доступность товара">0</param>
+    <param name="Ликвидация">0</param>
+    <param name="Товар в эфире">0</param>
+    <param name="Новинка">0</param>
+    <param name="Рейтинг">5</param>
+    <param name="Количество отзывов">8</param>
+    <param name="Динамический бейдж">Акция|ffffff|ff8642</param>
+    <param name="Скидка">59</param>
+    <param name="groupId">1229633</param>
+   </offer>
+   <offer id="1230043" group_id="2006701" available="false">
+    <url>https://shop24.com/goods/pplate_charuyushchaya_krasota/?COLOR_GROUP=2006701</url>
+    <price>1399</price>
+    <oldprice>3399</oldprice>
+    <currencyId>RUR</currencyId>
+    <name>Платье Чарующая Красота</name>
+    <picture>https://www.leomax.ru/upload/iblock/89e/89ef5f6578e8f688f2ada709d56a0819_thumb_367f9384456eaf91493bb6ec42c00a59.jpg</picture>
+    <param name="Артикул">48822</param>
+    <param name="ГТК">48822</param>
+    <param name="СКУ">48822-45</param>
+    <param name ="SkuName">зеленый</param>
+    <param name="Размер" unit="RU">56</param>
+    <param name="Бренд">Vivienne Mare</param>
+    <vendor>Vivienne Mare</vendor>
+    <param name="Размер российский (для одежды)">56</param>
+    <param name="Сезон">Лето</param>
+    <param name="Цвет">Зеленый</param>
+    <param name="Доступность товара">0</param>
+    <param name="Ликвидация">0</param>
+    <param name="Товар в эфире">0</param>
+    <param name="Новинка">0</param>
+    <param name="Рейтинг">5</param>
+    <param name="Количество отзывов">8</param>
+    <param name="Динамический бейдж">Акция|ffffff|ff8642</param>
+    <param name="Скидка">59</param>
+    <param name="groupId">1229633</param>
+   </offer>
+   <offer id="1594483" group_id="2006695" available="false">
+    <url>https://shop24.com/goods/pplate_charuyushchaya_krasota/?COLOR_GROUP=2006695</url>
+    <price>1399</price>
+    <oldprice>3399</oldprice>
+    <currencyId>RUR</currencyId>
+    <name>Платье Чарующая Красота</name>
+    <picture>https://www.leomax.ru/upload/iblock/bf2/bf2e3d3619b341c053683ffc94e3a3c1_thumb_c45c4469b389cdce5a043e55de66e173.jpg</picture>
+    <param name="Артикул">48822</param>
+    <param name="ГТК">48822</param>
+    <param name="СКУ">48822-34</param>
+    <param name ="SkuName">вишневый</param>
+    <param name="Размер" unit="RU">54</param>
+    <param name="Бренд">Vivienne Mare</param>
+    <vendor>Vivienne Mare</vendor>
+    <param name="Размер российский (для одежды)">54</param>
+    <param name="Сезон">Лето</param>
+    <param name="Цвет">Бордовый</param>
+    <param name="Оттенок">Вишневый</param>
+    <param name="Доступность товара">0</param>
+    <param name="Ликвидация">0</param>
+    <param name="Товар в эфире">0</param>
+    <param name="Новинка">0</param>
+    <param name="Рейтинг">5</param>
+    <param name="Количество отзывов">8</param>
+    <param name="Динамический бейдж">Акция|ffffff|ff8642</param>
+    <param name="Скидка">59</param>
+    <param name="groupId">1229633</param>
+   </offer>
+   <offer id="1229683" group_id="2006691" available="false">
+    <url>https://shop24.com/goods/pplate_charuyushchaya_krasota/?COLOR_GROUP=2006691</url>
+    <price>1399</price>
+    <oldprice>3399</oldprice>
+    <currencyId>RUR</currencyId>
+    <name>Платье Чарующая Красота</name>
+    <picture>https://www.leomax.ru/upload/iblock/e4c/e4ce805516722ae2001fa32fed244e86_thumb_880a0818457a68cdee643f6a039d39ab.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/d4c/d4c00249009e5230ffe0d420ae0480f1_thumb_b97410afda0cb908dd1b599163e779f0.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/27c/27c2281f4d707d1d147d0b00f483553f_thumb_9a2cb884ec8ab1cec2fed7b22b2cd402.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/f66/f66a1f546fb11c65f7c9aa0681251bfe_thumb_f63bfb9886201ee8b548c27cd049d1c1.jpg</picture>
+    <param name="Артикул">48822</param>
+    <param name="ГТК">48822</param>
+    <param name="СКУ">48822-65</param>
+    <param name ="SkuName">сиреневый</param>
+    <param name="Размер" unit="RU">56</param>
+    <param name="Бренд">Vivienne Mare</param>
+    <vendor>Vivienne Mare</vendor>
+    <param name="Размер российский (для одежды)">56</param>
+    <param name="Сезон">Лето</param>
+    <param name="Цвет">Фиолетовый</param>
+    <param name="Оттенок">Сиреневый</param>
+    <param name="Доступность товара">0</param>
+    <param name="Ликвидация">0</param>
+    <param name="Товар в эфире">0</param>
+    <param name="Новинка">0</param>
+    <param name="Рейтинг">5</param>
+    <param name="Количество отзывов">8</param>
+    <param name="Динамический бейдж">Акция|ffffff|ff8642</param>
+    <param name="Скидка">59</param>
+    <param name="groupId">1229633</param>
+   </offer>
+   <offer id="1229803" group_id="2006702" available="false">
+    <url>https://shop24.com/goods/pplate_charuyushchaya_krasota/?COLOR_GROUP=2006702</url>
+    <price>1399</price>
+    <oldprice>3399</oldprice>
+    <currencyId>RUR</currencyId>
+    <name>Платье Чарующая Красота</name>
+    <picture>https://www.leomax.ru/upload/iblock/1f3/1f377353f947db323ad668e0a365383f_thumb_021d85fd8f15524f426db63ff1bfb4ba.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/bb8/bb8a68a11ad765136b5ae5c55c7caef2_thumb_de03d21d33ff3b74dcd7d258a73f3359.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/ecf/ecfb90a4c0dfb780818ce6641f6d923c_thumb_efad6c38ce7c075837862b3b71879e80.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/f44/f44b4f8c841d55a8f5c699a07f17852e_thumb_3aa608fb1c4c06ff11e2ad93779ba57d.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/359/359f3ebf63df6bd8e7e0ee5c6406885b_thumb_b309e5406b3c2eca76489a1ef6329b39.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/45e/45e682b564f70ebff80a3f0687597550_thumb_ba802aec0b9ec5218827c66036a8e3da.jpg</picture>
+    <param name="Артикул">48822</param>
+    <param name="ГТК">48822</param>
+    <param name="СКУ">48822-18</param>
+    <param name ="SkuName">голубой</param>
+    <param name="Размер" unit="RU">62</param>
+    <param name="Бренд">Vivienne Mare</param>
+    <vendor>Vivienne Mare</vendor>
+    <param name="Размер российский (для одежды)">62</param>
+    <param name="Сезон">Лето</param>
+    <param name="Цвет">Голубой</param>
+    <param name="Доступность товара">0</param>
+    <param name="Ликвидация">0</param>
+    <param name="Товар в эфире">0</param>
+    <param name="Новинка">0</param>
+    <param name="Рейтинг">5</param>
+    <param name="Количество отзывов">8</param>
+    <param name="Динамический бейдж">Акция|ffffff|ff8642</param>
+    <param name="Скидка">59</param>
+    <param name="groupId">1229633</param>
+   </offer>
+   <offer id="1229943" group_id="2006696" available="false">
+    <url>https://shop24.com/goods/pplate_charuyushchaya_krasota/?COLOR_GROUP=2006696</url>
+    <price>1399</price>
+    <oldprice>3399</oldprice>
+    <currencyId>RUR</currencyId>
+    <name>Платье Чарующая Красота</name>
+    <picture>https://www.leomax.ru/upload/iblock/13e/13e6aa15f3bb96762564bf33d31639d8_thumb_72e5ef5988e5978522eb77e5914e2655.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/c61/c6198fd3089b7e8bb2f9ae1a4ef11358_thumb_7c4cfa9bfaedbf66873405934162ad6e.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/0a2/0a253580d64f8f509990d7b20cff9a51_thumb_2543c42e41ae83eaa4104a738f60bc85.jpg</picture>
+    <param name="Артикул">48822</param>
+    <param name="ГТК">48822</param>
+    <param name="СКУ">48822-04</param>
+    <param name ="SkuName">хаки</param>
+    <param name="Размер" unit="RU">54</param>
+    <param name="Бренд">Vivienne Mare</param>
+    <vendor>Vivienne Mare</vendor>
+    <param name="Размер российский (для одежды)">54</param>
+    <param name="Сезон">Лето</param>
+    <param name="Цвет">Зеленый</param>
+    <param name="Оттенок">Хаки</param>
+    <param name="Доступность товара">0</param>
+    <param name="Ликвидация">0</param>
+    <param name="Товар в эфире">0</param>
+    <param name="Новинка">0</param>
+    <param name="Рейтинг">5</param>
+    <param name="Количество отзывов">8</param>
+    <param name="Динамический бейдж">Акция|ffffff|ff8642</param>
+    <param name="Скидка">59</param>
+    <param name="groupId">1229633</param>
+   </offer>
+   <offer id="1230233" group_id="2006686" available="false">
+    <url>https://shop24.com/goods/pplate_charuyushchaya_krasota/?COLOR_GROUP=2006686</url>
+    <price>1399</price>
+    <oldprice>3399</oldprice>
+    <currencyId>RUR</currencyId>
+    <name>Платье Чарующая Красота</name>
+    <picture>https://www.leomax.ru/upload/iblock/155/15541b811e83f7cef8b712e280a2586a_thumb_70c7067d82660bea6b2571ad214cd597.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/ae0/ae0c92ec2d56bfe4f024886471a13f45_thumb_c10eeb03322dd462f096177130145cb6.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/91f/91f8c36a8eb3f9f287515c3d3859fe65_thumb_c5adbd423dd6b40fbd82c0157d49cfee.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/044/044aec4b2e3c1455659f95891153528a_thumb_f76d4086e3e1398a665bebc38d5a500b.jpg</picture>
+    <param name="Артикул">48822</param>
+    <param name="ГТК">48822</param>
+    <param name="СКУ">48822-26</param>
+    <param name ="SkuName">горчичный</param>
+    <param name="Размер" unit="RU">58</param>
+    <param name="Бренд">Vivienne Mare</param>
+    <vendor>Vivienne Mare</vendor>
+    <param name="Размер российский (для одежды)">58</param>
+    <param name="Сезон">Лето</param>
+    <param name="Цвет">Желтый</param>
+    <param name="Оттенок">Горчичный</param>
+    <param name="Доступность товара">0</param>
+    <param name="Ликвидация">0</param>
+    <param name="Товар в эфире">0</param>
+    <param name="Новинка">0</param>
+    <param name="Рейтинг">5</param>
+    <param name="Количество отзывов">8</param>
+    <param name="Динамический бейдж">Акция|ffffff|ff8642</param>
+    <param name="Скидка">59</param>
+    <param name="groupId">1229633</param>
+   </offer>
+   <offer id="1229813" group_id="2006702" available="false">
+    <url>https://shop24.com/goods/pplate_charuyushchaya_krasota/?COLOR_GROUP=2006702</url>
+    <price>1399</price>
+    <oldprice>3399</oldprice>
+    <currencyId>RUR</currencyId>
+    <name>Платье Чарующая Красота</name>
+    <picture>https://www.leomax.ru/upload/iblock/1f3/1f377353f947db323ad668e0a365383f_thumb_021d85fd8f15524f426db63ff1bfb4ba.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/bb8/bb8a68a11ad765136b5ae5c55c7caef2_thumb_de03d21d33ff3b74dcd7d258a73f3359.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/ecf/ecfb90a4c0dfb780818ce6641f6d923c_thumb_efad6c38ce7c075837862b3b71879e80.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/f44/f44b4f8c841d55a8f5c699a07f17852e_thumb_3aa608fb1c4c06ff11e2ad93779ba57d.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/359/359f3ebf63df6bd8e7e0ee5c6406885b_thumb_b309e5406b3c2eca76489a1ef6329b39.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/45e/45e682b564f70ebff80a3f0687597550_thumb_ba802aec0b9ec5218827c66036a8e3da.jpg</picture>
+    <param name="Артикул">48822</param>
+    <param name="ГТК">48822</param>
+    <param name="СКУ">48822-19</param>
+    <param name ="SkuName">голубой</param>
+    <param name="Размер" unit="RU">64</param>
+    <param name="Бренд">Vivienne Mare</param>
+    <vendor>Vivienne Mare</vendor>
+    <param name="Размер российский (для одежды)">64</param>
+    <param name="Сезон">Лето</param>
+    <param name="Цвет">Голубой</param>
+    <param name="Доступность товара">0</param>
+    <param name="Ликвидация">0</param>
+    <param name="Товар в эфире">0</param>
+    <param name="Новинка">0</param>
+    <param name="Рейтинг">5</param>
+    <param name="Количество отзывов">8</param>
+    <param name="Динамический бейдж">Акция|ffffff|ff8642</param>
+    <param name="Скидка">59</param>
+    <param name="groupId">1229633</param>
+   </offer>
+   <offer id="1229963" group_id="2006696" available="false">
+    <url>https://shop24.com/goods/pplate_charuyushchaya_krasota/?COLOR_GROUP=2006696</url>
+    <price>1399</price>
+    <oldprice>3399</oldprice>
+    <currencyId>RUR</currencyId>
+    <name>Платье Чарующая Красота</name>
+    <picture>https://www.leomax.ru/upload/iblock/13e/13e6aa15f3bb96762564bf33d31639d8_thumb_72e5ef5988e5978522eb77e5914e2655.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/c61/c6198fd3089b7e8bb2f9ae1a4ef11358_thumb_7c4cfa9bfaedbf66873405934162ad6e.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/0a2/0a253580d64f8f509990d7b20cff9a51_thumb_2543c42e41ae83eaa4104a738f60bc85.jpg</picture>
+    <param name="Артикул">48822</param>
+    <param name="ГТК">48822</param>
+    <param name="СКУ">48822-06</param>
+    <param name ="SkuName">хаки</param>
+    <param name="Размер" unit="RU">58</param>
+    <param name="Бренд">Vivienne Mare</param>
+    <vendor>Vivienne Mare</vendor>
+    <param name="Размер российский (для одежды)">58</param>
+    <param name="Сезон">Лето</param>
+    <param name="Цвет">Зеленый</param>
+    <param name="Оттенок">Хаки</param>
+    <param name="Доступность товара">0</param>
+    <param name="Ликвидация">0</param>
+    <param name="Товар в эфире">0</param>
+    <param name="Новинка">0</param>
+    <param name="Рейтинг">5</param>
+    <param name="Количество отзывов">8</param>
+    <param name="Динамический бейдж">Акция|ffffff|ff8642</param>
+    <param name="Скидка">59</param>
+    <param name="groupId">1229633</param>
+   </offer>
+   <offer id="1230243" group_id="2006686" available="false">
+    <url>https://shop24.com/goods/pplate_charuyushchaya_krasota/?COLOR_GROUP=2006686</url>
+    <price>1399</price>
+    <oldprice>3399</oldprice>
+    <currencyId>RUR</currencyId>
+    <name>Платье Чарующая Красота</name>
+    <picture>https://www.leomax.ru/upload/iblock/155/15541b811e83f7cef8b712e280a2586a_thumb_70c7067d82660bea6b2571ad214cd597.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/ae0/ae0c92ec2d56bfe4f024886471a13f45_thumb_c10eeb03322dd462f096177130145cb6.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/91f/91f8c36a8eb3f9f287515c3d3859fe65_thumb_c5adbd423dd6b40fbd82c0157d49cfee.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/044/044aec4b2e3c1455659f95891153528a_thumb_f76d4086e3e1398a665bebc38d5a500b.jpg</picture>
+    <param name="Артикул">48822</param>
+    <param name="ГТК">48822</param>
+    <param name="СКУ">48822-27</param>
+    <param name ="SkuName">горчичный</param>
+    <param name="Размер" unit="RU">60</param>
+    <param name="Бренд">Vivienne Mare</param>
+    <vendor>Vivienne Mare</vendor>
+    <param name="Размер российский (для одежды)">60</param>
+    <param name="Сезон">Лето</param>
+    <param name="Цвет">Желтый</param>
+    <param name="Оттенок">Горчичный</param>
+    <param name="Доступность товара">0</param>
+    <param name="Ликвидация">0</param>
+    <param name="Товар в эфире">0</param>
+    <param name="Новинка">0</param>
+    <param name="Рейтинг">5</param>
+    <param name="Количество отзывов">8</param>
+    <param name="Динамический бейдж">Акция|ffffff|ff8642</param>
+    <param name="Скидка">59</param>
+    <param name="groupId">1229633</param>
+   </offer>
+   <offer id="1229753" group_id="2006702" available="false">
+    <url>https://shop24.com/goods/pplate_charuyushchaya_krasota/?COLOR_GROUP=2006702</url>
+    <price>1399</price>
+    <oldprice>3399</oldprice>
+    <currencyId>RUR</currencyId>
+    <name>Платье Чарующая Красота</name>
+    <picture>https://www.leomax.ru/upload/iblock/1f3/1f377353f947db323ad668e0a365383f_thumb_021d85fd8f15524f426db63ff1bfb4ba.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/bb8/bb8a68a11ad765136b5ae5c55c7caef2_thumb_de03d21d33ff3b74dcd7d258a73f3359.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/ecf/ecfb90a4c0dfb780818ce6641f6d923c_thumb_efad6c38ce7c075837862b3b71879e80.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/f44/f44b4f8c841d55a8f5c699a07f17852e_thumb_3aa608fb1c4c06ff11e2ad93779ba57d.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/359/359f3ebf63df6bd8e7e0ee5c6406885b_thumb_b309e5406b3c2eca76489a1ef6329b39.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/45e/45e682b564f70ebff80a3f0687597550_thumb_ba802aec0b9ec5218827c66036a8e3da.jpg</picture>
+    <param name="Артикул">48822</param>
+    <param name="ГТК">48822</param>
+    <param name="СКУ">48822-13</param>
+    <param name ="SkuName">голубой</param>
+    <param name="Размер" unit="RU">52</param>
+    <param name="Бренд">Vivienne Mare</param>
+    <vendor>Vivienne Mare</vendor>
+    <param name="Размер российский (для одежды)">52</param>
+    <param name="Сезон">Лето</param>
+    <param name="Цвет">Голубой</param>
+    <param name="Доступность товара">0</param>
+    <param name="Ликвидация">0</param>
+    <param name="Товар в эфире">0</param>
+    <param name="Новинка">0</param>
+    <param name="Рейтинг">5</param>
+    <param name="Количество отзывов">8</param>
+    <param name="Динамический бейдж">Акция|ffffff|ff8642</param>
+    <param name="Скидка">59</param>
+    <param name="groupId">1229633</param>
+   </offer>
+   <offer id="1229893" group_id="2006693" available="false">
+    <url>https://shop24.com/goods/pplate_charuyushchaya_krasota/?COLOR_GROUP=2006693</url>
+    <price>1399</price>
+    <oldprice>3399</oldprice>
+    <currencyId>RUR</currencyId>
+    <name>Платье Чарующая Красота</name>
+    <picture>https://www.leomax.ru/upload/iblock/606/60697186990cf22a81064a7bf052887a_thumb_a9064dbad6310f08999cf688ca9c460d.jpg</picture>
+    <param name="Артикул">48822</param>
+    <param name="ГТК">48822</param>
+    <param name="СКУ">48822-58</param>
+    <param name ="SkuName">фиолетовый</param>
+    <param name="Размер" unit="RU">62</param>
+    <param name="Бренд">Vivienne Mare</param>
+    <vendor>Vivienne Mare</vendor>
+    <param name="Размер российский (для одежды)">62</param>
+    <param name="Сезон">Лето</param>
+    <param name="Цвет">Фиолетовый</param>
+    <param name="Доступность товара">0</param>
+    <param name="Ликвидация">0</param>
+    <param name="Товар в эфире">0</param>
+    <param name="Новинка">0</param>
+    <param name="Рейтинг">5</param>
+    <param name="Количество отзывов">8</param>
+    <param name="Динамический бейдж">Акция|ffffff|ff8642</param>
+    <param name="Скидка">59</param>
+    <param name="groupId">1229633</param>
+   </offer>
+   <offer id="1230053" group_id="2006701" available="false">
+    <url>https://shop24.com/goods/pplate_charuyushchaya_krasota/?COLOR_GROUP=2006701</url>
+    <price>1399</price>
+    <oldprice>3399</oldprice>
+    <currencyId>RUR</currencyId>
+    <name>Платье Чарующая Красота</name>
+    <picture>https://www.leomax.ru/upload/iblock/89e/89ef5f6578e8f688f2ada709d56a0819_thumb_367f9384456eaf91493bb6ec42c00a59.jpg</picture>
+    <param name="Артикул">48822</param>
+    <param name="ГТК">48822</param>
+    <param name="СКУ">48822-46</param>
+    <param name ="SkuName">зеленый</param>
+    <param name="Размер" unit="RU">58</param>
+    <param name="Бренд">Vivienne Mare</param>
+    <vendor>Vivienne Mare</vendor>
+    <param name="Размер российский (для одежды)">58</param>
+    <param name="Сезон">Лето</param>
+    <param name="Цвет">Зеленый</param>
+    <param name="Доступность товара">0</param>
+    <param name="Ликвидация">0</param>
+    <param name="Товар в эфире">0</param>
+    <param name="Новинка">0</param>
+    <param name="Рейтинг">5</param>
+    <param name="Количество отзывов">8</param>
+    <param name="Динамический бейдж">Акция|ffffff|ff8642</param>
+    <param name="Скидка">59</param>
+    <param name="groupId">1229633</param>
+   </offer>
+   <offer id="1594493" group_id="2006695" available="false">
+    <url>https://shop24.com/goods/pplate_charuyushchaya_krasota/?COLOR_GROUP=2006695</url>
+    <price>1399</price>
+    <oldprice>3399</oldprice>
+    <currencyId>RUR</currencyId>
+    <name>Платье Чарующая Красота</name>
+    <picture>https://www.leomax.ru/upload/iblock/bf2/bf2e3d3619b341c053683ffc94e3a3c1_thumb_c45c4469b389cdce5a043e55de66e173.jpg</picture>
+    <param name="Артикул">48822</param>
+    <param name="ГТК">48822</param>
+    <param name="СКУ">48822-35</param>
+    <param name ="SkuName">вишневый</param>
+    <param name="Размер" unit="RU">56</param>
+    <param name="Бренд">Vivienne Mare</param>
+    <vendor>Vivienne Mare</vendor>
+    <param name="Размер российский (для одежды)">56</param>
+    <param name="Сезон">Лето</param>
+    <param name="Цвет">Бордовый</param>
+    <param name="Оттенок">Вишневый</param>
+    <param name="Доступность товара">0</param>
+    <param name="Ликвидация">0</param>
+    <param name="Товар в эфире">0</param>
+    <param name="Новинка">0</param>
+    <param name="Рейтинг">5</param>
+    <param name="Количество отзывов">8</param>
+    <param name="Динамический бейдж">Акция|ffffff|ff8642</param>
+    <param name="Скидка">59</param>
+    <param name="groupId">1229633</param>
+   </offer>
+   <offer id="1229693" group_id="2006691" available="false">
+    <url>https://shop24.com/goods/pplate_charuyushchaya_krasota/?COLOR_GROUP=2006691</url>
+    <price>1399</price>
+    <oldprice>3399</oldprice>
+    <currencyId>RUR</currencyId>
+    <name>Платье Чарующая Красота</name>
+    <picture>https://www.leomax.ru/upload/iblock/e4c/e4ce805516722ae2001fa32fed244e86_thumb_880a0818457a68cdee643f6a039d39ab.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/d4c/d4c00249009e5230ffe0d420ae0480f1_thumb_b97410afda0cb908dd1b599163e779f0.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/27c/27c2281f4d707d1d147d0b00f483553f_thumb_9a2cb884ec8ab1cec2fed7b22b2cd402.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/f66/f66a1f546fb11c65f7c9aa0681251bfe_thumb_f63bfb9886201ee8b548c27cd049d1c1.jpg</picture>
+    <param name="Артикул">48822</param>
+    <param name="ГТК">48822</param>
+    <param name="СКУ">48822-66</param>
+    <param name ="SkuName">сиреневый</param>
+    <param name="Размер" unit="RU">58</param>
+    <param name="Бренд">Vivienne Mare</param>
+    <vendor>Vivienne Mare</vendor>
+    <param name="Размер российский (для одежды)">58</param>
+    <param name="Сезон">Лето</param>
+    <param name="Цвет">Фиолетовый</param>
+    <param name="Оттенок">Сиреневый</param>
+    <param name="Доступность товара">0</param>
+    <param name="Ликвидация">0</param>
+    <param name="Товар в эфире">0</param>
+    <param name="Новинка">0</param>
+    <param name="Рейтинг">5</param>
+    <param name="Количество отзывов">8</param>
+    <param name="Динамический бейдж">Акция|ffffff|ff8642</param>
+    <param name="Скидка">59</param>
+    <param name="groupId">1229633</param>
+   </offer>
+   <offer id="1230073" group_id="2006701" available="false">
+    <url>https://shop24.com/goods/pplate_charuyushchaya_krasota/?COLOR_GROUP=2006701</url>
+    <price>1399</price>
+    <oldprice>3399</oldprice>
+    <currencyId>RUR</currencyId>
+    <name>Платье Чарующая Красота</name>
+    <picture>https://www.leomax.ru/upload/iblock/89e/89ef5f6578e8f688f2ada709d56a0819_thumb_367f9384456eaf91493bb6ec42c00a59.jpg</picture>
+    <param name="Артикул">48822</param>
+    <param name="ГТК">48822</param>
+    <param name="СКУ">48822-48</param>
+    <param name ="SkuName">зеленый</param>
+    <param name="Размер" unit="RU">62</param>
+    <param name="Бренд">Vivienne Mare</param>
+    <vendor>Vivienne Mare</vendor>
+    <param name="Размер российский (для одежды)">62</param>
+    <param name="Сезон">Лето</param>
+    <param name="Цвет">Зеленый</param>
+    <param name="Доступность товара">0</param>
+    <param name="Ликвидация">0</param>
+    <param name="Товар в эфире">0</param>
+    <param name="Новинка">0</param>
+    <param name="Рейтинг">5</param>
+    <param name="Количество отзывов">8</param>
+    <param name="Динамический бейдж">Акция|ffffff|ff8642</param>
+    <param name="Скидка">59</param>
+    <param name="groupId">1229633</param>
+   </offer>
+   <offer id="1594503" group_id="2006695" available="false">
+    <url>https://shop24.com/goods/pplate_charuyushchaya_krasota/?COLOR_GROUP=2006695</url>
+    <price>1399</price>
+    <oldprice>3399</oldprice>
+    <currencyId>RUR</currencyId>
+    <name>Платье Чарующая Красота</name>
+    <picture>https://www.leomax.ru/upload/iblock/bf2/bf2e3d3619b341c053683ffc94e3a3c1_thumb_c45c4469b389cdce5a043e55de66e173.jpg</picture>
+    <param name="Артикул">48822</param>
+    <param name="ГТК">48822</param>
+    <param name="СКУ">48822-36</param>
+    <param name ="SkuName">вишневый</param>
+    <param name="Размер" unit="RU">58</param>
+    <param name="Бренд">Vivienne Mare</param>
+    <vendor>Vivienne Mare</vendor>
+    <param name="Размер российский (для одежды)">58</param>
+    <param name="Сезон">Лето</param>
+    <param name="Цвет">Бордовый</param>
+    <param name="Оттенок">Вишневый</param>
+    <param name="Доступность товара">0</param>
+    <param name="Ликвидация">0</param>
+    <param name="Товар в эфире">0</param>
+    <param name="Новинка">0</param>
+    <param name="Рейтинг">5</param>
+    <param name="Количество отзывов">8</param>
+    <param name="Динамический бейдж">Акция|ffffff|ff8642</param>
+    <param name="Скидка">59</param>
+    <param name="groupId">1229633</param>
+   </offer>
+   <offer id="1229703" group_id="2006691" available="false">
+    <url>https://shop24.com/goods/pplate_charuyushchaya_krasota/?COLOR_GROUP=2006691</url>
+    <price>1399</price>
+    <oldprice>3399</oldprice>
+    <currencyId>RUR</currencyId>
+    <name>Платье Чарующая Красота</name>
+    <picture>https://www.leomax.ru/upload/iblock/e4c/e4ce805516722ae2001fa32fed244e86_thumb_880a0818457a68cdee643f6a039d39ab.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/d4c/d4c00249009e5230ffe0d420ae0480f1_thumb_b97410afda0cb908dd1b599163e779f0.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/27c/27c2281f4d707d1d147d0b00f483553f_thumb_9a2cb884ec8ab1cec2fed7b22b2cd402.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/f66/f66a1f546fb11c65f7c9aa0681251bfe_thumb_f63bfb9886201ee8b548c27cd049d1c1.jpg</picture>
+    <param name="Артикул">48822</param>
+    <param name="ГТК">48822</param>
+    <param name="СКУ">48822-67</param>
+    <param name ="SkuName">сиреневый</param>
+    <param name="Размер" unit="RU">60</param>
+    <param name="Бренд">Vivienne Mare</param>
+    <vendor>Vivienne Mare</vendor>
+    <param name="Размер российский (для одежды)">60</param>
+    <param name="Сезон">Лето</param>
+    <param name="Цвет">Фиолетовый</param>
+    <param name="Оттенок">Сиреневый</param>
+    <param name="Доступность товара">0</param>
+    <param name="Ликвидация">0</param>
+    <param name="Товар в эфире">0</param>
+    <param name="Новинка">0</param>
+    <param name="Рейтинг">5</param>
+    <param name="Количество отзывов">8</param>
+    <param name="Динамический бейдж">Акция|ffffff|ff8642</param>
+    <param name="Скидка">59</param>
+    <param name="groupId">1229633</param>
+   </offer>
+   <offer id="1229823" group_id="2006693" available="false">
+    <url>https://shop24.com/goods/pplate_charuyushchaya_krasota/?COLOR_GROUP=2006693</url>
+    <price>1399</price>
+    <oldprice>3399</oldprice>
+    <currencyId>RUR</currencyId>
+    <name>Платье Чарующая Красота</name>
+    <picture>https://www.leomax.ru/upload/iblock/606/60697186990cf22a81064a7bf052887a_thumb_a9064dbad6310f08999cf688ca9c460d.jpg</picture>
+    <param name="Артикул">48822</param>
+    <param name="ГТК">48822</param>
+    <param name="СКУ">48822-51</param>
+    <param name ="SkuName">фиолетовый</param>
+    <param name="Размер" unit="RU">48</param>
+    <param name="Бренд">Vivienne Mare</param>
+    <vendor>Vivienne Mare</vendor>
+    <param name="Размер российский (для одежды)">48</param>
+    <param name="Сезон">Лето</param>
+    <param name="Цвет">Фиолетовый</param>
+    <param name="Доступность товара">0</param>
+    <param name="Ликвидация">0</param>
+    <param name="Товар в эфире">0</param>
+    <param name="Новинка">0</param>
+    <param name="Рейтинг">5</param>
+    <param name="Количество отзывов">8</param>
+    <param name="Динамический бейдж">Акция|ffffff|ff8642</param>
+    <param name="Скидка">59</param>
+    <param name="groupId">1229633</param>
+   </offer>
+   <offer id="1229973" group_id="2006696" available="false">
+    <url>https://shop24.com/goods/pplate_charuyushchaya_krasota/?COLOR_GROUP=2006696</url>
+    <price>1399</price>
+    <oldprice>3399</oldprice>
+    <currencyId>RUR</currencyId>
+    <name>Платье Чарующая Красота</name>
+    <picture>https://www.leomax.ru/upload/iblock/13e/13e6aa15f3bb96762564bf33d31639d8_thumb_72e5ef5988e5978522eb77e5914e2655.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/c61/c6198fd3089b7e8bb2f9ae1a4ef11358_thumb_7c4cfa9bfaedbf66873405934162ad6e.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/0a2/0a253580d64f8f509990d7b20cff9a51_thumb_2543c42e41ae83eaa4104a738f60bc85.jpg</picture>
+    <param name="Артикул">48822</param>
+    <param name="ГТК">48822</param>
+    <param name="СКУ">48822-07</param>
+    <param name ="SkuName">хаки</param>
+    <param name="Размер" unit="RU">60</param>
+    <param name="Бренд">Vivienne Mare</param>
+    <vendor>Vivienne Mare</vendor>
+    <param name="Размер российский (для одежды)">60</param>
+    <param name="Сезон">Лето</param>
+    <param name="Цвет">Зеленый</param>
+    <param name="Оттенок">Хаки</param>
+    <param name="Доступность товара">0</param>
+    <param name="Ликвидация">0</param>
+    <param name="Товар в эфире">0</param>
+    <param name="Новинка">0</param>
+    <param name="Рейтинг">5</param>
+    <param name="Количество отзывов">8</param>
+    <param name="Динамический бейдж">Акция|ffffff|ff8642</param>
+    <param name="Скидка">59</param>
+    <param name="groupId">1229633</param>
+   </offer>
+   <offer id="1230253" group_id="2006686" available="false">
+    <url>https://shop24.com/goods/pplate_charuyushchaya_krasota/?COLOR_GROUP=2006686</url>
+    <price>1399</price>
+    <oldprice>3399</oldprice>
+    <currencyId>RUR</currencyId>
+    <name>Платье Чарующая Красота</name>
+    <picture>https://www.leomax.ru/upload/iblock/155/15541b811e83f7cef8b712e280a2586a_thumb_70c7067d82660bea6b2571ad214cd597.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/ae0/ae0c92ec2d56bfe4f024886471a13f45_thumb_c10eeb03322dd462f096177130145cb6.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/91f/91f8c36a8eb3f9f287515c3d3859fe65_thumb_c5adbd423dd6b40fbd82c0157d49cfee.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/044/044aec4b2e3c1455659f95891153528a_thumb_f76d4086e3e1398a665bebc38d5a500b.jpg</picture>
+    <param name="Артикул">48822</param>
+    <param name="ГТК">48822</param>
+    <param name="СКУ">48822-28</param>
+    <param name ="SkuName">горчичный</param>
+    <param name="Размер" unit="RU">62</param>
+    <param name="Бренд">Vivienne Mare</param>
+    <vendor>Vivienne Mare</vendor>
+    <param name="Размер российский (для одежды)">62</param>
+    <param name="Сезон">Лето</param>
+    <param name="Цвет">Желтый</param>
+    <param name="Оттенок">Горчичный</param>
+    <param name="Доступность товара">0</param>
+    <param name="Ликвидация">0</param>
+    <param name="Товар в эфире">0</param>
+    <param name="Новинка">0</param>
+    <param name="Рейтинг">5</param>
+    <param name="Количество отзывов">8</param>
+    <param name="Динамический бейдж">Акция|ffffff|ff8642</param>
+    <param name="Скидка">59</param>
+    <param name="groupId">1229633</param>
+   </offer>
+   <offer id="1229763" group_id="2006702" available="false">
+    <url>https://shop24.com/goods/pplate_charuyushchaya_krasota/?COLOR_GROUP=2006702</url>
+    <price>1399</price>
+    <oldprice>3399</oldprice>
+    <currencyId>RUR</currencyId>
+    <name>Платье Чарующая Красота</name>
+    <picture>https://www.leomax.ru/upload/iblock/1f3/1f377353f947db323ad668e0a365383f_thumb_021d85fd8f15524f426db63ff1bfb4ba.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/bb8/bb8a68a11ad765136b5ae5c55c7caef2_thumb_de03d21d33ff3b74dcd7d258a73f3359.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/ecf/ecfb90a4c0dfb780818ce6641f6d923c_thumb_efad6c38ce7c075837862b3b71879e80.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/f44/f44b4f8c841d55a8f5c699a07f17852e_thumb_3aa608fb1c4c06ff11e2ad93779ba57d.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/359/359f3ebf63df6bd8e7e0ee5c6406885b_thumb_b309e5406b3c2eca76489a1ef6329b39.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/45e/45e682b564f70ebff80a3f0687597550_thumb_ba802aec0b9ec5218827c66036a8e3da.jpg</picture>
+    <param name="Артикул">48822</param>
+    <param name="ГТК">48822</param>
+    <param name="СКУ">48822-14</param>
+    <param name ="SkuName">голубой</param>
+    <param name="Размер" unit="RU">54</param>
+    <param name="Бренд">Vivienne Mare</param>
+    <vendor>Vivienne Mare</vendor>
+    <param name="Размер российский (для одежды)">54</param>
+    <param name="Сезон">Лето</param>
+    <param name="Цвет">Голубой</param>
+    <param name="Доступность товара">0</param>
+    <param name="Ликвидация">0</param>
+    <param name="Товар в эфире">0</param>
+    <param name="Новинка">0</param>
+    <param name="Рейтинг">5</param>
+    <param name="Количество отзывов">8</param>
+    <param name="Динамический бейдж">Акция|ffffff|ff8642</param>
+    <param name="Скидка">59</param>
+    <param name="groupId">1229633</param>
+   </offer>
+   <offer id="1229903" group_id="2006693" available="false">
+    <url>https://shop24.com/goods/pplate_charuyushchaya_krasota/?COLOR_GROUP=2006693</url>
+    <price>1399</price>
+    <oldprice>3399</oldprice>
+    <currencyId>RUR</currencyId>
+    <name>Платье Чарующая Красота</name>
+    <picture>https://www.leomax.ru/upload/iblock/606/60697186990cf22a81064a7bf052887a_thumb_a9064dbad6310f08999cf688ca9c460d.jpg</picture>
+    <param name="Артикул">48822</param>
+    <param name="ГТК">48822</param>
+    <param name="СКУ">48822-59</param>
+    <param name ="SkuName">фиолетовый</param>
+    <param name="Размер" unit="RU">64</param>
+    <param name="Бренд">Vivienne Mare</param>
+    <vendor>Vivienne Mare</vendor>
+    <param name="Размер российский (для одежды)">64</param>
+    <param name="Сезон">Лето</param>
+    <param name="Цвет">Фиолетовый</param>
+    <param name="Доступность товара">0</param>
+    <param name="Ликвидация">0</param>
+    <param name="Товар в эфире">0</param>
+    <param name="Новинка">0</param>
+    <param name="Рейтинг">5</param>
+    <param name="Количество отзывов">8</param>
+    <param name="Динамический бейдж">Акция|ffffff|ff8642</param>
+    <param name="Скидка">59</param>
+    <param name="groupId">1229633</param>
+   </offer>
+   <offer id="1230263" group_id="2006686" available="false">
+    <url>https://shop24.com/goods/pplate_charuyushchaya_krasota/?COLOR_GROUP=2006686</url>
+    <price>1399</price>
+    <oldprice>3399</oldprice>
+    <currencyId>RUR</currencyId>
+    <name>Платье Чарующая Красота</name>
+    <picture>https://www.leomax.ru/upload/iblock/155/15541b811e83f7cef8b712e280a2586a_thumb_70c7067d82660bea6b2571ad214cd597.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/ae0/ae0c92ec2d56bfe4f024886471a13f45_thumb_c10eeb03322dd462f096177130145cb6.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/91f/91f8c36a8eb3f9f287515c3d3859fe65_thumb_c5adbd423dd6b40fbd82c0157d49cfee.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/044/044aec4b2e3c1455659f95891153528a_thumb_f76d4086e3e1398a665bebc38d5a500b.jpg</picture>
+    <param name="Артикул">48822</param>
+    <param name="ГТК">48822</param>
+    <param name="СКУ">48822-29</param>
+    <param name ="SkuName">горчичный</param>
+    <param name="Размер" unit="RU">64</param>
+    <param name="Бренд">Vivienne Mare</param>
+    <vendor>Vivienne Mare</vendor>
+    <param name="Размер российский (для одежды)">64</param>
+    <param name="Сезон">Лето</param>
+    <param name="Цвет">Желтый</param>
+    <param name="Оттенок">Горчичный</param>
+    <param name="Доступность товара">0</param>
+    <param name="Ликвидация">0</param>
+    <param name="Товар в эфире">0</param>
+    <param name="Новинка">0</param>
+    <param name="Рейтинг">5</param>
+    <param name="Количество отзывов">8</param>
+    <param name="Динамический бейдж">Акция|ffffff|ff8642</param>
+    <param name="Скидка">59</param>
+    <param name="groupId">1229633</param>
+   </offer>
+   <offer id="1229773" group_id="2006702" available="false">
+    <url>https://shop24.com/goods/pplate_charuyushchaya_krasota/?COLOR_GROUP=2006702</url>
+    <price>1399</price>
+    <oldprice>3399</oldprice>
+    <currencyId>RUR</currencyId>
+    <name>Платье Чарующая Красота</name>
+    <picture>https://www.leomax.ru/upload/iblock/1f3/1f377353f947db323ad668e0a365383f_thumb_021d85fd8f15524f426db63ff1bfb4ba.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/bb8/bb8a68a11ad765136b5ae5c55c7caef2_thumb_de03d21d33ff3b74dcd7d258a73f3359.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/ecf/ecfb90a4c0dfb780818ce6641f6d923c_thumb_efad6c38ce7c075837862b3b71879e80.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/f44/f44b4f8c841d55a8f5c699a07f17852e_thumb_3aa608fb1c4c06ff11e2ad93779ba57d.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/359/359f3ebf63df6bd8e7e0ee5c6406885b_thumb_b309e5406b3c2eca76489a1ef6329b39.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/45e/45e682b564f70ebff80a3f0687597550_thumb_ba802aec0b9ec5218827c66036a8e3da.jpg</picture>
+    <param name="Артикул">48822</param>
+    <param name="ГТК">48822</param>
+    <param name="СКУ">48822-15</param>
+    <param name ="SkuName">голубой</param>
+    <param name="Размер" unit="RU">56</param>
+    <param name="Бренд">Vivienne Mare</param>
+    <vendor>Vivienne Mare</vendor>
+    <param name="Размер российский (для одежды)">56</param>
+    <param name="Сезон">Лето</param>
+    <param name="Цвет">Голубой</param>
+    <param name="Доступность товара">0</param>
+    <param name="Ликвидация">0</param>
+    <param name="Товар в эфире">0</param>
+    <param name="Новинка">0</param>
+    <param name="Рейтинг">5</param>
+    <param name="Количество отзывов">8</param>
+    <param name="Динамический бейдж">Акция|ffffff|ff8642</param>
+    <param name="Скидка">59</param>
+    <param name="groupId">1229633</param>
+   </offer>
+   <offer id="1229913" group_id="2006696" available="false">
+    <url>https://shop24.com/goods/pplate_charuyushchaya_krasota/?COLOR_GROUP=2006696</url>
+    <price>1399</price>
+    <oldprice>3399</oldprice>
+    <currencyId>RUR</currencyId>
+    <name>Платье Чарующая Красота</name>
+    <picture>https://www.leomax.ru/upload/iblock/13e/13e6aa15f3bb96762564bf33d31639d8_thumb_72e5ef5988e5978522eb77e5914e2655.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/c61/c6198fd3089b7e8bb2f9ae1a4ef11358_thumb_7c4cfa9bfaedbf66873405934162ad6e.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/0a2/0a253580d64f8f509990d7b20cff9a51_thumb_2543c42e41ae83eaa4104a738f60bc85.jpg</picture>
+    <param name="Артикул">48822</param>
+    <param name="ГТК">48822</param>
+    <param name="СКУ">48822-01</param>
+    <param name ="SkuName">хаки</param>
+    <param name="Размер" unit="RU">48</param>
+    <param name="Бренд">Vivienne Mare</param>
+    <vendor>Vivienne Mare</vendor>
+    <param name="Размер российский (для одежды)">48</param>
+    <param name="Сезон">Лето</param>
+    <param name="Цвет">Зеленый</param>
+    <param name="Оттенок">Хаки</param>
+    <param name="Доступность товара">0</param>
+    <param name="Ликвидация">0</param>
+    <param name="Товар в эфире">0</param>
+    <param name="Новинка">0</param>
+    <param name="Рейтинг">5</param>
+    <param name="Количество отзывов">8</param>
+    <param name="Динамический бейдж">Акция|ffffff|ff8642</param>
+    <param name="Скидка">59</param>
+    <param name="groupId">1229633</param>
+   </offer>
+   <offer id="1230183" group_id="2006686" available="false">
+    <url>https://shop24.com/goods/pplate_charuyushchaya_krasota/?COLOR_GROUP=2006686</url>
+    <price>1399</price>
+    <oldprice>3399</oldprice>
+    <currencyId>RUR</currencyId>
+    <name>Платье Чарующая Красота</name>
+    <picture>https://www.leomax.ru/upload/iblock/155/15541b811e83f7cef8b712e280a2586a_thumb_70c7067d82660bea6b2571ad214cd597.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/ae0/ae0c92ec2d56bfe4f024886471a13f45_thumb_c10eeb03322dd462f096177130145cb6.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/91f/91f8c36a8eb3f9f287515c3d3859fe65_thumb_c5adbd423dd6b40fbd82c0157d49cfee.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/044/044aec4b2e3c1455659f95891153528a_thumb_f76d4086e3e1398a665bebc38d5a500b.jpg</picture>
+    <param name="Артикул">48822</param>
+    <param name="ГТК">48822</param>
+    <param name="СКУ">48822-21</param>
+    <param name ="SkuName">горчичный</param>
+    <param name="Размер" unit="RU">48</param>
+    <param name="Бренд">Vivienne Mare</param>
+    <vendor>Vivienne Mare</vendor>
+    <param name="Размер российский (для одежды)">48</param>
+    <param name="Сезон">Лето</param>
+    <param name="Цвет">Желтый</param>
+    <param name="Оттенок">Горчичный</param>
+    <param name="Доступность товара">0</param>
+    <param name="Ликвидация">0</param>
+    <param name="Товар в эфире">0</param>
+    <param name="Новинка">0</param>
+    <param name="Рейтинг">5</param>
+    <param name="Количество отзывов">8</param>
+    <param name="Динамический бейдж">Акция|ffffff|ff8642</param>
+    <param name="Скидка">59</param>
+    <param name="groupId">1229633</param>
+   </offer>
+   <offer id="1594513" group_id="2006695" available="false">
+    <url>https://shop24.com/goods/pplate_charuyushchaya_krasota/?COLOR_GROUP=2006695</url>
+    <price>1399</price>
+    <oldprice>3399</oldprice>
+    <currencyId>RUR</currencyId>
+    <name>Платье Чарующая Красота</name>
+    <picture>https://www.leomax.ru/upload/iblock/bf2/bf2e3d3619b341c053683ffc94e3a3c1_thumb_c45c4469b389cdce5a043e55de66e173.jpg</picture>
+    <param name="Артикул">48822</param>
+    <param name="ГТК">48822</param>
+    <param name="СКУ">48822-37</param>
+    <param name ="SkuName">вишневый</param>
+    <param name="Размер" unit="RU">60</param>
+    <param name="Бренд">Vivienne Mare</param>
+    <vendor>Vivienne Mare</vendor>
+    <param name="Размер российский (для одежды)">60</param>
+    <param name="Сезон">Лето</param>
+    <param name="Цвет">Бордовый</param>
+    <param name="Оттенок">Вишневый</param>
+    <param name="Доступность товара">0</param>
+    <param name="Ликвидация">0</param>
+    <param name="Товар в эфире">0</param>
+    <param name="Новинка">0</param>
+    <param name="Рейтинг">5</param>
+    <param name="Количество отзывов">8</param>
+    <param name="Динамический бейдж">Акция|ffffff|ff8642</param>
+    <param name="Скидка">59</param>
+    <param name="groupId">1229633</param>
+   </offer>
+   <offer id="1229713" group_id="2006691" available="false">
+    <url>https://shop24.com/goods/pplate_charuyushchaya_krasota/?COLOR_GROUP=2006691</url>
+    <price>1399</price>
+    <oldprice>3399</oldprice>
+    <currencyId>RUR</currencyId>
+    <name>Платье Чарующая Красота</name>
+    <picture>https://www.leomax.ru/upload/iblock/e4c/e4ce805516722ae2001fa32fed244e86_thumb_880a0818457a68cdee643f6a039d39ab.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/d4c/d4c00249009e5230ffe0d420ae0480f1_thumb_b97410afda0cb908dd1b599163e779f0.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/27c/27c2281f4d707d1d147d0b00f483553f_thumb_9a2cb884ec8ab1cec2fed7b22b2cd402.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/f66/f66a1f546fb11c65f7c9aa0681251bfe_thumb_f63bfb9886201ee8b548c27cd049d1c1.jpg</picture>
+    <param name="Артикул">48822</param>
+    <param name="ГТК">48822</param>
+    <param name="СКУ">48822-68</param>
+    <param name ="SkuName">сиреневый</param>
+    <param name="Размер" unit="RU">62</param>
+    <param name="Бренд">Vivienne Mare</param>
+    <vendor>Vivienne Mare</vendor>
+    <param name="Размер российский (для одежды)">62</param>
+    <param name="Сезон">Лето</param>
+    <param name="Цвет">Фиолетовый</param>
+    <param name="Оттенок">Сиреневый</param>
+    <param name="Доступность товара">0</param>
+    <param name="Ликвидация">0</param>
+    <param name="Товар в эфире">0</param>
+    <param name="Новинка">0</param>
+    <param name="Рейтинг">5</param>
+    <param name="Количество отзывов">8</param>
+    <param name="Динамический бейдж">Акция|ffffff|ff8642</param>
+    <param name="Скидка">59</param>
+    <param name="groupId">1229633</param>
+   </offer>
+   <offer id="1229833" group_id="2006693" available="false">
+    <url>https://shop24.com/goods/pplate_charuyushchaya_krasota/?COLOR_GROUP=2006693</url>
+    <price>1399</price>
+    <oldprice>3399</oldprice>
+    <currencyId>RUR</currencyId>
+    <name>Платье Чарующая Красота</name>
+    <picture>https://www.leomax.ru/upload/iblock/606/60697186990cf22a81064a7bf052887a_thumb_a9064dbad6310f08999cf688ca9c460d.jpg</picture>
+    <param name="Артикул">48822</param>
+    <param name="ГТК">48822</param>
+    <param name="СКУ">48822-52</param>
+    <param name ="SkuName">фиолетовый</param>
+    <param name="Размер" unit="RU">50</param>
+    <param name="Бренд">Vivienne Mare</param>
+    <vendor>Vivienne Mare</vendor>
+    <param name="Размер российский (для одежды)">50</param>
+    <param name="Сезон">Лето</param>
+    <param name="Цвет">Фиолетовый</param>
+    <param name="Доступность товара">0</param>
+    <param name="Ликвидация">0</param>
+    <param name="Товар в эфире">0</param>
+    <param name="Новинка">0</param>
+    <param name="Рейтинг">5</param>
+    <param name="Количество отзывов">8</param>
+    <param name="Динамический бейдж">Акция|ffffff|ff8642</param>
+    <param name="Скидка">59</param>
+    <param name="groupId">1229633</param>
+   </offer>
+   <offer id="1229983" group_id="2006696" available="false">
+    <url>https://shop24.com/goods/pplate_charuyushchaya_krasota/?COLOR_GROUP=2006696</url>
+    <price>1399</price>
+    <oldprice>3399</oldprice>
+    <currencyId>RUR</currencyId>
+    <name>Платье Чарующая Красота</name>
+    <picture>https://www.leomax.ru/upload/iblock/13e/13e6aa15f3bb96762564bf33d31639d8_thumb_72e5ef5988e5978522eb77e5914e2655.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/c61/c6198fd3089b7e8bb2f9ae1a4ef11358_thumb_7c4cfa9bfaedbf66873405934162ad6e.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/0a2/0a253580d64f8f509990d7b20cff9a51_thumb_2543c42e41ae83eaa4104a738f60bc85.jpg</picture>
+    <param name="Артикул">48822</param>
+    <param name="ГТК">48822</param>
+    <param name="СКУ">48822-08</param>
+    <param name ="SkuName">хаки</param>
+    <param name="Размер" unit="RU">62</param>
+    <param name="Бренд">Vivienne Mare</param>
+    <vendor>Vivienne Mare</vendor>
+    <param name="Размер российский (для одежды)">62</param>
+    <param name="Сезон">Лето</param>
+    <param name="Цвет">Зеленый</param>
+    <param name="Оттенок">Хаки</param>
+    <param name="Доступность товара">0</param>
+    <param name="Ликвидация">0</param>
+    <param name="Товар в эфире">0</param>
+    <param name="Новинка">0</param>
+    <param name="Рейтинг">5</param>
+    <param name="Количество отзывов">8</param>
+    <param name="Динамический бейдж">Акция|ffffff|ff8642</param>
+    <param name="Скидка">59</param>
+    <param name="groupId">1229633</param>
+   </offer>
+   <offer id="1229723" group_id="2006691" available="false">
+    <url>https://shop24.com/goods/pplate_charuyushchaya_krasota/?COLOR_GROUP=2006691</url>
+    <price>1399</price>
+    <oldprice>3399</oldprice>
+    <currencyId>RUR</currencyId>
+    <name>Платье Чарующая Красота</name>
+    <picture>https://www.leomax.ru/upload/iblock/e4c/e4ce805516722ae2001fa32fed244e86_thumb_880a0818457a68cdee643f6a039d39ab.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/d4c/d4c00249009e5230ffe0d420ae0480f1_thumb_b97410afda0cb908dd1b599163e779f0.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/27c/27c2281f4d707d1d147d0b00f483553f_thumb_9a2cb884ec8ab1cec2fed7b22b2cd402.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/f66/f66a1f546fb11c65f7c9aa0681251bfe_thumb_f63bfb9886201ee8b548c27cd049d1c1.jpg</picture>
+    <param name="Артикул">48822</param>
+    <param name="ГТК">48822</param>
+    <param name="СКУ">48822-69</param>
+    <param name ="SkuName">сиреневый</param>
+    <param name="Размер" unit="RU">64</param>
+    <param name="Бренд">Vivienne Mare</param>
+    <vendor>Vivienne Mare</vendor>
+    <param name="Размер российский (для одежды)">64</param>
+    <param name="Сезон">Лето</param>
+    <param name="Цвет">Фиолетовый</param>
+    <param name="Оттенок">Сиреневый</param>
+    <param name="Доступность товара">0</param>
+    <param name="Ликвидация">0</param>
+    <param name="Товар в эфире">0</param>
+    <param name="Новинка">0</param>
+    <param name="Рейтинг">5</param>
+    <param name="Количество отзывов">8</param>
+    <param name="Динамический бейдж">Акция|ffffff|ff8642</param>
+    <param name="Скидка">59</param>
+    <param name="groupId">1229633</param>
+   </offer>
+   <offer id="1229843" group_id="2006693" available="false">
+    <url>https://shop24.com/goods/pplate_charuyushchaya_krasota/?COLOR_GROUP=2006693</url>
+    <price>1399</price>
+    <oldprice>3399</oldprice>
+    <currencyId>RUR</currencyId>
+    <name>Платье Чарующая Красота</name>
+    <picture>https://www.leomax.ru/upload/iblock/606/60697186990cf22a81064a7bf052887a_thumb_a9064dbad6310f08999cf688ca9c460d.jpg</picture>
+    <param name="Артикул">48822</param>
+    <param name="ГТК">48822</param>
+    <param name="СКУ">48822-53</param>
+    <param name ="SkuName">лавандовый</param>
+    <param name="Размер" unit="RU">52</param>
+    <param name="Бренд">Vivienne Mare</param>
+    <vendor>Vivienne Mare</vendor>
+    <param name="Размер российский (для одежды)">52</param>
+    <param name="Сезон">Лето</param>
+    <param name="Цвет">Фиолетовый</param>
+    <param name="Доступность товара">0</param>
+    <param name="Ликвидация">0</param>
+    <param name="Товар в эфире">0</param>
+    <param name="Новинка">0</param>
+    <param name="Рейтинг">5</param>
+    <param name="Количество отзывов">8</param>
+    <param name="Динамический бейдж">Акция|ffffff|ff8642</param>
+    <param name="Скидка">59</param>
+    <param name="groupId">1229633</param>
+   </offer>
+   <offer id="1229993" group_id="2006696" available="false">
+    <url>https://shop24.com/goods/pplate_charuyushchaya_krasota/?COLOR_GROUP=2006696</url>
+    <price>1399</price>
+    <oldprice>3399</oldprice>
+    <currencyId>RUR</currencyId>
+    <name>Платье Чарующая Красота</name>
+    <picture>https://www.leomax.ru/upload/iblock/13e/13e6aa15f3bb96762564bf33d31639d8_thumb_72e5ef5988e5978522eb77e5914e2655.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/c61/c6198fd3089b7e8bb2f9ae1a4ef11358_thumb_7c4cfa9bfaedbf66873405934162ad6e.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/0a2/0a253580d64f8f509990d7b20cff9a51_thumb_2543c42e41ae83eaa4104a738f60bc85.jpg</picture>
+    <param name="Артикул">48822</param>
+    <param name="ГТК">48822</param>
+    <param name="СКУ">48822-09</param>
+    <param name ="SkuName">хаки</param>
+    <param name="Размер" unit="RU">64</param>
+    <param name="Бренд">Vivienne Mare</param>
+    <vendor>Vivienne Mare</vendor>
+    <param name="Размер российский (для одежды)">64</param>
+    <param name="Сезон">Лето</param>
+    <param name="Цвет">Зеленый</param>
+    <param name="Оттенок">Хаки</param>
+    <param name="Доступность товара">0</param>
+    <param name="Ликвидация">0</param>
+    <param name="Товар в эфире">0</param>
+    <param name="Новинка">0</param>
+    <param name="Рейтинг">5</param>
+    <param name="Количество отзывов">8</param>
+    <param name="Динамический бейдж">Акция|ffffff|ff8642</param>
+    <param name="Скидка">59</param>
+    <param name="groupId">1229633</param>
+   </offer>
+   <offer id="1594453" group_id="2006695" available="false">
+    <url>https://shop24.com/goods/pplate_charuyushchaya_krasota/?COLOR_GROUP=2006695</url>
+    <price>1399</price>
+    <oldprice>3399</oldprice>
+    <currencyId>RUR</currencyId>
+    <name>Платье Чарующая Красота</name>
+    <picture>https://www.leomax.ru/upload/iblock/bf2/bf2e3d3619b341c053683ffc94e3a3c1_thumb_c45c4469b389cdce5a043e55de66e173.jpg</picture>
+    <param name="Артикул">48822</param>
+    <param name="ГТК">48822</param>
+    <param name="СКУ">48822-31</param>
+    <param name ="SkuName">вишневый</param>
+    <param name="Размер" unit="RU">48</param>
+    <param name="Бренд">Vivienne Mare</param>
+    <vendor>Vivienne Mare</vendor>
+    <param name="Размер российский (для одежды)">48</param>
+    <param name="Сезон">Лето</param>
+    <param name="Цвет">Бордовый</param>
+    <param name="Оттенок">Вишневый</param>
+    <param name="Доступность товара">0</param>
+    <param name="Ликвидация">0</param>
+    <param name="Товар в эфире">0</param>
+    <param name="Новинка">0</param>
+    <param name="Рейтинг">5</param>
+    <param name="Количество отзывов">8</param>
+    <param name="Динамический бейдж">Акция|ffffff|ff8642</param>
+    <param name="Скидка">59</param>
+    <param name="groupId">1229633</param>
+   </offer>
+   <offer id="1229783" group_id="2006702" available="false">
+    <url>https://shop24.com/goods/pplate_charuyushchaya_krasota/?COLOR_GROUP=2006702</url>
+    <price>1399</price>
+    <oldprice>3399</oldprice>
+    <currencyId>RUR</currencyId>
+    <name>Платье Чарующая Красота</name>
+    <picture>https://www.leomax.ru/upload/iblock/1f3/1f377353f947db323ad668e0a365383f_thumb_021d85fd8f15524f426db63ff1bfb4ba.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/bb8/bb8a68a11ad765136b5ae5c55c7caef2_thumb_de03d21d33ff3b74dcd7d258a73f3359.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/ecf/ecfb90a4c0dfb780818ce6641f6d923c_thumb_efad6c38ce7c075837862b3b71879e80.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/f44/f44b4f8c841d55a8f5c699a07f17852e_thumb_3aa608fb1c4c06ff11e2ad93779ba57d.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/359/359f3ebf63df6bd8e7e0ee5c6406885b_thumb_b309e5406b3c2eca76489a1ef6329b39.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/45e/45e682b564f70ebff80a3f0687597550_thumb_ba802aec0b9ec5218827c66036a8e3da.jpg</picture>
+    <param name="Артикул">48822</param>
+    <param name="ГТК">48822</param>
+    <param name="СКУ">48822-16</param>
+    <param name ="SkuName">голубой</param>
+    <param name="Размер" unit="RU">58</param>
+    <param name="Бренд">Vivienne Mare</param>
+    <vendor>Vivienne Mare</vendor>
+    <param name="Размер российский (для одежды)">58</param>
+    <param name="Сезон">Лето</param>
+    <param name="Цвет">Голубой</param>
+    <param name="Доступность товара">0</param>
+    <param name="Ликвидация">0</param>
+    <param name="Товар в эфире">0</param>
+    <param name="Новинка">0</param>
+    <param name="Рейтинг">5</param>
+    <param name="Количество отзывов">8</param>
+    <param name="Динамический бейдж">Акция|ffffff|ff8642</param>
+    <param name="Скидка">59</param>
+    <param name="groupId">1229633</param>
+   </offer>
+   <offer id="1229923" group_id="2006696" available="false">
+    <url>https://shop24.com/goods/pplate_charuyushchaya_krasota/?COLOR_GROUP=2006696</url>
+    <price>1399</price>
+    <oldprice>3399</oldprice>
+    <currencyId>RUR</currencyId>
+    <name>Платье Чарующая Красота</name>
+    <picture>https://www.leomax.ru/upload/iblock/13e/13e6aa15f3bb96762564bf33d31639d8_thumb_72e5ef5988e5978522eb77e5914e2655.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/c61/c6198fd3089b7e8bb2f9ae1a4ef11358_thumb_7c4cfa9bfaedbf66873405934162ad6e.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/0a2/0a253580d64f8f509990d7b20cff9a51_thumb_2543c42e41ae83eaa4104a738f60bc85.jpg</picture>
+    <param name="Артикул">48822</param>
+    <param name="ГТК">48822</param>
+    <param name="СКУ">48822-02</param>
+    <param name ="SkuName">хаки</param>
+    <param name="Размер" unit="RU">50</param>
+    <param name="Бренд">Vivienne Mare</param>
+    <vendor>Vivienne Mare</vendor>
+    <param name="Размер российский (для одежды)">50</param>
+    <param name="Сезон">Лето</param>
+    <param name="Цвет">Зеленый</param>
+    <param name="Оттенок">Хаки</param>
+    <param name="Доступность товара">0</param>
+    <param name="Ликвидация">0</param>
+    <param name="Товар в эфире">0</param>
+    <param name="Новинка">0</param>
+    <param name="Рейтинг">5</param>
+    <param name="Количество отзывов">8</param>
+    <param name="Динамический бейдж">Акция|ffffff|ff8642</param>
+    <param name="Скидка">59</param>
+    <param name="groupId">1229633</param>
+   </offer>
+   <offer id="1230213" group_id="2006686" available="false">
+    <url>https://shop24.com/goods/pplate_charuyushchaya_krasota/?COLOR_GROUP=2006686</url>
+    <price>1399</price>
+    <oldprice>3399</oldprice>
+    <currencyId>RUR</currencyId>
+    <name>Платье Чарующая Красота</name>
+    <picture>https://www.leomax.ru/upload/iblock/155/15541b811e83f7cef8b712e280a2586a_thumb_70c7067d82660bea6b2571ad214cd597.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/ae0/ae0c92ec2d56bfe4f024886471a13f45_thumb_c10eeb03322dd462f096177130145cb6.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/91f/91f8c36a8eb3f9f287515c3d3859fe65_thumb_c5adbd423dd6b40fbd82c0157d49cfee.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/044/044aec4b2e3c1455659f95891153528a_thumb_f76d4086e3e1398a665bebc38d5a500b.jpg</picture>
+    <param name="Артикул">48822</param>
+    <param name="ГТК">48822</param>
+    <param name="СКУ">48822-24</param>
+    <param name ="SkuName">горчичный</param>
+    <param name="Размер" unit="RU">54</param>
+    <param name="Бренд">Vivienne Mare</param>
+    <vendor>Vivienne Mare</vendor>
+    <param name="Размер российский (для одежды)">54</param>
+    <param name="Сезон">Лето</param>
+    <param name="Цвет">Желтый</param>
+    <param name="Оттенок">Горчичный</param>
+    <param name="Доступность товара">0</param>
+    <param name="Ликвидация">0</param>
+    <param name="Товар в эфире">0</param>
+    <param name="Новинка">0</param>
+    <param name="Рейтинг">5</param>
+    <param name="Количество отзывов">8</param>
+    <param name="Динамический бейдж">Акция|ffffff|ff8642</param>
+    <param name="Скидка">59</param>
+    <param name="groupId">1229633</param>
+   </offer>
+   <offer id="1594523" group_id="2006695" available="false">
+    <url>https://shop24.com/goods/pplate_charuyushchaya_krasota/?COLOR_GROUP=2006695</url>
+    <price>1399</price>
+    <oldprice>3399</oldprice>
+    <currencyId>RUR</currencyId>
+    <name>Платье Чарующая Красота</name>
+    <picture>https://www.leomax.ru/upload/iblock/bf2/bf2e3d3619b341c053683ffc94e3a3c1_thumb_c45c4469b389cdce5a043e55de66e173.jpg</picture>
+    <param name="Артикул">48822</param>
+    <param name="ГТК">48822</param>
+    <param name="СКУ">48822-38</param>
+    <param name ="SkuName">вишневый</param>
+    <param name="Размер" unit="RU">62</param>
+    <param name="Бренд">Vivienne Mare</param>
+    <vendor>Vivienne Mare</vendor>
+    <param name="Размер российский (для одежды)">62</param>
+    <param name="Сезон">Лето</param>
+    <param name="Цвет">Бордовый</param>
+    <param name="Оттенок">Вишневый</param>
+    <param name="Доступность товара">0</param>
+    <param name="Ликвидация">0</param>
+    <param name="Товар в эфире">0</param>
+    <param name="Новинка">0</param>
+    <param name="Рейтинг">5</param>
+    <param name="Количество отзывов">8</param>
+    <param name="Динамический бейдж">Акция|ffffff|ff8642</param>
+    <param name="Скидка">59</param>
+    <param name="groupId">1229633</param>
+   </offer>
+   <offer id="1229793" group_id="2006702" available="false">
+    <url>https://shop24.com/goods/pplate_charuyushchaya_krasota/?COLOR_GROUP=2006702</url>
+    <price>1399</price>
+    <oldprice>3399</oldprice>
+    <currencyId>RUR</currencyId>
+    <name>Платье Чарующая Красота</name>
+    <picture>https://www.leomax.ru/upload/iblock/1f3/1f377353f947db323ad668e0a365383f_thumb_021d85fd8f15524f426db63ff1bfb4ba.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/bb8/bb8a68a11ad765136b5ae5c55c7caef2_thumb_de03d21d33ff3b74dcd7d258a73f3359.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/ecf/ecfb90a4c0dfb780818ce6641f6d923c_thumb_efad6c38ce7c075837862b3b71879e80.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/f44/f44b4f8c841d55a8f5c699a07f17852e_thumb_3aa608fb1c4c06ff11e2ad93779ba57d.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/359/359f3ebf63df6bd8e7e0ee5c6406885b_thumb_b309e5406b3c2eca76489a1ef6329b39.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/45e/45e682b564f70ebff80a3f0687597550_thumb_ba802aec0b9ec5218827c66036a8e3da.jpg</picture>
+    <param name="Артикул">48822</param>
+    <param name="ГТК">48822</param>
+    <param name="СКУ">48822-17</param>
+    <param name ="SkuName">голубой</param>
+    <param name="Размер" unit="RU">60</param>
+    <param name="Бренд">Vivienne Mare</param>
+    <vendor>Vivienne Mare</vendor>
+    <param name="Размер российский (для одежды)">60</param>
+    <param name="Сезон">Лето</param>
+    <param name="Цвет">Голубой</param>
+    <param name="Доступность товара">0</param>
+    <param name="Ликвидация">0</param>
+    <param name="Товар в эфире">0</param>
+    <param name="Новинка">0</param>
+    <param name="Рейтинг">5</param>
+    <param name="Количество отзывов">8</param>
+    <param name="Динамический бейдж">Акция|ffffff|ff8642</param>
+    <param name="Скидка">59</param>
+    <param name="groupId">1229633</param>
+   </offer>
+   <offer id="1229933" group_id="2006696" available="false">
+    <url>https://shop24.com/goods/pplate_charuyushchaya_krasota/?COLOR_GROUP=2006696</url>
+    <price>1399</price>
+    <oldprice>3399</oldprice>
+    <currencyId>RUR</currencyId>
+    <name>Платье Чарующая Красота</name>
+    <picture>https://www.leomax.ru/upload/iblock/13e/13e6aa15f3bb96762564bf33d31639d8_thumb_72e5ef5988e5978522eb77e5914e2655.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/c61/c6198fd3089b7e8bb2f9ae1a4ef11358_thumb_7c4cfa9bfaedbf66873405934162ad6e.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/0a2/0a253580d64f8f509990d7b20cff9a51_thumb_2543c42e41ae83eaa4104a738f60bc85.jpg</picture>
+    <param name="Артикул">48822</param>
+    <param name="ГТК">48822</param>
+    <param name="СКУ">48822-03</param>
+    <param name ="SkuName">хаки</param>
+    <param name="Размер" unit="RU">52</param>
+    <param name="Бренд">Vivienne Mare</param>
+    <vendor>Vivienne Mare</vendor>
+    <param name="Размер российский (для одежды)">52</param>
+    <param name="Сезон">Лето</param>
+    <param name="Цвет">Зеленый</param>
+    <param name="Оттенок">Хаки</param>
+    <param name="Доступность товара">0</param>
+    <param name="Ликвидация">0</param>
+    <param name="Товар в эфире">0</param>
+    <param name="Новинка">0</param>
+    <param name="Рейтинг">5</param>
+    <param name="Количество отзывов">8</param>
+    <param name="Динамический бейдж">Акция|ffffff|ff8642</param>
+    <param name="Скидка">59</param>
+    <param name="groupId">1229633</param>
+   </offer>
+   <offer id="1230223" group_id="2006686" available="false">
+    <url>https://shop24.com/goods/pplate_charuyushchaya_krasota/?COLOR_GROUP=2006686</url>
+    <price>1399</price>
+    <oldprice>3399</oldprice>
+    <currencyId>RUR</currencyId>
+    <name>Платье Чарующая Красота</name>
+    <picture>https://www.leomax.ru/upload/iblock/155/15541b811e83f7cef8b712e280a2586a_thumb_70c7067d82660bea6b2571ad214cd597.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/ae0/ae0c92ec2d56bfe4f024886471a13f45_thumb_c10eeb03322dd462f096177130145cb6.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/91f/91f8c36a8eb3f9f287515c3d3859fe65_thumb_c5adbd423dd6b40fbd82c0157d49cfee.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/044/044aec4b2e3c1455659f95891153528a_thumb_f76d4086e3e1398a665bebc38d5a500b.jpg</picture>
+    <param name="Артикул">48822</param>
+    <param name="ГТК">48822</param>
+    <param name="СКУ">48822-25</param>
+    <param name ="SkuName">горчичный</param>
+    <param name="Размер" unit="RU">56</param>
+    <param name="Бренд">Vivienne Mare</param>
+    <vendor>Vivienne Mare</vendor>
+    <param name="Размер российский (для одежды)">56</param>
+    <param name="Сезон">Лето</param>
+    <param name="Цвет">Желтый</param>
+    <param name="Оттенок">Горчичный</param>
+    <param name="Доступность товара">0</param>
+    <param name="Ликвидация">0</param>
+    <param name="Товар в эфире">0</param>
+    <param name="Новинка">0</param>
+    <param name="Рейтинг">5</param>
+    <param name="Количество отзывов">8</param>
+    <param name="Динамический бейдж">Акция|ffffff|ff8642</param>
+    <param name="Скидка">59</param>
+    <param name="groupId">1229633</param>
+   </offer>
+   <offer id="1594533" group_id="2006695" available="false">
+    <url>https://shop24.com/goods/pplate_charuyushchaya_krasota/?COLOR_GROUP=2006695</url>
+    <price>1399</price>
+    <oldprice>3399</oldprice>
+    <currencyId>RUR</currencyId>
+    <name>Платье Чарующая Красота</name>
+    <picture>https://www.leomax.ru/upload/iblock/bf2/bf2e3d3619b341c053683ffc94e3a3c1_thumb_c45c4469b389cdce5a043e55de66e173.jpg</picture>
+    <param name="Артикул">48822</param>
+    <param name="ГТК">48822</param>
+    <param name="СКУ">48822-39</param>
+    <param name ="SkuName">вишневый</param>
+    <param name="Размер" unit="RU">64</param>
+    <param name="Бренд">Vivienne Mare</param>
+    <vendor>Vivienne Mare</vendor>
+    <param name="Размер российский (для одежды)">64</param>
+    <param name="Сезон">Лето</param>
+    <param name="Цвет">Бордовый</param>
+    <param name="Оттенок">Вишневый</param>
+    <param name="Доступность товара">0</param>
+    <param name="Ликвидация">0</param>
+    <param name="Товар в эфире">0</param>
+    <param name="Новинка">0</param>
+    <param name="Рейтинг">5</param>
+    <param name="Количество отзывов">8</param>
+    <param name="Динамический бейдж">Акция|ffffff|ff8642</param>
+    <param name="Скидка">59</param>
+    <param name="groupId">1229633</param>
+   </offer>
+   <offer id="1229853" group_id="2006693" available="false">
+    <url>https://shop24.com/goods/pplate_charuyushchaya_krasota/?COLOR_GROUP=2006693</url>
+    <price>1399</price>
+    <oldprice>3399</oldprice>
+    <currencyId>RUR</currencyId>
+    <name>Платье Чарующая Красота</name>
+    <picture>https://www.leomax.ru/upload/iblock/606/60697186990cf22a81064a7bf052887a_thumb_a9064dbad6310f08999cf688ca9c460d.jpg</picture>
+    <param name="Артикул">48822</param>
+    <param name="ГТК">48822</param>
+    <param name="СКУ">48822-54</param>
+    <param name ="SkuName">фиолетовый</param>
+    <param name="Размер" unit="RU">54</param>
+    <param name="Бренд">Vivienne Mare</param>
+    <vendor>Vivienne Mare</vendor>
+    <param name="Размер российский (для одежды)">54</param>
+    <param name="Сезон">Лето</param>
+    <param name="Цвет">Фиолетовый</param>
+    <param name="Доступность товара">0</param>
+    <param name="Ликвидация">0</param>
+    <param name="Товар в эфире">0</param>
+    <param name="Новинка">0</param>
+    <param name="Рейтинг">5</param>
+    <param name="Количество отзывов">8</param>
+    <param name="Динамический бейдж">Акция|ffffff|ff8642</param>
+    <param name="Скидка">59</param>
+    <param name="groupId">1229633</param>
+   </offer>
+   <offer id="1230023" group_id="2006701" available="false">
+    <url>https://shop24.com/goods/pplate_charuyushchaya_krasota/?COLOR_GROUP=2006701</url>
+    <price>1399</price>
+    <oldprice>3399</oldprice>
+    <currencyId>RUR</currencyId>
+    <name>Платье Чарующая Красота</name>
+    <picture>https://www.leomax.ru/upload/iblock/89e/89ef5f6578e8f688f2ada709d56a0819_thumb_367f9384456eaf91493bb6ec42c00a59.jpg</picture>
+    <param name="Артикул">48822</param>
+    <param name="ГТК">48822</param>
+    <param name="СКУ">48822-43</param>
+    <param name ="SkuName">зеленый</param>
+    <param name="Размер" unit="RU">52</param>
+    <param name="Бренд">Vivienne Mare</param>
+    <vendor>Vivienne Mare</vendor>
+    <param name="Размер российский (для одежды)">52</param>
+    <param name="Сезон">Лето</param>
+    <param name="Цвет">Зеленый</param>
+    <param name="Доступность товара">0</param>
+    <param name="Ликвидация">0</param>
+    <param name="Товар в эфире">0</param>
+    <param name="Новинка">0</param>
+    <param name="Рейтинг">5</param>
+    <param name="Количество отзывов">8</param>
+    <param name="Динамический бейдж">Акция|ffffff|ff8642</param>
+    <param name="Скидка">59</param>
+    <param name="groupId">1229633</param>
+   </offer>
+   <offer id="1594463" group_id="2006695" available="false">
+    <url>https://shop24.com/goods/pplate_charuyushchaya_krasota/?COLOR_GROUP=2006695</url>
+    <price>1399</price>
+    <oldprice>3399</oldprice>
+    <currencyId>RUR</currencyId>
+    <name>Платье Чарующая Красота</name>
+    <picture>https://www.leomax.ru/upload/iblock/bf2/bf2e3d3619b341c053683ffc94e3a3c1_thumb_c45c4469b389cdce5a043e55de66e173.jpg</picture>
+    <param name="Артикул">48822</param>
+    <param name="ГТК">48822</param>
+    <param name="СКУ">48822-32</param>
+    <param name ="SkuName">вишневый</param>
+    <param name="Размер" unit="RU">50</param>
+    <param name="Бренд">Vivienne Mare</param>
+    <vendor>Vivienne Mare</vendor>
+    <param name="Размер российский (для одежды)">50</param>
+    <param name="Сезон">Лето</param>
+    <param name="Цвет">Бордовый</param>
+    <param name="Оттенок">Вишневый</param>
+    <param name="Доступность товара">0</param>
+    <param name="Ликвидация">0</param>
+    <param name="Товар в эфире">0</param>
+    <param name="Новинка">0</param>
+    <param name="Рейтинг">5</param>
+    <param name="Количество отзывов">8</param>
+    <param name="Динамический бейдж">Акция|ffffff|ff8642</param>
+    <param name="Скидка">59</param>
+    <param name="groupId">1229633</param>
+   </offer>
+   <offer id="1229663" group_id="2006691" available="false">
+    <url>https://shop24.com/goods/pplate_charuyushchaya_krasota/?COLOR_GROUP=2006691</url>
+    <price>1399</price>
+    <oldprice>3399</oldprice>
+    <currencyId>RUR</currencyId>
+    <name>Платье Чарующая Красота</name>
+    <picture>https://www.leomax.ru/upload/iblock/e4c/e4ce805516722ae2001fa32fed244e86_thumb_880a0818457a68cdee643f6a039d39ab.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/d4c/d4c00249009e5230ffe0d420ae0480f1_thumb_b97410afda0cb908dd1b599163e779f0.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/27c/27c2281f4d707d1d147d0b00f483553f_thumb_9a2cb884ec8ab1cec2fed7b22b2cd402.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/f66/f66a1f546fb11c65f7c9aa0681251bfe_thumb_f63bfb9886201ee8b548c27cd049d1c1.jpg</picture>
+    <param name="Артикул">48822</param>
+    <param name="ГТК">48822</param>
+    <param name="СКУ">48822-63</param>
+    <param name ="SkuName">сиреневый</param>
+    <param name="Размер" unit="RU">52</param>
+    <param name="Бренд">Vivienne Mare</param>
+    <vendor>Vivienne Mare</vendor>
+    <param name="Размер российский (для одежды)">52</param>
+    <param name="Сезон">Лето</param>
+    <param name="Цвет">Фиолетовый</param>
+    <param name="Оттенок">Сиреневый</param>
+    <param name="Доступность товара">0</param>
+    <param name="Ликвидация">0</param>
+    <param name="Товар в эфире">0</param>
+    <param name="Новинка">0</param>
+    <param name="Рейтинг">5</param>
+    <param name="Количество отзывов">8</param>
+    <param name="Динамический бейдж">Акция|ffffff|ff8642</param>
+    <param name="Скидка">59</param>
+    <param name="groupId">1229633</param>
+   </offer>
+   <offer id="1229863" group_id="2006693" available="false">
+    <url>https://shop24.com/goods/pplate_charuyushchaya_krasota/?COLOR_GROUP=2006693</url>
+    <price>1399</price>
+    <oldprice>3399</oldprice>
+    <currencyId>RUR</currencyId>
+    <name>Платье Чарующая Красота</name>
+    <picture>https://www.leomax.ru/upload/iblock/606/60697186990cf22a81064a7bf052887a_thumb_a9064dbad6310f08999cf688ca9c460d.jpg</picture>
+    <param name="Артикул">48822</param>
+    <param name="ГТК">48822</param>
+    <param name="СКУ">48822-55</param>
+    <param name ="SkuName">лавандовый</param>
+    <param name="Размер" unit="RU">56</param>
+    <param name="Бренд">Vivienne Mare</param>
+    <vendor>Vivienne Mare</vendor>
+    <param name="Размер российский (для одежды)">56</param>
+    <param name="Сезон">Лето</param>
+    <param name="Цвет">Фиолетовый</param>
+    <param name="Доступность товара">0</param>
+    <param name="Ликвидация">0</param>
+    <param name="Товар в эфире">0</param>
+    <param name="Новинка">0</param>
+    <param name="Рейтинг">5</param>
+    <param name="Количество отзывов">8</param>
+    <param name="Динамический бейдж">Акция|ffffff|ff8642</param>
+    <param name="Скидка">59</param>
+    <param name="groupId">1229633</param>
+   </offer>
+   <offer id="1230033" group_id="2006701" available="false">
+    <url>https://shop24.com/goods/pplate_charuyushchaya_krasota/?COLOR_GROUP=2006701</url>
+    <price>1399</price>
+    <oldprice>3399</oldprice>
+    <currencyId>RUR</currencyId>
+    <name>Платье Чарующая Красота</name>
+    <picture>https://www.leomax.ru/upload/iblock/89e/89ef5f6578e8f688f2ada709d56a0819_thumb_367f9384456eaf91493bb6ec42c00a59.jpg</picture>
+    <param name="Артикул">48822</param>
+    <param name="ГТК">48822</param>
+    <param name="СКУ">48822-44</param>
+    <param name ="SkuName">зеленый</param>
+    <param name="Размер" unit="RU">54</param>
+    <param name="Бренд">Vivienne Mare</param>
+    <vendor>Vivienne Mare</vendor>
+    <param name="Размер российский (для одежды)">54</param>
+    <param name="Сезон">Лето</param>
+    <param name="Цвет">Зеленый</param>
+    <param name="Доступность товара">0</param>
+    <param name="Ликвидация">0</param>
+    <param name="Товар в эфире">0</param>
+    <param name="Новинка">0</param>
+    <param name="Рейтинг">5</param>
+    <param name="Количество отзывов">8</param>
+    <param name="Динамический бейдж">Акция|ffffff|ff8642</param>
+    <param name="Скидка">59</param>
+    <param name="groupId">1229633</param>
+   </offer>
+        </offers>
+ </shop>
+</yml_catalog>
