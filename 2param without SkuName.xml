@@ -1,0 +1,700 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<yml_catalog date="2025-01-28 21:00">
+ <shop>
+  <name>SHOP24</name>
+  <company>OOO «Дома ТВ»</company>
+  <url>https://shop24.com</url>
+	<offers>
+		<offer id="55B8D880-17B7-11E3-4937-A2582BA069FD" group_id="85D6D4B8-D346-AE2B-4F09-57ED88F21D6F" available="true">
+    <url>https://shop24.com/goods/bryuki_iz_tkani_gabardin_na_elastichnoy_lente/</url>
+    <description><![CDATA[<ul type="disc" style="background-color: #ffffff;"><li style="color: black; background-image: initial; background-repeat: initial;">Все: демисезон</li><li style="background-image: initial; background-repeat: initial;">Состав: 50% вискоза, 50%полиэстер&nbsp;</li><li style="color: black; background-image: initial; background-repeat: initial;">Страна-производитель:&nbsp;<span style="background-image: initial; background-repeat: initial;">Россия</span></li></ul><p style="background-color: #ffffff;"><span style="font-weight: 600;"><span style="color: #626262; background-image: initial; background-repeat: initial;">Преимущества</span></span></p><ul type="disc" style="background-color: #ffffff;"><li style="background-image: initial; background-repeat: initial;">В составе натуральная ткань</li><li style="background-image: initial; background-repeat: initial;">Не сковывает движения</li><li style="background-image: initial; background-repeat: initial;">Подойдёт для любого типа фигуры<br></li></ul><table cellspacing="0" cellpadding="0" width="99%" style="width: 99%; border-collapse: collapse;">
+ <tbody><tr>
+  <td width="32%" style="width: 32%; border-width: 1pt; border-style: solid; border-color: black;">
+  <p align="center"><span style="color: black;">Размер производителя</span></p>
+  </td>
+  <td width="8%" style="width: 8%; border-top: 1pt solid black; border-right: 1pt solid black; border-bottom: 1pt solid black; border-left-width: initial; border-left-color: initial;">
+  <p align="center"><span style="color: black;">48</span></p>
+  </td>
+  <td width="8%" style="width: 8%; border-top: 1pt solid black; border-right: 1pt solid black; border-bottom: 1pt solid black; border-left-width: initial; border-left-color: initial;">
+  <p align="center"><span style="color: black;">50</span></p>
+  </td>
+  <td width="8%" style="width: 8%; border-top: 1pt solid black; border-right: 1pt solid black; border-bottom: 1pt solid black; border-left-width: initial; border-left-color: initial;">
+  <p align="center"><span style="color: black;">52</span></p>
+  </td>
+  <td width="8%" style="width: 8%; border-top: 1pt solid black; border-right: 1pt solid black; border-bottom: 1pt solid black; border-left-width: initial; border-left-color: initial;">
+  <p align="center"><span style="color: black;">54</span></p>
+  </td>
+  <td width="8%" style="width: 8%; border-top: 1pt solid black; border-right: 1pt solid black; border-bottom: 1pt solid black; border-left-width: initial; border-left-color: initial;">
+  <p align="center"><span style="color: black;">56</span></p>
+  </td>
+  <td width="8%" style="width: 8%; border-top: 1pt solid black; border-right: 1pt solid black; border-bottom: 1pt solid black; border-left-width: initial; border-left-color: initial;">
+  <p align="center"><span style="color: black;">58</span></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="32%" style="width: 32%; border-right: 1pt solid black; border-bottom: 1pt solid black; border-left: 1pt solid black; border-top-width: initial; border-top-color: initial;">
+  <p align="center"><span style="color: black;">Размер российский (для
+  одежды)</span></p>
+  </td>
+  <td width="8%" style="width: 8%; border-top-width: initial; border-top-color: initial; border-left-width: initial; border-left-color: initial; border-bottom: 1pt solid black; border-right: 1pt solid black;">
+  <p align="center"><span style="color: black;">48</span></p>
+  </td>
+  <td width="8%" style="width: 8%; border-top-width: initial; border-top-color: initial; border-left-width: initial; border-left-color: initial; border-bottom: 1pt solid black; border-right: 1pt solid black;">
+  <p align="center"><span style="color: black;">50</span></p>
+  </td>
+  <td width="8%" style="width: 8%; border-top-width: initial; border-top-color: initial; border-left-width: initial; border-left-color: initial; border-bottom: 1pt solid black; border-right: 1pt solid black;">
+  <p align="center"><span style="color: black;">52</span></p>
+  </td>
+  <td width="8%" style="width: 8%; border-top-width: initial; border-top-color: initial; border-left-width: initial; border-left-color: initial; border-bottom: 1pt solid black; border-right: 1pt solid black;">
+  <p align="center"><span style="color: black;">54</span></p>
+  </td>
+  <td width="8%" style="width: 8%; border-top-width: initial; border-top-color: initial; border-left-width: initial; border-left-color: initial; border-bottom: 1pt solid black; border-right: 1pt solid black;">
+  <p align="center"><span style="color: black;">56</span></p>
+  </td>
+  <td width="8%" style="width: 8%; border-top-width: initial; border-top-color: initial; border-left-width: initial; border-left-color: initial; border-bottom: 1pt solid black; border-right: 1pt solid black;">
+  <p align="center"><span style="color: black;">58</span></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="32%" style="width: 32%; border-right: 1pt solid black; border-bottom: 1pt solid black; border-left: 1pt solid black; border-top-width: initial; border-top-color: initial;">
+  <p align="center"><span style="color: black;">Обхват бедер, см</span></p>
+  </td>
+  <td width="8%" style="width: 8%; border-top-width: initial; border-top-color: initial; border-left-width: initial; border-left-color: initial; border-bottom: 1pt solid black; border-right: 1pt solid black;">
+  <p align="center"><span style="color: black;">104</span></p>
+  </td>
+  <td width="8%" style="width: 8%; border-top-width: initial; border-top-color: initial; border-left-width: initial; border-left-color: initial; border-bottom: 1pt solid black; border-right: 1pt solid black;">
+  <p align="center"><span style="color: black;">108</span></p>
+  </td>
+  <td width="8%" style="width: 8%; border-top-width: initial; border-top-color: initial; border-left-width: initial; border-left-color: initial; border-bottom: 1pt solid black; border-right: 1pt solid black;">
+  <p align="center"><span style="color: black;">112</span></p>
+  </td>
+  <td width="8%" style="width: 8%; border-top-width: initial; border-top-color: initial; border-left-width: initial; border-left-color: initial; border-bottom: 1pt solid black; border-right: 1pt solid black;">
+  <p align="center"><span style="color: black;">116</span></p>
+  </td>
+  <td width="8%" style="width: 8%; border-top-width: initial; border-top-color: initial; border-left-width: initial; border-left-color: initial; border-bottom: 1pt solid black; border-right: 1pt solid black;">
+  <p align="center"><span style="color: black;">120</span></p>
+  </td>
+  <td width="8%" style="width: 8%; border-top-width: initial; border-top-color: initial; border-left-width: initial; border-left-color: initial; border-bottom: 1pt solid black; border-right: 1pt solid black;">
+  <p align="center"><span style="color: black;">124</span></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="32%" style="width: 32%; border-right: 1pt solid black; border-bottom: 1pt solid black; border-left: 1pt solid black; border-top-width: initial; border-top-color: initial;">
+  <p align="center"><span style="color: black;">Обхват талии, см</span></p>
+  </td>
+  <td width="8%" style="width: 8%; border-top-width: initial; border-top-color: initial; border-left-width: initial; border-left-color: initial; border-bottom: 1pt solid black; border-right: 1pt solid black;">
+  <p align="center"><span style="color: black;">78</span></p>
+  </td>
+  <td width="8%" style="width: 8%; border-top-width: initial; border-top-color: initial; border-left-width: initial; border-left-color: initial; border-bottom: 1pt solid black; border-right: 1pt solid black;">
+  <p align="center"><span style="color: black;">82</span></p>
+  </td>
+  <td width="8%" style="width: 8%; border-top-width: initial; border-top-color: initial; border-left-width: initial; border-left-color: initial; border-bottom: 1pt solid black; border-right: 1pt solid black;">
+  <p align="center"><span style="color: black;">86</span></p>
+  </td>
+  <td width="8%" style="width: 8%; border-top-width: initial; border-top-color: initial; border-left-width: initial; border-left-color: initial; border-bottom: 1pt solid black; border-right: 1pt solid black;">
+  <p align="center"><span style="color: black;">90</span></p>
+  </td>
+  <td width="8%" style="width: 8%; border-top-width: initial; border-top-color: initial; border-left-width: initial; border-left-color: initial; border-bottom: 1pt solid black; border-right: 1pt solid black;">
+  <p align="center"><span style="color: black;">94</span></p>
+  </td>
+  <td width="8%" style="width: 8%; border-top-width: initial; border-top-color: initial; border-left-width: initial; border-left-color: initial; border-bottom: 1pt solid black; border-right: 1pt solid black;">
+  <p align="center"><span style="color: black;">98</span></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="32%" style="width: 32%; border-right: 1pt solid black; border-bottom: 1pt solid black; border-left: 1pt solid black; border-top-width: initial; border-top-color: initial;">
+  <p align="center"><span style="color: black;">Длина по внутреннему
+  шву брюк, см</span></p>
+  </td>
+  <td width="8%" style="width: 8%; border-top-width: initial; border-top-color: initial; border-left-width: initial; border-left-color: initial; border-bottom: 1pt solid black; border-right: 1pt solid black;">
+  <p align="center"><span style="color: black;">80</span></p>
+  </td>
+  <td width="8%" style="width: 8%; border-top-width: initial; border-top-color: initial; border-left-width: initial; border-left-color: initial; border-bottom: 1pt solid black; border-right: 1pt solid black;">
+  <p align="center"><span style="color: black;">80</span></p>
+  </td>
+  <td width="8%" style="width: 8%; border-top-width: initial; border-top-color: initial; border-left-width: initial; border-left-color: initial; border-bottom: 1pt solid black; border-right: 1pt solid black;">
+  <p align="center"><span style="color: black;">80</span></p>
+  </td>
+  <td width="8%" style="width: 8%; border-top-width: initial; border-top-color: initial; border-left-width: initial; border-left-color: initial; border-bottom: 1pt solid black; border-right: 1pt solid black;">
+  <p align="center"><span style="color: black;">81</span></p>
+  </td>
+  <td width="8%" style="width: 8%; border-top-width: initial; border-top-color: initial; border-left-width: initial; border-left-color: initial; border-bottom: 1pt solid black; border-right: 1pt solid black;">
+  <p align="center"><span style="color: black;">81</span></p>
+  </td>
+  <td width="8%" style="width: 8%; border-top-width: initial; border-top-color: initial; border-left-width: initial; border-left-color: initial; border-bottom: 1pt solid black; border-right: 1pt solid black;">
+  <p align="center"><span style="color: black;">81</span></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="32%" style="width: 32%; border-right: 1pt solid black; border-bottom: 1pt solid black; border-left: 1pt solid black; border-top-width: initial; border-top-color: initial;">
+  <p align="center"><span style="color: black;">Длина по боковому шву
+  брюк, см</span></p>
+  </td>
+  <td width="8%" style="width: 8%; border-top-width: initial; border-top-color: initial; border-left-width: initial; border-left-color: initial; border-bottom: 1pt solid black; border-right: 1pt solid black;">
+  <p align="center"><span style="color: black;">105</span></p>
+  </td>
+  <td width="8%" style="width: 8%; border-top-width: initial; border-top-color: initial; border-left-width: initial; border-left-color: initial; border-bottom: 1pt solid black; border-right: 1pt solid black;">
+  <p align="center"><span style="color: black;">105</span></p>
+  </td>
+  <td width="8%" style="width: 8%; border-top-width: initial; border-top-color: initial; border-left-width: initial; border-left-color: initial; border-bottom: 1pt solid black; border-right: 1pt solid black;">
+  <p align="center"><span style="color: black;">105</span></p>
+  </td>
+  <td width="8%" style="width: 8%; border-top-width: initial; border-top-color: initial; border-left-width: initial; border-left-color: initial; border-bottom: 1pt solid black; border-right: 1pt solid black;">
+  <p align="center"><span style="color: black;">106</span></p>
+  </td>
+  <td width="8%" style="width: 8%; border-top-width: initial; border-top-color: initial; border-left-width: initial; border-left-color: initial; border-bottom: 1pt solid black; border-right: 1pt solid black;">
+  <p align="center"><span style="color: black;">106</span></p>
+  </td>
+  <td width="8%" style="width: 8%; border-top-width: initial; border-top-color: initial; border-left-width: initial; border-left-color: initial; border-bottom: 1pt solid black; border-right: 1pt solid black;">
+  <p align="center"><span style="color: black;">106</span></p>
+  </td>
+ </tr>
+</tbody></table><br>]]></description>
+    <price>899</price>
+    <oldprice>2399</oldprice>
+    <name>Брюки на эластичной ленте свободного кроя</name>
+    <picture>https://www.leomax.ru/upload/iblock/368/368714439fad81da2089116498561a13_thumb_5feec20088043f7ad774015d5e4d500e.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/100/100e367954fb592ba2a7d4beb3f0e6af_thumb_ebc683212b29e96eca0325e2fbb55613.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/947/947fef6813434988db1c71ae771b80fb_thumb_894ff46558ed460631183d72f5200ec4.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/1cf/1cf7e48aebd02bc67f2509d9c558d870_thumb_43c7fd16c16bb0f96ef9575c2027368a.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/0ea/0ea6db8bd647b1b72cb8c4e7e197967f_thumb_3211187342c97388c5692b7d1cc57b67.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/381/3810628f1de8b0348b06cb33742cf7ab_thumb_0a7b453e106fbb84276d75e0c2d3ce7c.jpg</picture>
+    <vendorCode>312117-26</vendorCode>
+    <param name="SkuGroupName">бежевый</param>
+    <param name="SkuName">58</param>
+   </offer>
+   <offer id="DCB4608E-FA2C-F22A-43C5-46B8CF3C0CA6" group_id="85D6D4B8-D346-AE2B-4F09-57ED88F21D6F" available="true">
+    <url>https://shop24.com/goods/bryuki_iz_tkani_gabardin_na_elastichnoy_lente/</url>
+    <price>899</price>
+    <oldprice>2399</oldprice>
+    <name>Брюки на эластичной ленте свободного кроя</name>
+    <picture>https://www.leomax.ru/upload/iblock/368/368714439fad81da2089116498561a13_thumb_5feec20088043f7ad774015d5e4d500e.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/100/100e367954fb592ba2a7d4beb3f0e6af_thumb_ebc683212b29e96eca0325e2fbb55613.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/947/947fef6813434988db1c71ae771b80fb_thumb_894ff46558ed460631183d72f5200ec4.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/1cf/1cf7e48aebd02bc67f2509d9c558d870_thumb_43c7fd16c16bb0f96ef9575c2027368a.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/0ea/0ea6db8bd647b1b72cb8c4e7e197967f_thumb_3211187342c97388c5692b7d1cc57b67.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/381/3810628f1de8b0348b06cb33742cf7ab_thumb_0a7b453e106fbb84276d75e0c2d3ce7c.jpg</picture>
+    <vendorCode>312117-21</vendorCode>
+    <param name="SkuGroupName">бежевый</param>
+    <param name="SkuName">48</param>
+   </offer>
+   <offer id="F9834AB5-5AB7-CACB-4D09-215D39591C45" group_id="85D6D4B8-D346-AE2B-4F09-57ED88F21D6F" available="true">
+    <url>https://shop24.com/goods/bryuki_iz_tkani_gabardin_na_elastichnoy_lente/</url>
+    <price>899</price>
+    <oldprice>2399</oldprice>
+    <name>Брюки на эластичной ленте свободного кроя</name>
+    <picture>https://www.leomax.ru/upload/iblock/368/368714439fad81da2089116498561a13_thumb_5feec20088043f7ad774015d5e4d500e.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/100/100e367954fb592ba2a7d4beb3f0e6af_thumb_ebc683212b29e96eca0325e2fbb55613.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/947/947fef6813434988db1c71ae771b80fb_thumb_894ff46558ed460631183d72f5200ec4.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/1cf/1cf7e48aebd02bc67f2509d9c558d870_thumb_43c7fd16c16bb0f96ef9575c2027368a.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/0ea/0ea6db8bd647b1b72cb8c4e7e197967f_thumb_3211187342c97388c5692b7d1cc57b67.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/381/3810628f1de8b0348b06cb33742cf7ab_thumb_0a7b453e106fbb84276d75e0c2d3ce7c.jpg</picture>
+    <vendorCode>312117-22</vendorCode>
+    <param name="SkuGroupName">бежевый</param>
+    <param name="SkuName">50</param>
+   </offer>
+   <offer id="1CFC8580-1CDE-E2AF-4695-BCF0CF7287E6" group_id="85D6D4B8-D346-AE2B-4F09-57ED88F21D6F" available="true">
+    <url>https://shop24.com/goods/bryuki_iz_tkani_gabardin_na_elastichnoy_lente/</url>
+    <price>899</price>
+    <oldprice>2399</oldprice>
+    <name>Брюки на эластичной ленте свободного кроя</name>
+    <picture>https://www.leomax.ru/upload/iblock/368/368714439fad81da2089116498561a13_thumb_5feec20088043f7ad774015d5e4d500e.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/100/100e367954fb592ba2a7d4beb3f0e6af_thumb_ebc683212b29e96eca0325e2fbb55613.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/947/947fef6813434988db1c71ae771b80fb_thumb_894ff46558ed460631183d72f5200ec4.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/1cf/1cf7e48aebd02bc67f2509d9c558d870_thumb_43c7fd16c16bb0f96ef9575c2027368a.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/0ea/0ea6db8bd647b1b72cb8c4e7e197967f_thumb_3211187342c97388c5692b7d1cc57b67.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/381/3810628f1de8b0348b06cb33742cf7ab_thumb_0a7b453e106fbb84276d75e0c2d3ce7c.jpg</picture>
+    <vendorCode>312117-23</vendorCode>
+    <param name="SkuGroupName">бежевый</param>
+    <param name="SkuName">52</param>
+   </offer>
+   <offer id="A725DB90-3D99-1E40-4710-C2316808D85F" group_id="85D6D4B8-D346-AE2B-4F09-57ED88F21D6F" available="true">
+    <url>https://shop24.com/goods/bryuki_iz_tkani_gabardin_na_elastichnoy_lente/</url>
+    <price>899</price>
+    <oldprice>2399</oldprice>
+    <name>Брюки на эластичной ленте свободного кроя</name>
+    <picture>https://www.leomax.ru/upload/iblock/368/368714439fad81da2089116498561a13_thumb_5feec20088043f7ad774015d5e4d500e.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/100/100e367954fb592ba2a7d4beb3f0e6af_thumb_ebc683212b29e96eca0325e2fbb55613.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/947/947fef6813434988db1c71ae771b80fb_thumb_894ff46558ed460631183d72f5200ec4.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/1cf/1cf7e48aebd02bc67f2509d9c558d870_thumb_43c7fd16c16bb0f96ef9575c2027368a.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/0ea/0ea6db8bd647b1b72cb8c4e7e197967f_thumb_3211187342c97388c5692b7d1cc57b67.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/381/3810628f1de8b0348b06cb33742cf7ab_thumb_0a7b453e106fbb84276d75e0c2d3ce7c.jpg</picture>
+    <vendorCode>312117-24</vendorCode>
+    <param name="SkuGroupName">бежевый</param>
+    <param name="SkuName">54</param>
+   </offer>
+   <offer id="8C2937A1-0D51-F95C-4598-66977FC9363F" group_id="85D6D4B8-D346-AE2B-4F09-57ED88F21D6F" available="true">
+    <url>https://shop24.com/goods/bryuki_iz_tkani_gabardin_na_elastichnoy_lente/</url>
+    <price>899</price>
+    <oldprice>2399</oldprice>
+    <name>Брюки на эластичной ленте свободного кроя</name>
+    <picture>https://www.leomax.ru/upload/iblock/d99/d999a8278943e6c48331bf17af7ab84b_thumb_3e304a6560a60fab3e42734c3b64463f.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/df7/df7ebaa6ecf6dc259aa2f84b7dff1a2e_thumb_c6479f3533bfd3505dee88be140cf127.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/613/6130234897b3d70263576b2d552388df_thumb_1d7120f9e59d77a95abd5af0b1597875.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/c7a/c7abbb48691785b7494593ddc459a029_thumb_08f5ab35d3f998af66750385a7e82d3e.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/70a/70ab3d27fabecc713794a9af13427211_thumb_2a9cd45ee71ff940e30e89c320f696c6.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/b3a/b3a813c670d74059526ebe1ad16ef592_thumb_f734d65e7be50ca9847161a93809be82.jpg</picture>
+    <vendorCode>312117-32</vendorCode>
+    <param name="SkuGroupName">бордовый</param>
+    <param name="SkuName">50</param>
+   </offer>
+   <offer id="55FEEEB0-4B25-D9CB-4FEA-952CFC46B6C5" group_id="85D6D4B8-D346-AE2B-4F09-57ED88F21D6F" available="true">
+    <url>https://shop24.com/goods/bryuki_iz_tkani_gabardin_na_elastichnoy_lente/</url>
+    <price>899</price>
+    <oldprice>2399</oldprice>
+    <name>Брюки на эластичной ленте свободного кроя</name>
+    <picture>https://www.leomax.ru/upload/iblock/368/368714439fad81da2089116498561a13_thumb_5feec20088043f7ad774015d5e4d500e.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/100/100e367954fb592ba2a7d4beb3f0e6af_thumb_ebc683212b29e96eca0325e2fbb55613.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/947/947fef6813434988db1c71ae771b80fb_thumb_894ff46558ed460631183d72f5200ec4.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/1cf/1cf7e48aebd02bc67f2509d9c558d870_thumb_43c7fd16c16bb0f96ef9575c2027368a.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/0ea/0ea6db8bd647b1b72cb8c4e7e197967f_thumb_3211187342c97388c5692b7d1cc57b67.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/381/3810628f1de8b0348b06cb33742cf7ab_thumb_0a7b453e106fbb84276d75e0c2d3ce7c.jpg</picture>
+    <vendorCode>312117-25</vendorCode>
+    <param name="SkuGroupName">бежевый</param>
+    <param name="SkuName">56</param>
+   </offer>
+   <offer id="1B0BE79E-D38B-6A90-4F8B-32DFD5ADADB7" group_id="85D6D4B8-D346-AE2B-4F09-57ED88F21D6F" available="true">
+    <url>https://shop24.com/goods/bryuki_iz_tkani_gabardin_na_elastichnoy_lente/</url>
+    <price>899</price>
+    <oldprice>2399</oldprice>
+    <name>Брюки на эластичной ленте свободного кроя</name>
+    <picture>https://www.leomax.ru/upload/iblock/d99/d999a8278943e6c48331bf17af7ab84b_thumb_3e304a6560a60fab3e42734c3b64463f.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/df7/df7ebaa6ecf6dc259aa2f84b7dff1a2e_thumb_c6479f3533bfd3505dee88be140cf127.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/613/6130234897b3d70263576b2d552388df_thumb_1d7120f9e59d77a95abd5af0b1597875.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/c7a/c7abbb48691785b7494593ddc459a029_thumb_08f5ab35d3f998af66750385a7e82d3e.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/70a/70ab3d27fabecc713794a9af13427211_thumb_2a9cd45ee71ff940e30e89c320f696c6.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/b3a/b3a813c670d74059526ebe1ad16ef592_thumb_f734d65e7be50ca9847161a93809be82.jpg</picture>
+    <vendorCode>312117-31</vendorCode>
+    <param name="SkuGroupName">бордовый</param>
+    <param name="SkuName">48</param>
+   </offer>
+   <offer id="C62BE18F-5986-0F61-4AD4-8CF9664E7453" group_id="85D6D4B8-D346-AE2B-4F09-57ED88F21D6F" available="true">
+    <url>https://shop24.com/goods/bryuki_iz_tkani_gabardin_na_elastichnoy_lente/</url>
+    <price>899</price>
+    <oldprice>2399</oldprice>
+    <name>Брюки на эластичной ленте свободного кроя</name>
+    <picture>https://www.leomax.ru/upload/iblock/f58/f580d1599f7429d556bf4d114e541777_thumb_5ae9f426673ed4ac344f68d5383b3a15.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/270/270538445cbe513e72d76729c9228fa4_thumb_fabb32b4ca5a34192add845b37426bfc.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/d7f/d7f899855d93db05b5415c3cdca4f8c3_thumb_5354540c12a6e0a83f7e3140b8047f3c.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/30f/30ffdd1c94cc0105249322feb1a1ffda_thumb_806900e089c6769f5305e703cda6b976.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/feb/febae543287e4a4d68c66c746eb96745_thumb_86f20dfa60831772c203b9985126dc87.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/31e/31ec829af05ac54884344bdd4c07b141_thumb_7797b6808d330dc46b82d9ef557e87ed.jpg</picture>
+    <vendorCode>312117-11</vendorCode>
+    <param name="SkuGroupName">серый</param>
+    <param name="SkuName">48</param>
+   </offer>
+   <offer id="460F1485-4502-181C-48F5-ADF0E37DA937" group_id="85D6D4B8-D346-AE2B-4F09-57ED88F21D6F" available="false">
+    <url>https://shop24.com/goods/bryuki_iz_tkani_gabardin_na_elastichnoy_lente/</url>
+    <price>899</price>
+    <oldprice>2399</oldprice>
+    <name>Брюки на эластичной ленте свободного кроя</name>
+    <picture>https://www.leomax.ru/upload/iblock/cc9/cc99db54baf20be8ed75a5217fa9bece_thumb_7afb0e82c928f8037fa3ec03bc263ea7.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/6bf/6bffd5432a6ff4010ffbc3f029ecd7e4_thumb_7ea2bdb7fdce3eaa85da7f32edea8b58.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/34a/34a767ee4d5265e0f6e7cd2972ee2720_thumb_ae02ca49d834245f85c51a4dcea05a85.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/bbe/bbedece3bd7f979bcf8a39c8b1ca039d_thumb_05d9cceb8b1d9e919274bbd50e59c21f.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/e49/e496b9292b552979919e4ed673887fb0_thumb_c930136a1d292afb8d61b5ba90c1c475.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/934/93405aaa9d22d4159d73f6e28ad86813_thumb_a2683b560d94c39e500c22064a1a9773.jpg</picture>
+    <vendorCode>312117-04</vendorCode>
+    <param name="SkuGroupName">черный</param>
+    <param name="SkuName">52</param>
+   </offer>
+   <offer id="BF520596-8F20-9A09-4E40-2C4511421F0F" group_id="85D6D4B8-D346-AE2B-4F09-57ED88F21D6F" available="false">
+    <url>https://shop24.com/goods/bryuki_iz_tkani_gabardin_na_elastichnoy_lente/</url>
+    <price>899</price>
+    <oldprice>2399</oldprice>
+    <name>Брюки на эластичной ленте свободного кроя</name>
+    <picture>https://www.leomax.ru/upload/iblock/f58/f580d1599f7429d556bf4d114e541777_thumb_5ae9f426673ed4ac344f68d5383b3a15.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/270/270538445cbe513e72d76729c9228fa4_thumb_fabb32b4ca5a34192add845b37426bfc.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/d7f/d7f899855d93db05b5415c3cdca4f8c3_thumb_5354540c12a6e0a83f7e3140b8047f3c.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/30f/30ffdd1c94cc0105249322feb1a1ffda_thumb_806900e089c6769f5305e703cda6b976.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/feb/febae543287e4a4d68c66c746eb96745_thumb_86f20dfa60831772c203b9985126dc87.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/31e/31ec829af05ac54884344bdd4c07b141_thumb_7797b6808d330dc46b82d9ef557e87ed.jpg</picture>
+    <vendorCode>312117-16</vendorCode>
+    <param name="SkuGroupName">серый</param>
+    <param name="SkuName">58</param>
+   </offer>
+   <offer id="58FB84AB-5F4B-EEF8-44A0-C0FC1FD6FCFB" group_id="85D6D4B8-D346-AE2B-4F09-57ED88F21D6F" available="false">
+    <url>https://shop24.com/goods/bryuki_iz_tkani_gabardin_na_elastichnoy_lente/</url>
+    <price>899</price>
+    <oldprice>2399</oldprice>
+    <name>Брюки на эластичной ленте свободного кроя</name>
+    <picture>https://www.leomax.ru/upload/iblock/f58/f580d1599f7429d556bf4d114e541777_thumb_5ae9f426673ed4ac344f68d5383b3a15.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/270/270538445cbe513e72d76729c9228fa4_thumb_fabb32b4ca5a34192add845b37426bfc.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/d7f/d7f899855d93db05b5415c3cdca4f8c3_thumb_5354540c12a6e0a83f7e3140b8047f3c.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/30f/30ffdd1c94cc0105249322feb1a1ffda_thumb_806900e089c6769f5305e703cda6b976.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/feb/febae543287e4a4d68c66c746eb96745_thumb_86f20dfa60831772c203b9985126dc87.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/31e/31ec829af05ac54884344bdd4c07b141_thumb_7797b6808d330dc46b82d9ef557e87ed.jpg</picture>
+    <vendorCode>312117-15</vendorCode>
+    <param name="SkuGroupName">серый</param>
+    <param name="SkuName">56</param>
+   </offer>
+   <offer id="644B38B1-E394-4E03-4235-C7A91487A7E0" group_id="85D6D4B8-D346-AE2B-4F09-57ED88F21D6F" available="false">
+    <url>https://shop24.com/goods/bryuki_iz_tkani_gabardin_na_elastichnoy_lente/</url>
+    <price>899</price>
+    <oldprice>2399</oldprice>
+    <name>Брюки на эластичной ленте свободного кроя</name>
+    <picture>https://www.leomax.ru/upload/iblock/cc9/cc99db54baf20be8ed75a5217fa9bece_thumb_7afb0e82c928f8037fa3ec03bc263ea7.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/6bf/6bffd5432a6ff4010ffbc3f029ecd7e4_thumb_7ea2bdb7fdce3eaa85da7f32edea8b58.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/34a/34a767ee4d5265e0f6e7cd2972ee2720_thumb_ae02ca49d834245f85c51a4dcea05a85.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/bbe/bbedece3bd7f979bcf8a39c8b1ca039d_thumb_05d9cceb8b1d9e919274bbd50e59c21f.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/e49/e496b9292b552979919e4ed673887fb0_thumb_c930136a1d292afb8d61b5ba90c1c475.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/934/93405aaa9d22d4159d73f6e28ad86813_thumb_a2683b560d94c39e500c22064a1a9773.jpg</picture>
+    <vendorCode>312117-07</vendorCode>
+    <param name="SkuGroupName">черный</param>
+    <param name="SkuName">58</param>
+   </offer>
+   <offer id="DCA5CDA7-04BB-5D2B-44D6-312D0BD14D6A" group_id="85D6D4B8-D346-AE2B-4F09-57ED88F21D6F" available="false">
+    <url>https://shop24.com/goods/bryuki_iz_tkani_gabardin_na_elastichnoy_lente/</url>
+    <price>899</price>
+    <oldprice>2399</oldprice>
+    <name>Брюки на эластичной ленте свободного кроя</name>
+    <picture>https://www.leomax.ru/upload/iblock/d99/d999a8278943e6c48331bf17af7ab84b_thumb_3e304a6560a60fab3e42734c3b64463f.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/df7/df7ebaa6ecf6dc259aa2f84b7dff1a2e_thumb_c6479f3533bfd3505dee88be140cf127.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/613/6130234897b3d70263576b2d552388df_thumb_1d7120f9e59d77a95abd5af0b1597875.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/c7a/c7abbb48691785b7494593ddc459a029_thumb_08f5ab35d3f998af66750385a7e82d3e.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/70a/70ab3d27fabecc713794a9af13427211_thumb_2a9cd45ee71ff940e30e89c320f696c6.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/b3a/b3a813c670d74059526ebe1ad16ef592_thumb_f734d65e7be50ca9847161a93809be82.jpg</picture>
+    <vendorCode>312117-34</vendorCode>
+    <param name="SkuGroupName">бордовый</param>
+    <param name="SkuName">54</param>
+   </offer>
+   <offer id="6B280F9A-A560-5A1E-4674-FB46373C51D8" group_id="85D6D4B8-D346-AE2B-4F09-57ED88F21D6F" available="false">
+    <url>https://shop24.com/goods/bryuki_iz_tkani_gabardin_na_elastichnoy_lente/</url>
+    <price>899</price>
+    <oldprice>2399</oldprice>
+    <name>Брюки на эластичной ленте свободного кроя</name>
+    <picture>https://www.leomax.ru/upload/iblock/cc9/cc99db54baf20be8ed75a5217fa9bece_thumb_7afb0e82c928f8037fa3ec03bc263ea7.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/6bf/6bffd5432a6ff4010ffbc3f029ecd7e4_thumb_7ea2bdb7fdce3eaa85da7f32edea8b58.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/34a/34a767ee4d5265e0f6e7cd2972ee2720_thumb_ae02ca49d834245f85c51a4dcea05a85.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/bbe/bbedece3bd7f979bcf8a39c8b1ca039d_thumb_05d9cceb8b1d9e919274bbd50e59c21f.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/e49/e496b9292b552979919e4ed673887fb0_thumb_c930136a1d292afb8d61b5ba90c1c475.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/934/93405aaa9d22d4159d73f6e28ad86813_thumb_a2683b560d94c39e500c22064a1a9773.jpg</picture>
+    <vendorCode>312117-03</vendorCode>
+    <param name="SkuGroupName">черный</param>
+    <param name="SkuName">50</param>
+   </offer>
+   <offer id="ACAD28B6-8468-E0FF-4A1B-8A8506CF9BAA" group_id="85D6D4B8-D346-AE2B-4F09-57ED88F21D6F" available="false">
+    <url>https://shop24.com/goods/bryuki_iz_tkani_gabardin_na_elastichnoy_lente/</url>
+    <price>899</price>
+    <oldprice>2399</oldprice>
+    <name>Брюки на эластичной ленте свободного кроя</name>
+    <picture>https://www.leomax.ru/upload/iblock/f58/f580d1599f7429d556bf4d114e541777_thumb_5ae9f426673ed4ac344f68d5383b3a15.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/270/270538445cbe513e72d76729c9228fa4_thumb_fabb32b4ca5a34192add845b37426bfc.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/d7f/d7f899855d93db05b5415c3cdca4f8c3_thumb_5354540c12a6e0a83f7e3140b8047f3c.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/30f/30ffdd1c94cc0105249322feb1a1ffda_thumb_806900e089c6769f5305e703cda6b976.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/feb/febae543287e4a4d68c66c746eb96745_thumb_86f20dfa60831772c203b9985126dc87.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/31e/31ec829af05ac54884344bdd4c07b141_thumb_7797b6808d330dc46b82d9ef557e87ed.jpg</picture>
+    <vendorCode>312117-14</vendorCode>
+    <param name="SkuGroupName">серый</param>
+    <param name="SkuName">54</param>
+   </offer>
+   <offer id="745B01B3-186D-2842-4C94-9595C089219C" group_id="85D6D4B8-D346-AE2B-4F09-57ED88F21D6F" available="false">
+    <url>https://shop24.com/goods/bryuki_iz_tkani_gabardin_na_elastichnoy_lente/</url>
+    <price>899</price>
+    <oldprice>2399</oldprice>
+    <name>Брюки на эластичной ленте свободного кроя</name>
+    <picture>https://www.leomax.ru/upload/iblock/d99/d999a8278943e6c48331bf17af7ab84b_thumb_3e304a6560a60fab3e42734c3b64463f.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/df7/df7ebaa6ecf6dc259aa2f84b7dff1a2e_thumb_c6479f3533bfd3505dee88be140cf127.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/613/6130234897b3d70263576b2d552388df_thumb_1d7120f9e59d77a95abd5af0b1597875.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/c7a/c7abbb48691785b7494593ddc459a029_thumb_08f5ab35d3f998af66750385a7e82d3e.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/70a/70ab3d27fabecc713794a9af13427211_thumb_2a9cd45ee71ff940e30e89c320f696c6.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/b3a/b3a813c670d74059526ebe1ad16ef592_thumb_f734d65e7be50ca9847161a93809be82.jpg</picture>
+    <vendorCode>312117-33</vendorCode>
+    <param name="SkuGroupName">бордовый</param>
+    <param name="SkuName">52</param>
+   </offer>
+   <offer id="37C18E9D-BD1A-ADE8-4DA6-A3F31E082407" group_id="85D6D4B8-D346-AE2B-4F09-57ED88F21D6F" available="false">
+    <url>https://shop24.com/goods/bryuki_iz_tkani_gabardin_na_elastichnoy_lente/</url>
+    <price>899</price>
+    <oldprice>2399</oldprice>
+    <name>Брюки на эластичной ленте свободного кроя</name>
+    <picture>https://www.leomax.ru/upload/iblock/f58/f580d1599f7429d556bf4d114e541777_thumb_5ae9f426673ed4ac344f68d5383b3a15.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/270/270538445cbe513e72d76729c9228fa4_thumb_fabb32b4ca5a34192add845b37426bfc.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/d7f/d7f899855d93db05b5415c3cdca4f8c3_thumb_5354540c12a6e0a83f7e3140b8047f3c.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/30f/30ffdd1c94cc0105249322feb1a1ffda_thumb_806900e089c6769f5305e703cda6b976.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/feb/febae543287e4a4d68c66c746eb96745_thumb_86f20dfa60831772c203b9985126dc87.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/31e/31ec829af05ac54884344bdd4c07b141_thumb_7797b6808d330dc46b82d9ef557e87ed.jpg</picture>
+    <vendorCode>312117-13</vendorCode>
+    <param name="SkuGroupName">серый</param>
+    <param name="SkuName">52</param>
+   </offer>
+   <offer id="2AF56D84-56D8-5360-4D73-2D3CB90FFF73" group_id="85D6D4B8-D346-AE2B-4F09-57ED88F21D6F" available="false">
+    <url>https://shop24.com/goods/bryuki_iz_tkani_gabardin_na_elastichnoy_lente/</url>
+    <price>899</price>
+    <oldprice>2399</oldprice>
+    <name>Брюки на эластичной ленте свободного кроя</name>
+    <picture>https://www.leomax.ru/upload/iblock/cc9/cc99db54baf20be8ed75a5217fa9bece_thumb_7afb0e82c928f8037fa3ec03bc263ea7.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/6bf/6bffd5432a6ff4010ffbc3f029ecd7e4_thumb_7ea2bdb7fdce3eaa85da7f32edea8b58.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/34a/34a767ee4d5265e0f6e7cd2972ee2720_thumb_ae02ca49d834245f85c51a4dcea05a85.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/bbe/bbedece3bd7f979bcf8a39c8b1ca039d_thumb_05d9cceb8b1d9e919274bbd50e59c21f.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/e49/e496b9292b552979919e4ed673887fb0_thumb_c930136a1d292afb8d61b5ba90c1c475.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/934/93405aaa9d22d4159d73f6e28ad86813_thumb_a2683b560d94c39e500c22064a1a9773.jpg</picture>
+    <vendorCode>312117-02</vendorCode>
+    <param name="SkuGroupName">черный</param>
+    <param name="SkuName">48</param>
+   </offer>
+   <offer id="856206B7-C7C4-79E5-4AF3-F8DEEA3E3053" group_id="85D6D4B8-D346-AE2B-4F09-57ED88F21D6F" available="false">
+    <url>https://shop24.com/goods/bryuki_iz_tkani_gabardin_na_elastichnoy_lente/</url>
+    <price>899</price>
+    <oldprice>2399</oldprice>
+    <name>Брюки на эластичной ленте свободного кроя</name>
+    <picture>https://www.leomax.ru/upload/iblock/d99/d999a8278943e6c48331bf17af7ab84b_thumb_3e304a6560a60fab3e42734c3b64463f.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/df7/df7ebaa6ecf6dc259aa2f84b7dff1a2e_thumb_c6479f3533bfd3505dee88be140cf127.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/613/6130234897b3d70263576b2d552388df_thumb_1d7120f9e59d77a95abd5af0b1597875.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/c7a/c7abbb48691785b7494593ddc459a029_thumb_08f5ab35d3f998af66750385a7e82d3e.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/70a/70ab3d27fabecc713794a9af13427211_thumb_2a9cd45ee71ff940e30e89c320f696c6.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/b3a/b3a813c670d74059526ebe1ad16ef592_thumb_f734d65e7be50ca9847161a93809be82.jpg</picture>
+    <vendorCode>312117-36</vendorCode>
+    <param name="SkuGroupName">бордовый</param>
+    <param name="SkuName">58</param>
+   </offer>
+   <offer id="45F060A8-6D89-8DF0-41BB-45F84F7A81C5" group_id="85D6D4B8-D346-AE2B-4F09-57ED88F21D6F" available="false">
+    <url>https://shop24.com/goods/bryuki_iz_tkani_gabardin_na_elastichnoy_lente/</url>
+    <price>899</price>
+    <oldprice>2399</oldprice>
+    <name>Брюки на эластичной ленте свободного кроя</name>
+    <picture>https://www.leomax.ru/upload/iblock/cc9/cc99db54baf20be8ed75a5217fa9bece_thumb_7afb0e82c928f8037fa3ec03bc263ea7.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/6bf/6bffd5432a6ff4010ffbc3f029ecd7e4_thumb_7ea2bdb7fdce3eaa85da7f32edea8b58.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/34a/34a767ee4d5265e0f6e7cd2972ee2720_thumb_ae02ca49d834245f85c51a4dcea05a85.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/bbe/bbedece3bd7f979bcf8a39c8b1ca039d_thumb_05d9cceb8b1d9e919274bbd50e59c21f.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/e49/e496b9292b552979919e4ed673887fb0_thumb_c930136a1d292afb8d61b5ba90c1c475.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/934/93405aaa9d22d4159d73f6e28ad86813_thumb_a2683b560d94c39e500c22064a1a9773.jpg</picture>
+    <vendorCode>312117-05</vendorCode>
+    <param name="SkuGroupName">черный</param>
+    <param name="SkuName">54</param>
+   </offer>
+   <offer id="9704A28F-A71F-0632-4289-B4853115A9B4" group_id="85D6D4B8-D346-AE2B-4F09-57ED88F21D6F" available="false">
+    <url>https://shop24.com/goods/bryuki_iz_tkani_gabardin_na_elastichnoy_lente/</url>
+    <price>899</price>
+    <oldprice>2399</oldprice>
+    <name>Брюки на эластичной ленте свободного кроя</name>
+    <picture>https://www.leomax.ru/upload/iblock/d99/d999a8278943e6c48331bf17af7ab84b_thumb_3e304a6560a60fab3e42734c3b64463f.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/df7/df7ebaa6ecf6dc259aa2f84b7dff1a2e_thumb_c6479f3533bfd3505dee88be140cf127.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/613/6130234897b3d70263576b2d552388df_thumb_1d7120f9e59d77a95abd5af0b1597875.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/c7a/c7abbb48691785b7494593ddc459a029_thumb_08f5ab35d3f998af66750385a7e82d3e.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/70a/70ab3d27fabecc713794a9af13427211_thumb_2a9cd45ee71ff940e30e89c320f696c6.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/b3a/b3a813c670d74059526ebe1ad16ef592_thumb_f734d65e7be50ca9847161a93809be82.jpg</picture>
+    <vendorCode>312117-35</vendorCode>
+    <param name="SkuGroupName">бордовый</param>
+    <param name="SkuName">56</param>
+   </offer>
+   <offer id="4E4D9F95-0486-A6E7-4AE0-1550EEBA32C1" group_id="85D6D4B8-D346-AE2B-4F09-57ED88F21D6F" available="false">
+    <url>https://shop24.com/goods/bryuki_iz_tkani_gabardin_na_elastichnoy_lente/</url>
+    <price>899</price>
+    <oldprice>2399</oldprice>
+    <name>Брюки на эластичной ленте свободного кроя</name>
+    <picture>https://www.leomax.ru/upload/iblock/f58/f580d1599f7429d556bf4d114e541777_thumb_5ae9f426673ed4ac344f68d5383b3a15.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/270/270538445cbe513e72d76729c9228fa4_thumb_fabb32b4ca5a34192add845b37426bfc.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/d7f/d7f899855d93db05b5415c3cdca4f8c3_thumb_5354540c12a6e0a83f7e3140b8047f3c.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/30f/30ffdd1c94cc0105249322feb1a1ffda_thumb_806900e089c6769f5305e703cda6b976.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/feb/febae543287e4a4d68c66c746eb96745_thumb_86f20dfa60831772c203b9985126dc87.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/31e/31ec829af05ac54884344bdd4c07b141_thumb_7797b6808d330dc46b82d9ef557e87ed.jpg</picture>
+    <vendorCode>312117-12</vendorCode>
+    <param name="SkuGroupName">серый</param>
+    <param name="SkuName">50</param>
+   </offer>
+   <offer id="4BB24D9D-1CAB-3C01-4365-EE5E94D8574D" group_id="85D6D4B8-D346-AE2B-4F09-57ED88F21D6F" available="false">
+    <url>https://shop24.com/goods/bryuki_iz_tkani_gabardin_na_elastichnoy_lente/</url>
+    <price>899</price>
+    <oldprice>2399</oldprice>
+    <name>Брюки на эластичной ленте свободного кроя</name>
+    <picture>https://www.leomax.ru/upload/iblock/cc9/cc99db54baf20be8ed75a5217fa9bece_thumb_7afb0e82c928f8037fa3ec03bc263ea7.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/6bf/6bffd5432a6ff4010ffbc3f029ecd7e4_thumb_7ea2bdb7fdce3eaa85da7f32edea8b58.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/34a/34a767ee4d5265e0f6e7cd2972ee2720_thumb_ae02ca49d834245f85c51a4dcea05a85.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/bbe/bbedece3bd7f979bcf8a39c8b1ca039d_thumb_05d9cceb8b1d9e919274bbd50e59c21f.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/e49/e496b9292b552979919e4ed673887fb0_thumb_c930136a1d292afb8d61b5ba90c1c475.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/934/93405aaa9d22d4159d73f6e28ad86813_thumb_a2683b560d94c39e500c22064a1a9773.jpg</picture>
+    <vendorCode>312117-06</vendorCode>
+    <param name="SkuGroupName">черный</param>
+    <param name="SkuName">56</param>
+   </offer>
+   <offer id="766ADC90-9383-1A36-48A6-8EEB3704DFE6" group_id="E0526398-BEDC-3745-45D5-3B59B578813A" available="true">
+    <url>https://shop24.com/goods/nabor_pravilnye_garniry_4_sht-double-1/</url>
+    <description><![CDATA[<h4><span style="color: black;">Особенности</span></h4>
+
+<p style="background-image: initial; background-color: white;"></p><ul><li><span style="color: black;">Являются
+источником пищевых волокон</span></li><li>Дают
+чувства сытости надолго</li><li>"Медленные"
+углеводы не вызывают скачков сахара в крови</li><li>Обеспечивают
+энергией</li><li>Калории рассчитаны на одну порцию (один варочный
+пакетик)</li><li>Необычное сочетание любимой многими крупы с
+насыщенными натуральными овощами</li><li>Тщательно подобранная рецептура</li><li>Гарнир упакован в варочный пакет, что облегчает
+приготовление</li><li>Полба содержит витамины группы В и клетчатку</li><li>Чечевица - источник растительного белка</li></ul><p></p>
+
+<p style="background-image: initial; background-color: white;"><b><span style="color: black;">Чечевица зеленая с
+полбой и овощами, 300 г</span></b></p>
+
+<p style="background-image: initial; background-color: white;"><span style="color: black;">Состав: чечевица зеленая, полба целая, морковь
+сушеная, паприка красная сладкая сушеная.</span></p>
+
+<p style="background-image: initial; background-color: white;"><b><span style="color: black;">Полба с грибами и
+овощами в варочных пакетиках, 300 г</span></b></p>
+
+<p style="background-image: initial; background-color: white;"><span style="color: black;">Состав: полба, шампиньоны сушеные, морковь сушеная,
+лук зеленый сушеный, чеснок сушеный.</span></p>
+
+<p style="background-image: initial; background-color: white;"><b><span style="color: black;">Рис бурый с овощами, 300
+г</span></b></p>
+
+<p style="background-image: initial; background-color: white;"><span style="color: black;">Состав: рис бурый резаный, морковь сушеная, паприка
+красная, лук сушеный зеленый, чеснок молотый.</span></p>
+
+<p><b><span style="color: black;">Гречка зеленая с грибами и овощами, 300 г</span></b></p>
+
+<p><span style="color: black;">Состав: гречка зеленая, шампиньоны
+сушеные, морковь сушеная, лук зеленый сушеный, чеснок сушеный. </span></p>
+
+<p style="background-image: initial; background-color: white;"><b><span style="color: black;">Ячмень с грибами и
+вялеными томатами, 300 г</span></b></p>
+
+<p style="background-image: initial; background-color: white;"><span style="color: black;">Состав: ячмень резаный, морковь сушеная, шампиньоны
+сушеные, вяленые томаты, чеснок сушеный, лук зеленый сушеный.</span></p>
+
+<h4><span style="color: black;">Характеристики</span></h4>
+
+<p>Срок годности: 12 месяцев</p>
+
+<p><span style="color: black;">Объем: 4 * 300 г</span></p>
+
+<p>Страна-производитель: Россия</p>
+
+<p>Страна бренда: Россия</p>]]></description>
+    <price>999</price>
+    <oldprice>1499</oldprice>
+    <name>Набор &amp;quot;Правильные гарниры&amp;quot;, 4 шт.</name>
+    <picture>https://www.leomax.ru/upload/iblock/8dc/8dc2b3f42b1a7b77696b7c2c5318b016_thumb_06010c53f1e33a46c71cb9af19a4b47d.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/02b/02bfdb7773c44dd178e173b448fa238d_thumb_7977a1e938c0dc732a6ba59808879c39.jpg</picture>
+    <vendorCode>600383-05</vendorCode>
+    <param name="SkuGroupName"> </param>
+    <param name="SkuName">Ячмень с грибами и вялеными томатами</param>
+   </offer>
+   <offer id="BF14D696-8F4D-C865-4118-606DE2810FF0" group_id="E0526398-BEDC-3745-45D5-3B59B578813A" available="true">
+    <url>https://shop24.com/goods/nabor_pravilnye_garniry_4_sht-double-1/</url>
+    <price>999</price>
+    <oldprice>1499</oldprice>
+    <name>Набор &amp;quot;Правильные гарниры&amp;quot;, 4 шт.</name>
+    <picture>https://www.leomax.ru/upload/iblock/0e6/0e6709147c86083d4b2c21272ea646a2_thumb_f032ad270a62762ac82038effea1f898.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/8d9/8d9a5093e7740215bc97f989353aa70b_thumb_7a3f2666fec5b2b9502639ba9504e38a.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/6a1/6a135ef47ef00f630dd79d058a4a7f5e_thumb_855a987a78dd73f79202c2595ccbfa86.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/52a/52ac6461edbd9d5f2657be9f2da0e3ca_thumb_d0f03a62f989991c913376a3ab0c8d22.jpg</picture>
+    <vendorCode>600383-04</vendorCode>
+    <param name="SkuGroupName"> </param>
+    <param name="SkuName">Полба с грибами и овощами</param>
+   </offer>
+   <offer id="A21FBEB5-9D6A-9E59-477A-2B4D62F47703" group_id="E0526398-BEDC-3745-45D5-3B59B578813A" available="true">
+    <url>https://shop24.com/goods/nabor_pravilnye_garniry_4_sht-double-1/</url>
+    <price>999</price>
+    <oldprice>1499</oldprice>
+    <name>Набор &amp;quot;Правильные гарниры&amp;quot;, 4 шт.</name>
+    <picture>https://www.leomax.ru/upload/iblock/096/096e4c6a25b3e69aac018e4c89426d88_thumb_007b36ab3a23a182430a1a41586b57e5.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/49a/49a1eca23f114ae2cb91f058fa73419c_thumb_ac36e42756edc769784a923e210fd033.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/3d6/3d6b5b27a7d85332fcfaa3150be9d82e_thumb_163bf52b0cd0474e4eb9406f5931d86c.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/cca/cca2afe580f48e806662b14a2d1a5469_thumb_3b5eba95803b158f66f7669b7d909b1d.jpg</picture>
+    <vendorCode>600383-01</vendorCode>
+    <param name="SkuGroupName"> </param>
+    <param name="SkuName">Чечевица зеленая с полбой и овощами</param>
+   </offer>
+   <offer id="37678EBD-0B67-98CA-49E6-E8F8BBF33074" group_id="E0526398-BEDC-3745-45D5-3B59B578813A" available="true">
+    <url>https://shop24.com/goods/nabor_pravilnye_garniry_4_sht-double-1/</url>
+    <price>999</price>
+    <oldprice>1499</oldprice>
+    <name>Набор &amp;quot;Правильные гарниры&amp;quot;, 4 шт.</name>
+    <picture>https://www.leomax.ru/upload/iblock/49d/49dc244471330d298934fbcd6a64b004_thumb_150af06bcba73c68d3af58305018fd76.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/a31/a31e82d7e1a10ef9d5b3ee2804209415_thumb_81082867baa5bac6c5371a15b2fdd85c.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/be8/be8d7ac9b882fa2959d4bb7d25f49845_thumb_44536615e6d3eb2173272aff025af4e4.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/76b/76b7c7cf1ad27374a3e92acbd14e991a_thumb_7d778ae2f35f725674772e57ac595ea1.jpg</picture>
+    <vendorCode>600383-02</vendorCode>
+    <param name="SkuGroupName"> </param>
+    <param name="SkuName">Гречка зеленая с грибами и овощами</param>
+   </offer>
+   <offer id="2CF2C6BE-78F6-C983-4275-8B33BAD94AF2" group_id="E0526398-BEDC-3745-45D5-3B59B578813A" available="true">
+    <url>https://shop24.com/goods/nabor_pravilnye_garniry_4_sht-double-1/</url>
+    <price>999</price>
+    <oldprice>1499</oldprice>
+    <name>Набор &amp;quot;Правильные гарниры&amp;quot;, 4 шт.</name>
+    <picture>https://www.leomax.ru/upload/iblock/974/9741d3ccfca8207411479dfadaa25063_thumb_adbe724437b673c8bbb38b68ded04d41.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/b13/b132b0b3a0882c62383c83d8ac82bf7c_thumb_92156933f168ef084eb18af608f4449e.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/e0e/e0e90735c4a7423e0bd546d76efe05f2_thumb_b0b018271a01071698d2a5372c89b2e7.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/e97/e97116c79335b81186c2656704177492_thumb_0aa4e5ab299e6ff3d21ae99eef95bab6.jpg</picture>
+    <vendorCode>600383-03</vendorCode>
+    <param name="SkuGroupName"> </param>
+    <param name="SkuName">Рис бурый с овощами</param>
+   </offer>
+   <offer id="1A808B9A-5DC4-D6F0-4058-5FD7AFEE13C5" group_id="E0526398-BEDC-3745-45D5-3B59B578813A" available="true">
+    <url>https://shop24.com/goods/nabor_pravilnye_garniry_4_sht-double-1/</url>
+    <price>999</price>
+    <oldprice>1499</oldprice>
+    <name>Набор &amp;quot;Правильные гарниры&amp;quot;, 4 шт.</name>
+    <picture>https://www.leomax.ru/upload/iblock/f68/f6860f04938b3f8309699911ae898c24_thumb_9b9f5605e7faef3a3deca28b1704d576.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/d00/d006c1e7c216dabe80d759f9fa568ea7_thumb_f15660ff0e42f4ba116c3a9cfe005aaf.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/632/632dd9443048097ed2e7cc1594e4edfc_thumb_13865cfd2f7ac22ed7d1858e38a1658a.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/4dd/4ddac6ce31247f13de97cde173d45738_thumb_b1e94cdcae99937ecd7910d447aac7da.jpg</picture>
+    <vendorCode>600383-06</vendorCode>
+    <param name="SkuGroupName"> </param>
+    <param name="SkuName">Полба с цукини и грибами</param>
+   </offer>
+      <offer id="C83B14AB-4B63-10BC-42CA-89227C8A5151" group_id="3B430882-F8A7-F62B-48D1-BA760F64398E" available="true">
+    <url>https://shop24.com/goods/syvorotka_lifting_s_brilliantovoy_pudroy/</url>
+    <description><![CDATA[<p><b>Особенности</b></p>
+
+<p></p><ul><li>Удаляет ороговевшие клетки и очищает поры от загрязнений</li><li>Делает кожный покров более гладким и упругим</li><li>Улучшает микроциркуляцию, укрепляет местный иммунитет</li></ul><p></p>
+
+<p>Сыворотка с пептидами и пудрой розового бриллианта
+способствует устранению видимых признаков старения, обеспечивает увлажнение и
+восстанавливает водный баланс, делает кожу более эластичной и бархатистой.</p>
+
+<p><b>Ключевые ингредиенты</b></p>
+
+<p><b>Бриллиантовая пудра</b>
+активизирует выработку коллагена, стимулирует обновление клеток, обладает
+заживляющими свойствами, осветляет пигментацию, эффективно увлажняет дерму,
+делая ее более здоровой и сияющей, улучшает текстуру и цвет кожи.</p>
+
+<p>Способ применения: наносить ежедневно утром и/или вечером.
+Подходит для женщин 35+.</p>
+
+<p>Меры предосторожности: не использовать при индивидуальной
+непереносимости компонентов.</p>
+
+<p>Состав: вода, карбомер, ниацинамид, бутиленгликоль,
+полисорбат 20, трипептид, тетрапептид, сополимер акриламида и аммония акрилата,
+полиакрилат натрия, лецитин, натрия PCA, лактат натрия, аргинин, аспарагиновая
+кислота, PCA аланин, глицин, серин, гистидин, фенилаланин, алмазный порошок,
+экстракт корня аморфофаллуса конжака, экстракт календулы, экстракт череды
+трехраздельной, экстракт стебля бамбука тростникового, гель алоэ вера,
+глицерин, масло виноградных косточек, аргановое масло, масло жожоба, витамин Е,
+D-пантенол, комплекс еClean, гидролизованный коллаген, гидролизованный эластин,
+феноксиэтанол, пропиленгликоль, ароматизатор.</p>
+
+<p>Условия хранения: хранить при комнатной температуре не выше +25
+°C и относительной влажности воздуха не более 75%.</p>
+
+<p><b>Характеристики</b></p>
+
+<p>Тип ухода: уход за лицом</p>
+
+<p>Объем: 50 мл</p>
+
+<p>Срок годности: 3 года</p>
+
+<p>Страна бренда: Россия</p>
+
+<p>Страна производства: Россия</p>
+
+<p><b>О бренде</b></p>
+
+<p>BoGems — эксклюзивная косметика с уникальной корейской
+формулой и натуральными экстрактами. В продукции бренда сочетаются высококлассные
+косметические технологии и эффективные ингредиенты, которые помогают ухаживать
+за кожей, обеспечивая ей здоровый и безупречный вид.</p>]]></description>
+    <price>1299</price>
+    <oldprice>1999</oldprice>
+    <name>Сыворотка-лифтинг с бриллиантовой пудрой</name>
+    <picture>https://www.leomax.ru/upload/iblock/cf0/cf0ae469b681c284749595d9aba2f1e3_thumb_78fb15bc888127a5f931494c4b22c9f8.jpg</picture>
+    <picture>https://www.leomax.ru/upload/iblock/2ab/2ab357d5facbc573b3caacbbba2f4110_thumb_bda9ec1ad37a6ba09b356fd5de46f38b.jpg</picture>
+    <vendorCode>405092-01</vendorCode>
+    <param name="SkuGroupName"> </param>
+   </offer>
+    </offers>
+ </shop>
+</yml_catalog>
