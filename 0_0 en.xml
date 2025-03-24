@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2024-11-07 15:01">
+	<shop>
+		<name>ushatava.com</name>
+		<company>Ushatava</company>
+		<url>https://www.ushatava.com</url>
+		<currencies>
+			<currency id="RUB" rate="1"/>
+		</currencies>
+		<categories>			<category id="113">Одежда</category>
+					<category id="124" parentId="113">Новинки</category>
+					<category id="162" parentId="113">ОДЕЖДА</category>
+					<category id="117" parentId="162">Верхняя одежда</category>
+					<category id="361" parentId="162">Рубашки</category>
+					<category id="346" parentId="162">Blazerи</category>
+					<category id="125" parentId="162">Платья</category>
+					<category id="128" parentId="162">Свитшоты и худи</category>
+					<category id="129" parentId="162">Юбки</category>
+					<category id="228" parentId="162">Лонгсливы и футболки</category>
+					<category id="443" parentId="162">Топы и корсеты</category>
+					<category id="380" parentId="162">Джемперы и кардиганы</category>
+					<category id="562" parentId="162">Брюки и джинсы</category>
+					<category id="497" parentId="162">Белье</category>
+					<category id="217" parentId="162">Показать все товары</category>
+					<category id="520" parentId="162">Подарки</category>
+					<category id="487" parentId="162">Sale</category>
+					<category id="145" parentId="113">Аксессуары</category>
+					<category id="378" parentId="113">Обувь</category>
+					<category id="229" parentId="113">Украшения</category>
+					<category id="231" parentId="113">Мужское</category>
+					<category id="390">Коллекции</category>
+					<category id="358" parentId="390">Second Dress</category>
+					<category id="372" parentId="390">Garderobe</category>
+					<category id="377" parentId="390">Paper Street</category>
+					<category id="561" parentId="390">I am that I am</category>
+					<category id="352">Coming soon</category>
+					<category id="454">Выбор Алисы Ушаковой</category>
+					<category id="389">Footer Fall Winter 24/25</category>
+					<category id="373">Denim</category>
+					<category id="459">Выбор Виктории Егоровой</category>
+		</categories>
+		<adult>false</adult>
+    	<offers><offer id="140954" available="true">
+    				<url>https://www.ushatava.ru/catalog/odezhda/muzhskoe/pidzhak-over-fit-ss24/?offer=140954</url>
+    				<price>29900</price>
+    				    				<currencyId>KZT</currencyId>
+    				<categoryId>346</categoryId>
+    				<picture>https://916316.selcdn.ru/ushatava4/resize_cache/413046/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/fc9/fc98f6b7e21bf5610d1ccf61256d9d54/c0d73515a5032c432f2f06d5456ffd1f.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/413047/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/81b/81b005778e743159b2ef1a40119ef789/2e4a409f8d1c56ddf7950b254685d140.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/413048/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/ef7/ef725c42a42afdcb35bd30a46fcc4d06/c9898e8ffa9e0be096ad5f6c47b9975d.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/413049/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/fe6/fe65b3a2306b9c86659bad3f9acc1aca/67f6ec3ba60009892a55e1b428a59181.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/413050/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/5bd/5bdb4d35c4ba9848edbf73b380925155/d0e60153aa77f9c5bd0b481eb8c87c2e.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/413051/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/e2c/e2ce977f835bb28a7c312953ec04e32c/b9b2f3ff7ea831c54614e0341e748a5a.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/413052/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/adf/adfec270a823eb4a299749c17162d20c/67b93714e85159c4dd15a182f443df43.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/413053/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/851/851208089e40e3506156366e3aa506ac/851148a1c0de22d2b43fea6ab9c9ab72.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/413054/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/558/558a9eed8ceb6da9d796bd25f26861e7/c46ac90839377a9f95beb1eba714ef7d.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/413055/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/d50/d50495791c9615eefc04bac410b9b5b6/bca6eaf436d54d686333da59593779a6.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/413056/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/68e/68ebf3b5b7cd30933b254793db9a1b28/de578b7cc06a3958c0063d95f1b31281.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/413057/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/d68/d687e1cbbab0a6062c927a6740111e9e/6ac68851280337d5d736d75efd0b9aaa.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/413058/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/aac/aac903044208166379d165effb78a58a/289a30c6de0bd81018a69464e944a1f5.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/413059/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/312/31219eeda243d3c17d2e6c4ed33db333/9bf95262130e6044df5329fc2fad2520.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/413060/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/e08/e08464f8e854239b86e19ab97acb6042/d953030ccc43f7669513e0db5d3eff1f.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/413061/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/44e/44e25579210fb90ba0a13316e6911f20/5baa689859850d37fe9189dc301d1965.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/413062/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/2ef/2ef0d719155848fd53744bc53c6d4242/3a947803c56c18f7cc93c30ef7838ac2.jpg</picture>    				<delivery>true</delivery>
+    				<vendor>Ushatava</vendor>
+                    <vendorCode>JK0523012</vendorCode>
+    
+                    <name>Blazer Over Fit</name>
+    				<description><![CDATA[]]></description>
+    				<param name="Цвет">black</param>
+    				<param name="Состав">Base: 65% polyester, 33% viscose, 2% spandex. Lining: 52% terylene, 48% viscose.</param>
+				</offer><offer id="140955" available="true">
+    				<url>https://www.ushatava.ru/catalog/odezhda/muzhskoe/pidzhak-over-fit-ss24/?offer=140955</url>
+    				<price>29900</price>
+    				    				<currencyId>KZT</currencyId>
+    				<categoryId>346</categoryId>
+    				<picture>https://916316.selcdn.ru/ushatava4/resize_cache/406300/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/c65/c65eb40e009dddbfb65427cd3039d4f8/1dc2d750c8258df2bd99a5beb9f576ca.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/406301/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/ddc/ddc03ca43d27fbfa7c85334c28a853c9/331a60add84e016d53a278b6a0ba2b86.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/406302/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/239/2394ebf21ed54606ba14fc5cf3bb5b7b/9bdf75adf7646ff83c0a7cfbb55fc12c.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/406303/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/7ff/7ff050f6c02c18768817654be39c77b2/1b78fe5ca6fbe539aae75bda931024e8.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/406304/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/5f2/5f27234db10b19e9147448890a76976f/5fdbb4385504a193a479f5b00b451453.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/406305/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/5ac/5ac059c87b49ffab554d0ddc386c6c2d/889158844cedf748fd85344b68770909.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/406306/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/ef7/ef7632a423b5b5067706f824e0639dec/912c509e462847c17a83e36d016ef379.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/406307/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/a30/a308b7ba1d2f4b651ed0b53f8955f116/eb5a749ea6af07b5a55f25005fed7561.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/406308/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/10c/10c60eb56155309d6c735c67322d34d3/0c0be8b6921f7d5b51d2f4470e508166.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/406309/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/fa6/fa64ba212c65699c11b664ed27ea996b/018784ca9d72c25836f2485d0d31a0c1.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/406310/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/f7a/f7a665dc53d9d03b107a2869c3525fc3/e366ba105d49e5e376411b8fa7a5f0a0.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/406311/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/f89/f89aafa75e0a5441d016d3c4f9b7f453/f324c2a74e89bc8b1359dd1e52f1cd44.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/406312/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/032/032d4a1f784701043f02c3f42cddff2b/10c103230d76ef61f5af4d5e42c4592a.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/406313/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/aeb/aeb8a044a978f4dfd45ec1a95189169c/061062cfdf300dcd2b5018e62711d113.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/406314/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/be9/be9df6b6542109094bf653f9b3bc7534/39c14d4fd2f7b288a783b63a91b7a98d.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/406315/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/dcd/dcd2aabbcf19498bf7e35678b26a4f0a/e1b281896e81c90eaeaaf89578c5ac83.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/406316/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/575/5758f3a8e596a05ca5478038756e0c5e/891f9f4d293754794a7ee5fa8ff2b246.jpg</picture>    				<delivery>true</delivery>
+    				<vendor>Ushatava</vendor>
+                    <vendorCode>JK0523012</vendorCode>
+    
+                    <name>Blazer Over Fit</name>
+    				<description><![CDATA[]]></description>
+    				<param name="Цвет">black</param>
+    				<param name="Состав">Base: 65% polyester, 33% viscose, 2% spandex. Lining: 52% terylene, 48% viscose.</param>
+				</offer><offer id="140956" available="true">
+    				<url>https://www.ushatava.ru/catalog/odezhda/muzhskoe/pidzhak-over-fit-ss24/?offer=140956</url>
+    				<price>29900</price>
+    				    				<currencyId>KZT</currencyId>
+    				<categoryId>346</categoryId>
+    				<picture>https://916316.selcdn.ru/ushatava4/resize_cache/413072/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/262/262bd572649447e5f4f5fc5406e7bf09/2bea55f276206b907e3be09ceeee6441.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/413073/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/519/519a93351a037e81bc5ee8b047ff4d04/15ac0b89ef44d72cec55bde2c3ad1c3a.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/413074/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/13a/13aa231e059b7f0a47b6fc26a80a7a4b/1705208bf557eeec3379b59fe7189a87.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/413075/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/edd/edd67bd8b8d201cdbd01d2d602fc2827/0f9be6e0119b7dd50b4882155a0d3040.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/413076/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/542/54232c2da7de75366cf3a54951c51ad3/24dcebc9375b042beb337344b6ed6cfb.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/413077/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/1ec/1ec51cf0620dff6ea72c369dd023c505/cd604fa0c3d9f9f953681afe4f3c1782.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/413078/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/05a/05ae3154aeba18e96165ad217d590749/768dd2b9190fa9232a6b51376b5342f3.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/413079/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/c55/c55995f6cd9873a82f6de3db0b564746/24d047fe66df39d40951721afdca1c68.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/413080/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/ce5/ce50d8acaa20bbd1a893665b1397a3ed/e005e976f692f788fd967fed904976a7.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/413081/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/343/343893a82c939ac3c0d885eabdd5ca8d/7701588d9a1f1ba650f419ba1b76110a.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/413082/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/eac/eac9fcef01b3054ae8bc4b7fd4b1803f/8e3b321dda78707d88c7cd3cfd83adaa.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/413083/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/d3d/d3d068c8a4569bfd4042a5e0b45969d2/c5bacf87d6eb62ef8ad31f45ab5949f3.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/413084/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/238/2388fb8073dc6ec853187022cf9f8a7c/3f6820d46c930ec67a71e294403e42e3.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/413085/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/652/652909bd7894dc500c63e24f24fea2d5/043d0cc9a76719470e2fa58b55db19c1.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/413086/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/3a2/3a21b4ba287f146d2392d4f59f3e853b/9d97b9138c73f5c925c3863b1b4a62e6.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/413087/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/9b7/9b71a4dfb3e4211d2b3572797cd76ee2/05df423577b818161b3b90166ed99a15.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/413088/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/8ff/8ff7b3b40cf0cbcfc178c425c14a4448/a6a13b268fc8543f5ca7096a3a2a3980.jpg</picture>    				<delivery>true</delivery>
+    				<vendor>Ushatava</vendor>
+                    <vendorCode>JK0523012</vendorCode>
+    
+                    <name>Blazer Over Fit</name>
+    				<description><![CDATA[]]></description>
+    				<param name="Цвет">black</param>
+    				<param name="Состав">Base: 65% polyester, 33% viscose, 2% spandex. Lining: 52% terylene, 48% viscose.</param>
+				</offer><offer id="145278" available="true">
+    				<url>https://www.ushatava.ru/catalog/odezhda/muzhskoe/pidzhak-over-fit-ss24/?offer=145278</url>
+    				<price>29900</price>
+    				    				<currencyId>KZT</currencyId>
+    				<categoryId>346</categoryId>
+    				<picture>https://916316.selcdn.ru/ushatava4/resize_cache/421194/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/bec/bec7aca842b84bf0b7f7b0e1a7a878f5/2bd59a4907e639c6fff9f327f685807c.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/421188/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/3f8/3f80c6d2ca9ee0dbbeea4743116033e3/283cca9c070a6a82bd87a6b109f948be.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/421189/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/3f4/3f474c21da3e6a94ca2d3ca6e072f844/f4049dbd4e2168891da0b181e8142f30.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/421190/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/b8a/b8ac29c9e538a5ef8fd5cfb726d612fb/8c326d2624e8cb4089b7d25b44120fa9.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/421191/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/7c4/7c40c1c95825301b1846fa5ca6cc72bd/502068ecd28a57116bfb24bf3ef7b576.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/421192/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/338/338dc644875bbfa40a5291917d74ef72/82124e298d9973de539a0df35ab207f1.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/421193/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/d18/d18a408b491fd0577e1bd9c14606c686/8ac758e38239b7636c9b6d20693e2c7e.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/421195/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/981/98181644bd36fd10546b736043fcc3ee/83b71292baec287dfd81a11b220d7425.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/421196/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/4a3/4a35e0fe97dddd4d79cfc9b9f61ccbc4/b732929cbd4a5c29e8054dac9d33a54a.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/421197/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/c70/c702b72d6bd7a33d9da42a1d98bdb843/502540f059a8519ecb877648b54cc534.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/421198/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/c65/c65a8cee61a5ae894d23a0ce21601761/48e63f72df1e73602de744aa3440c88f.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/421199/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/6a5/6a537b8757ecd20e526e32108a161b23/87ae3077e3d20f9f524b8ab4700a1615.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/421200/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/8cd/8cd24f3443b8ee06acd6be9ce1fa8158/b557a2a1dae6152e74d7416d251ba72b.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/421201/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/0e7/0e71c2ec544006e77f9b61594b419834/ebf67e604013a33a1e7fde654ac6ad88.jpg</picture>    				<delivery>true</delivery>
+    				<vendor>Ushatava</vendor>
+                    <vendorCode>JK0523012</vendorCode>
+    
+                    <name>Blazer Over Fit</name>
+    				<description><![CDATA[]]></description>
+    				<param name="Цвет">dark brown</param>
+    				<param name="Состав">Base: 65% polyester, 33% viscose, 2% spandex. Lining: 52% terylene, 48% viscose.</param>
+				</offer><offer id="145279" available="true">
+    				<url>https://www.ushatava.ru/catalog/odezhda/muzhskoe/pidzhak-over-fit-ss24/?offer=145279</url>
+    				<price>29900</price>
+    				    				<currencyId>KZT</currencyId>
+    				<categoryId>346</categoryId>
+    				<picture>https://916316.selcdn.ru/ushatava4/resize_cache/413028/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/ba8/ba8bc0fed8990f1de0232196eba02321/db7905b947b603857769bd0e55786848.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/413027/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/766/7664cb3a8f59f2fb076a3e47c1f1cf17/83b3a3b631b141d00b14edcbc1e6258f.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/413026/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/f3c/f3cd3fe3b2d09c9dcfc626a09011ab83/9f7bf1631bae4e25ee73cf3f6a53e511.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/413029/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/f62/f627b2739dbda13f07846396c51c6083/6659cbfbc1871fd2036c79d1b1be71b5.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/413030/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/94d/94d09504bc555c038e7d092c6c60fec2/7b52a1d466a2b9efcf56f87c7f06e7fd.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/413031/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/cfb/cfbed81447c40a5c1199fa43743ff1fd/d166cfb89d4b84ef519f4cf90f96fad0.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/413032/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/cbe/cbeed296545e63b2fc0c76a016727cf4/862505d945823fdcfaa847a92eb81320.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/413033/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/964/964c10df5fdcbadde13c3bd10f95ff4e/b13eb195c3cc9d297cd8d1527199ff52.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/413034/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/988/98832f1a9a7765c6ffa2540f6fde2fdd/5b59dca0b4a7a1c935fd547e776476db.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/413035/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/a56/a5634485167aaf91663ef9e8cc3cc7e2/ba4934a694935ab647d71885a324f1ca.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/413036/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/b48/b4881a40778010f4737eff3e94d9143d/414318f1d969eb1d7f991f593ed51a18.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/413037/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/e47/e47456649defb8b4a106f2fcf9381e5b/962f7f4b39cb8482607b2dbb730b1053.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/413038/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/64a/64a3ddd050310ac1f3975823d1896e19/c51bd60d0ca47137cbcadcf5e1453441.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/413039/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/e88/e8877872dd12aa2a9b2d2796fd43b67b/7e471d0169aa5215f5433523558b0a2b.jpg</picture>    				<delivery>true</delivery>
+    				<vendor>Ushatava</vendor>
+                    <vendorCode>JK0523012</vendorCode>
+    
+                    <name>Blazer Over Fit</name>
+    				<description><![CDATA[]]></description>
+    				<param name="Цвет">dark brown</param>
+    				<param name="Состав">Base: 65% polyester, 33% viscose, 2% spandex. Lining: 52% terylene, 48% viscose.</param>
+				</offer><offer id="145280" available="true">
+    				<url>https://www.ushatava.ru/catalog/odezhda/muzhskoe/pidzhak-over-fit-ss24/?offer=145280</url>
+    				<price>29900</price>
+    				    				<currencyId>KZT</currencyId>
+    				<categoryId>346</categoryId>
+    				<picture>https://916316.selcdn.ru/ushatava4/resize_cache/421210/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/8df/8dfaf24e6dfd9ee9a6d8d7adc840ec92/b3e99f7927604836e81293e47267b1fb.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/421208/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/49f/49fb1fd17f534979a1a2bb900d13c1d0/6b3b416e0ac3a6c7d48918e9bdeb55b3.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/421209/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/a1a/a1a91e4924bdf42d993095c86c658ddc/2a26bca4429cd6e30cd6f358295b3c76.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/421211/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/14d/14de3974d5db47f908c1ee9352edaf88/8f1a2c51c52a11cce713d6d00c0918e1.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/421212/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/ff9/ff9d4d2fa5c2bf7d49be242b97ebd3ac/95d53bfb9a729eab62979416b5c2380a.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/421213/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/5c2/5c2dd55a42327de8b1138d97727430c1/af4a6a83025422c78c892e38e4fd1d97.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/421214/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/1c4/1c4d3f9d567dfb3315bf2f542ef3212f/b8e682645ee9a9c96ed0d0ba181ef7c1.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/421215/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/3f3/3f3861939773d97f73ea4cdf7fc408e8/2a525adb6a428ae23a7d8b873d7d4ff1.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/421216/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/612/612dffd9bd1f4b2776a06758c6b309d4/565e6faf1fa6aea99c358d5e0d0085ba.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/421217/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/388/388fb240b25cb62615e970df9fac7399/eab65b3e385e5017b54b6648a40f0f64.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/421218/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/8e6/8e615fbf344b584b8dd6f866a58b9db8/c2cd71af7da250a44afd43145dc63696.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/421219/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/352/35229653b83433d2fbcc446ea61bf4f8/341822973a083ed314a206a078ad60b0.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/421220/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/ba2/ba27a9d7b4b56e24c9f2dfad92186380/0eec66b565d7e3ed07923a3a4118a8df.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/421221/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/d24/d24e14c91f5cd10dc33bc6a450744600/dae8a9ac74c3c057ba93d835af448ab3.jpg</picture>    				<delivery>true</delivery>
+    				<vendor>Ushatava</vendor>
+                    <vendorCode>JK0523012</vendorCode>
+    
+                    <name>Blazer Over Fit</name>
+    				<description><![CDATA[]]></description>
+    				<param name="Цвет">dark brown</param>
+    				<param name="Состав">Base: 65% polyester, 33% viscose, 2% spandex. Lining: 52% terylene, 48% viscose.</param>
+				</offer><offer id="145285" available="true">
+    				<url>https://www.ushatava.ru/catalog/odezhda/odezhda162/pokazat-vse-tovary/yubka-kyuloty-iz-poliviskozy/?offer=145285</url>
+    				<price>16900</price>
+    				    				<currencyId>KZT</currencyId>
+    				<categoryId>129</categoryId>
+    				<picture>https://916316.selcdn.ru/ushatava4/resize_cache/421315/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/2d3/2d3d5fb16d170e37c814c1e94e14e745/f0f77910a2f19a719618dbf5d18a8f16.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/421316/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/304/3040736ee20844d94616361bf7e8d87c/d78b954ac8c7388689b8047aad01c05c.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/421317/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/557/5577a0f2f50f8de63c60335a91993758/968e21b5aea1fb40bfc89c4c4557d2b8.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/421318/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/ebc/ebca6ed6645db335ef9dbfbd6e1be21d/00b00f392c7df64ddd9e5d956e3f31ab.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/421319/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/f7d/f7de5b8baba378be6e896a5d2855162b/0607f7abb0068f90d5f6cc6ae0c63236.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/421320/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/16c/16c75f0279b635923a4de8e79ba7392a/fc54c4714577f294b8caf7791473c0f5.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/421321/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/e5e/e5e57a086095559fedfeb2f0ce4e7afb/2560808f36e9b8b1a3003e1a0a2fa549.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/421322/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/cbe/cbe7a23d58474d32d1046b9bf9c3cf09/0e089a5da22cead07bfd0305d00ca17b.jpg</picture>    				<delivery>true</delivery>
+    				<vendor>Ushatava</vendor>
+                    <vendorCode>SK0523004</vendorCode>
+    
+                    <name>Culotte skirt </name>
+    				<description><![CDATA[]]></description>
+    				<param name="Цвет">dark brown</param>
+    				<param name="Состав">65% polyester, 33% viscose, 2% spandex</param>
+				</offer><offer id="144772" available="true">
+    				<url>https://www.ushatava.ru/catalog/odezhda/odezhda162/pokazat-vse-tovary/top-keyp-ss24/?offer=144772</url>
+    				<price>16500</price>
+    				    				<currencyId>KZT</currencyId>
+    				<categoryId>217</categoryId>
+    				<picture>https://916316.selcdn.ru/ushatava4/resize_cache/355929/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/504/50408fd035e55523aa4fcf0510b01bc0/3a1ccf0474a98d7ed1d2a93b12f3abbe.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/355930/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/5dc/5dc0384e05888fd117d279261bb5b4f2/5eaf3c41b93997ba927d986170267beb.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/355931/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/84c/84c1b90cd8305d2809e7f90f798e6c33/f1c0fa9084c074edbc04ca00fe5f2925.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/355932/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/462/462e86f6f9df6ffa4bba386b14638517/7a3e592d6a832376afb26b68ee9f0c4e.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/355933/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/3f8/3f86064205965656b4caaaa823639791/f29226a5abefb6affa64cbfb8834998b.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/355934/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/067/0674e775aa522ccaa2ade109c225854c/4996400ee0b07193ac7873606a7fd63f.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/355935/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/8e5/8e54d6d7c4820ab36707c7466c0f1e28/f727cfd2b23ce3ad5a9cb85cdd79f6b9.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/355936/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/b5f/b5ffc74f1d58f2bf91055ee12fc2a848/21679a1feed9efb193dc7daf69026573.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/355937/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/40b/40b95c0b2f4baa4c615ccbbf2ef6b9c1/6892176b798ac7f35944ee9b1e919ac3.jpg</picture>    				<delivery>true</delivery>
+    				<vendor>Ushatava</vendor>
+                    <vendorCode>TOPN0124C014</vendorCode>
+    
+                    <name>Top cape</name>
+    				<description><![CDATA[]]></description>
+    				<param name="Цвет">beige</param>
+    				<param name="Состав">100% tencel</param>
+				</offer><offer id="144773" available="true">
+    				<url>https://www.ushatava.ru/catalog/odezhda/odezhda162/pokazat-vse-tovary/top-keyp-ss24/?offer=144773</url>
+    				<price>16500</price>
+    				    				<currencyId>KZT</currencyId>
+    				<categoryId>217</categoryId>
+    				<picture>https://916316.selcdn.ru/ushatava4/resize_cache/355938/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/82e/82eaa6f9a76f1410e8983a229fb84e3a/a069c280b386913b91252a4dec1293d5.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/355939/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/d57/d573295bfd1bb998338df87fa300af1a/687cc4048b6cbcfd9304ee0479b47ecd.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/355940/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/601/601fab0f689f6e3efa4c590921798689/6c153fb719ff557c42a8c8ed722f3f99.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/355941/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/d5d/d5da3174907cf48ae73f2ecd43bf6b09/f480d2da240497c45737f0e4b456a6a7.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/355942/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/5f4/5f4457e5771da7e1fd158ae60b8dbd9a/5e0dbf845f974b27e6e3044fe865f1a7.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/355943/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/658/6584bbdea663fcec1b9e9e0dabcc0858/b34b345ec723e21120b776475c1b0fef.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/355944/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/d31/d31b2a734044353150b55db5e640cc21/c2bcbe9bf2ad23ef37c326435f99f0cf.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/355945/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/61b/61b72ef98173bb27fd416f7e4f5c90e8/c535df6eda5b220c4868eaeb85a151c9.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/355946/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/b89/b89dc31771a4ac3f378d57264e30dfb6/9b15262b84d5dea48c759f7572c7b16a.jpg</picture>    				<delivery>true</delivery>
+    				<vendor>Ushatava</vendor>
+                    <vendorCode>TOPN0124C014</vendorCode>
+    
+                    <name>Top cape</name>
+    				<description><![CDATA[]]></description>
+    				<param name="Цвет">beige</param>
+    				<param name="Состав">100% tencel</param>
+				</offer><offer id="144774" available="true">
+    				<url>https://www.ushatava.ru/catalog/odezhda/odezhda162/pokazat-vse-tovary/top-keyp-ss24/?offer=144774</url>
+    				<price>16500</price>
+    				    				<currencyId>KZT</currencyId>
+    				<categoryId>217</categoryId>
+    				<picture>https://916316.selcdn.ru/ushatava4/resize_cache/355985/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/1f4/1f4204845f2fed5241fad1dee9721904/64f0eb0e31dee0bb5531a98a1d33f4e2.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/355986/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/db8/db8c02e658b528d5e847e27806079443/c720cb1b4e383af6ac89c80b794b43fc.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/355987/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/a6c/a6c12e0b9f1087f0976a043f6d66a810/a981020b8ea18143ff7710de328e8a53.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/355988/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/5cc/5cc3a2d06e8e8bda56f78060d7b03aa2/1b6cd30f7827bd15e01411ae45687161.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/355989/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/054/0540a5cadea4845091eaa74dfac55ded/c554ecbd7c06c2ba33e38173006297b2.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/355990/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/4cd/4cdde61513f505fa2e1c52ff1489187c/a377aace56824aa7fd04c8d56a674fb0.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/355991/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/776/7766fde0fbded553c6aa683813efc921/ad7da8884303069f0c51cea2eeb1b604.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/355992/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/d34/d34ee38c4cd69f553dc1ee62f8559845/b9a4c7293246770379024fee55a5c24e.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/355993/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/42a/42a5e04f5cdada7ca2df46ae89673dba/451d4784314ca35de4744d8900cf64b6.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/355994/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/2c7/2c73fc101731bd6910e56c1b2be5bb2f/2988c1a6b78d7650962318d8d10a143f.jpg</picture>    				<delivery>true</delivery>
+    				<vendor>Ushatava</vendor>
+                    <vendorCode>TOPN0124C014</vendorCode>
+    
+                    <name>Top cape</name>
+    				<description><![CDATA[]]></description>
+    				<param name="Цвет">white</param>
+    				<param name="Состав">100% tencel</param>
+				</offer><offer id="144775" available="true">
+    				<url>https://www.ushatava.ru/catalog/odezhda/odezhda162/pokazat-vse-tovary/top-keyp-ss24/?offer=144775</url>
+    				<price>16500</price>
+    				    				<currencyId>KZT</currencyId>
+    				<categoryId>217</categoryId>
+    				<picture>https://916316.selcdn.ru/ushatava4/resize_cache/355506/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/d90/d90ab0e5fc8d78db83aea1ae542d011b/34207ca08367da3172f3f55ae02d340f.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/355507/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/7a5/7a5b8dfb3c1f198b3d7d2c66cdb62472/5e7b38154aa4b3ebd10e2d8d5838177c.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/355508/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/32c/32c069d077f44d18816482cb8ed3d074/04b74741fcbe1bff6be8d91a81534be7.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/355509/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/ba2/ba2a6fd75ae30b3375a300d01f189e54/c560b0507cf81bf5ac2d5bf1511285a2.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/355510/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/aca/acadbdb642d951fa3c23f2ba7eebe25b/b54705d8b72dfb85940b926c0a92a939.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/355511/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/a36/a368e48f8342affe4c3d1e5e44780d8c/53ab7ffc14d247be602e4c2cddfd2e5f.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/355512/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/e96/e96dd07ad1767e6d83e3e7ed42ca66ef/738416c8c233ad918e7d22e64060d5bc.jpg</picture>    				<delivery>true</delivery>
+    				<vendor>Ushatava</vendor>
+                    <vendorCode>TOPN0124C014</vendorCode>
+    
+                    <name>Top cape</name>
+    				<description><![CDATA[]]></description>
+    				<param name="Цвет">grey</param>
+    				<param name="Состав">100% tencel</param>
+				</offer><offer id="144776" available="true">
+    				<url>https://www.ushatava.ru/catalog/odezhda/odezhda162/pokazat-vse-tovary/top-keyp-ss24/?offer=144776</url>
+    				<price>16500</price>
+    				    				<currencyId>KZT</currencyId>
+    				<categoryId>217</categoryId>
+    				<picture>https://916316.selcdn.ru/ushatava4/resize_cache/355482/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/ad3/ad3f4e74ae664932bbec502f14b030bd/04233d947e789cd7805f02410c3b6f01.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/355483/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/4e5/4e5836341b2582839b4dab811886696f/992ba86220c867c09fd05d4fb4f2bb19.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/355484/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/4b4/4b46d7a1cea88426e7e3e685964dea1e/08b5ec4dacef06989af701f5a9c0af62.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/355485/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/afd/afd30080c3967989dcfd1b2594787fa6/0904baf5c7c91af0c0e44cba383503ad.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/355486/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/555/5551fd21bbe6d50755e4d604c4552ff9/b13b90891cf9fd69829b04c0dbaf971e.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/355487/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/ee1/ee10fe3598e809c4e48f9f17998bdc06/299f9cb8c9f2fa76cfb33697dcd716d5.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/355488/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/c53/c5327b11f6dcebd5f36c72f5097be032/aec642dd083660fabcc85998b5b35298.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/355489/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/689/689c722bbf437daa1406abb6fff0bb23/c73ba7d827df298ef315e0999530fec1.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/355490/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/fc4/fc49e3e4aedc614604ac356047cf8f6d/4b55f1c6114eb9107495945c62af09ff.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/355491/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/ea1/ea1662f0f95b0ba427539253ccdcb280/d0aebaf0d8cbf8f80c2e2ea54320318c.jpg</picture>    				<delivery>true</delivery>
+    				<vendor>Ushatava</vendor>
+                    <vendorCode>TOPN0124C014</vendorCode>
+    
+                    <name>Top cape</name>
+    				<description><![CDATA[]]></description>
+    				<param name="Цвет">white</param>
+    				<param name="Состав">100% tencel</param>
+				</offer><offer id="144777" available="true">
+    				<url>https://www.ushatava.ru/catalog/odezhda/odezhda162/pokazat-vse-tovary/top-keyp-ss24/?offer=144777</url>
+    				<price>16500</price>
+    				    				<currencyId>KZT</currencyId>
+    				<categoryId>217</categoryId>
+    				<picture>https://916316.selcdn.ru/ushatava4/resize_cache/350794/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/843/8439a78431d012b6d2c338e36964ec51/f3662fc7dfe9618fa9dca813f8c604ac.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/350793/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/d43/d436e9e4a9ced2d9bb7e638fd479ca6b/76908e92989a4c1fdd17e419e93c943a.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/350795/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/0d2/0d20457ae7200b49345f7e7fdd6b3b84/67bbb5ecb5423adbce73fda2ea5aa567.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/350796/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/b8d/b8d865d992e69d9c361b5d40e741e3cc/1ad2997be90294067b1f15455abb6f58.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/350797/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/ac9/ac9c3fa9364cda887c3fc8dd00d3d421/d8e8010e30620775d4bb5d772ba17867.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/350798/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/093/0935cfb6234c66432463103ced4b9fae/811470b18c0aa1d61278d99584e5c8f8.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/350799/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/320/32042c24f7031914296ca49848de4cbc/c1ea5889623fc9d5c4ae2ecc358c4f0a.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/350800/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/1a2/1a25a08c07ebe3d88545c2ad6494e8ff/2f713786f1e95fa91a3be43959ec1ee6.jpg</picture><picture>https://916316.selcdn.ru/ushatava4/resize_cache/350801/43d1fd5ae3be5609d9b5e8ba97e4b17c/iblock/1cc/1cc28500a4d9c5757132e6cfe8e3088b/7c89f6080fa1c67dc5f9ba4660b03245.jpg</picture>    				<delivery>true</delivery>
+    				<vendor>Ushatava</vendor>
+                    <vendorCode>TOPN0124C014</vendorCode>
+    
+                    <name>Top cape</name>
+    				<description><![CDATA[]]></description>
+    				<param name="Цвет">beige</param>
+    				<param name="Состав">100% tencel</param>
+				</offer>
+			</offers>
+	</shop>
+</yml_catalog>
