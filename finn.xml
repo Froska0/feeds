@@ -1,0 +1,758 @@
+<?xml version="1.0" encoding="utf-8"?>
+<yml_catalog date="2025-04-23 11:30">
+  <shop>
+    <name>Finn-Flare</name>
+    <company>Finn-Flare</company>
+    <url>https://www.finn-flare.ru</url>
+<offers>
+      <offer id="6439001454248" group_id="779553_2091" type="vendor.model" available="false">
+        <url>https://www.finn-flare.ru/catalog/zhenskaya-bijuteria/779553/2091/</url>
+        <price>599</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>559</categoryId>
+        <categoryId>502</categoryId>
+        <categoryId>100157</categoryId>
+        <categoryId>1077451</categoryId>
+        <categoryId>100158</categoryId>
+        <categoryId>1077452</categoryId>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FSF/205/836_1214_2/FSF91901_205_20.webp?cdn=1744114310</picture>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FSF/205/836_1214_2/FSF91901_205_90.webp?cdn=1744114310</picture>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FSF/205/836_1214_2/FSF91901_205_95.webp?cdn=1744114310</picture>
+        <delivery>true</delivery>
+        <vendor>Finn-Flare</vendor>
+        <vendorCode>FSF91901</vendorCode>
+        <othercolors>779553_629137</othercolors>
+        <model>Брелок</model>
+        <description><![CDATA[100% металл
+Основной материал 2: 100% нубук]]></description>
+        <sort>19119</sort>
+        <customSort category="100157">1751</customSort>
+        <customSort category="1077451">1751</customSort>
+        <customSort category="100158">1168</customSort>
+        <customSort category="1077452">1168</customSort>
+        <customSort type="new">1744114310</customSort>
+        <param name="Артикул">FSF91901</param>
+        <param name="Цвет" hex="#A2A2A2">Серый</param>
+        <param name="Размер">One Size</param>
+        <param name="Пол">Унисекс</param>
+        <param name="Состав">металл</param>
+        <param name="Акция">786777</param>
+        <param name="Акция">785713</param>
+        <param name="Акция">782055</param>
+        <param name="Акция">777294</param>
+        <param name="Акция">650980</param>
+        <barcode>6439001454248</barcode>
+        <badge textColor="#000000" bgColor="#ffffff">NEW</badge>
+        <preorder>false</preorder>
+        <sizeGridPageUrl>https://www.finn-flare.ru/sizetable/woman/</sizeGridPageUrl>
+      </offer>
+      <offer id="6439001452107" group_id="779553_629137" type="vendor.model" available="false">
+        <url>https://www.finn-flare.ru/catalog/zhenskaya-bijuteria/779553/629137/</url>
+        <price>599</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>559</categoryId>
+        <categoryId>502</categoryId>
+        <categoryId>100157</categoryId>
+        <categoryId>1077451</categoryId>
+        <categoryId>100158</categoryId>
+        <categoryId>1077452</categoryId>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FSF/200MC/836_1214_2/FSF91901_200MC_20.webp?cdn=1744139347</picture>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FSF/200MC/836_1214_2/FSF91901_200MC_95.webp?cdn=1744139347</picture>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FSF/200MC/836_1214_2/FSF91901_200MC_90.webp?cdn=1744139347</picture>
+        <delivery>true</delivery>
+        <vendor>Finn-Flare</vendor>
+        <vendorCode>FSF91901</vendorCode>
+        <othercolors>779553_2091</othercolors>
+        <model>Брелок</model>
+        <description><![CDATA[100% металл
+Основной материал 2: 100% нубук]]></description>
+        <sort>19118</sort>
+        <customSort category="100157">1750</customSort>
+        <customSort category="1077451">1750</customSort>
+        <customSort category="100158">1167</customSort>
+        <customSort category="1077452">1167</customSort>
+        <customSort type="new">1744139347</customSort>
+        <param name="Артикул">FSF91901</param>
+        <param name="Цвет" hex="#222222">Черный</param>
+        <param name="Размер">One Size</param>
+        <param name="Пол">Унисекс</param>
+        <param name="Состав">металл</param>
+        <param name="Акция">786777</param>
+        <param name="Акция">785713</param>
+        <param name="Акция">782055</param>
+        <param name="Акция">777294</param>
+        <param name="Акция">650980</param>
+        <barcode>6439001452107</barcode>
+        <badge textColor="#000000" bgColor="#ffffff">NEW</badge>
+        <preorder>false</preorder>
+        <sizeGridPageUrl>https://www.finn-flare.ru/sizetable/woman/</sizeGridPageUrl>
+      </offer>
+      <offer id="6439001452121" group_id="779542_750" type="vendor.model" available="false">
+        <url>https://www.finn-flare.ru/catalog/zhenskie-sumki/779542/750/</url>
+        <price>1599</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>580</categoryId>
+        <categoryId>515</categoryId>
+        <categoryId>100157</categoryId>
+        <categoryId>1077451</categoryId>
+        <categoryId>100158</categoryId>
+        <categoryId>1077452</categoryId>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FSF/201/836_1214_2/FSF91902_201_20.webp?cdn=1744114304</picture>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FSF/201/836_1214_2/FSF91902_201_80.webp?cdn=1744114304</picture>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FSF/201/836_1214_2/FSF91902_201_85.webp?cdn=1744114304</picture>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FSF/201/836_1214_2/FSF91902_201_95.webp?cdn=1744114304</picture>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FSF/201/836_1214_2/FSF91902_201_90.webp?cdn=1744114304</picture>
+        <delivery>true</delivery>
+        <vendor>Finn-Flare</vendor>
+        <vendorCode>FSF91902</vendorCode>
+        <othercolors>779542_619,779542_2185</othercolors>
+        <model>Шнур для телефона</model>
+        <description><![CDATA[100% полиэстер]]></description>
+        <sort>19074</sort>
+        <customSort category="580">46</customSort>
+        <customSort category="515">9</customSort>
+        <customSort category="100157">1724</customSort>
+        <customSort category="1077451">1724</customSort>
+        <customSort category="100158">1149</customSort>
+        <customSort category="1077452">1149</customSort>
+        <customSort type="new">1744114304</customSort>
+        <param name="Артикул">FSF91902</param>
+        <param name="Цвет" hex="#ffffff" itemImage="https://cdn.finnflare.com/upload/iblock/e5e/white.png">Белый</param>
+        <param name="Размер">One Size</param>
+        <param name="Пол">Унисекс</param>
+        <param name="Состав">полиэстер</param>
+        <param name="Акция">786777</param>
+        <param name="Акция">785713</param>
+        <param name="Акция">782055</param>
+        <param name="Акция">777294</param>
+        <param name="Акция">650980</param>
+        <barcode>6439001452121</barcode>
+        <badge textColor="#000000" bgColor="#ffffff">NEW</badge>
+        <preorder>false</preorder>
+        <sizeGridPageUrl>https://www.finn-flare.ru/sizetable/woman/</sizeGridPageUrl>
+      </offer>
+      <offer id="6439001452091" group_id="779542_619" type="vendor.model" available="true">
+        <url>https://www.finn-flare.ru/catalog/zhenskie-sumki/779542/619/</url>
+        <price>1599</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>580</categoryId>
+        <categoryId>515</categoryId>
+        <categoryId>100157</categoryId>
+        <categoryId>1077451</categoryId>
+        <categoryId>100158</categoryId>
+        <categoryId>1077452</categoryId>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FSF/200/836_1214_2/FSF91902_200_20.webp?cdn=1745003474</picture>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FSF/200/836_1214_2/FSF91902_200_30.webp?cdn=1745003474</picture>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FSF/200/836_1214_2/FSF91902_200_40.webp?cdn=1745003474</picture>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FSF/200/836_1214_2/FSF91902_200_85.webp?cdn=1745003474</picture>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FSF/200/836_1214_2/FSF91902_200_80.webp?cdn=1745003474</picture>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FSF/200/836_1214_2/FSF91902_200_90.webp?cdn=1745003474</picture>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FSF/200/836_1214_2/FSF91902_200_95.webp?cdn=1745003474</picture>
+        <delivery>true</delivery>
+        <vendor>Finn-Flare</vendor>
+        <vendorCode>FSF91902</vendorCode>
+        <othercolors>779542_750,779542_2185</othercolors>
+        <rec title="Образ на модели">754890_750,703636_583720</rec>
+        <model>Шнур для телефона</model>
+        <description><![CDATA[100% полиэстер]]></description>
+        <sort>19071</sort>
+        <customSort category="580">45</customSort>
+        <customSort category="515">8</customSort>
+        <customSort category="100157">1723</customSort>
+        <customSort category="1077451">1723</customSort>
+        <customSort category="100158">1148</customSort>
+        <customSort category="1077452">1148</customSort>
+        <customSort type="new">1745003474</customSort>
+        <param name="Артикул">FSF91902</param>
+        <param name="Цвет" hex="#222222">Черный</param>
+        <param name="Размер">One Size</param>
+        <param name="Пол">Унисекс</param>
+        <param name="Состав">полиэстер</param>
+        <param name="Акция">786777</param>
+        <param name="Акция">785713</param>
+        <param name="Акция">782055</param>
+        <param name="Акция">777294</param>
+        <param name="Акция">650980</param>
+        <barcode>6439001452091</barcode>
+        <badge textColor="#000000" bgColor="#ffffff">NEW</badge>
+        <preorder>false</preorder>
+        <sizeGridPageUrl>https://www.finn-flare.ru/sizetable/woman/</sizeGridPageUrl>
+      </offer>
+      <offer id="6439001452077" group_id="779542_2185" type="vendor.model" available="true">
+        <url>https://www.finn-flare.ru/catalog/zhenskie-sumki/779542/2185/</url>
+        <price>1599</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>580</categoryId>
+        <categoryId>515</categoryId>
+        <categoryId>100157</categoryId>
+        <categoryId>1077451</categoryId>
+        <categoryId>100158</categoryId>
+        <categoryId>1077452</categoryId>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FSF/509/836_1214_2/FSF91902_509_20.webp?cdn=1744114299</picture>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FSF/509/836_1214_2/FSF91902_509_85.webp?cdn=1744114299</picture>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FSF/509/836_1214_2/FSF91902_509_80.webp?cdn=1744114299</picture>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FSF/509/836_1214_2/FSF91902_509_90.webp?cdn=1744114299</picture>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FSF/509/836_1214_2/FSF91902_509_95.webp?cdn=1744114299</picture>
+        <delivery>true</delivery>
+        <vendor>Finn-Flare</vendor>
+        <vendorCode>FSF91902</vendorCode>
+        <othercolors>779542_750,779542_619</othercolors>
+        <model>Шнур для телефона</model>
+        <description><![CDATA[100% полиэстер]]></description>
+        <sort>19075</sort>
+        <customSort category="580">47</customSort>
+        <customSort category="515">10</customSort>
+        <customSort category="100157">1725</customSort>
+        <customSort category="1077451">1725</customSort>
+        <customSort category="100158">1150</customSort>
+        <customSort category="1077452">1150</customSort>
+        <customSort type="new">1744114299</customSort>
+        <param name="Артикул">FSF91902</param>
+        <param name="Цвет" hex="#8bce88">Зеленый</param>
+        <param name="Размер">One Size</param>
+        <param name="Пол">Унисекс</param>
+        <param name="Состав">полиэстер</param>
+        <param name="Акция">786777</param>
+        <param name="Акция">785713</param>
+        <param name="Акция">782055</param>
+        <param name="Акция">777294</param>
+        <param name="Акция">650980</param>
+        <barcode>6439001452077</barcode>
+        <badge textColor="#000000" bgColor="#ffffff">NEW</badge>
+        <preorder>false</preorder>
+        <sizeGridPageUrl>https://www.finn-flare.ru/sizetable/woman/</sizeGridPageUrl>
+      </offer>
+      <offer id="6439001452114" group_id="779526_629149" type="vendor.model" available="true">
+        <url>https://www.finn-flare.ru/catalog/zhenskaya-bijuteria/779526/629149/</url>
+        <price>599</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>559</categoryId>
+        <categoryId>502</categoryId>
+        <categoryId>100157</categoryId>
+        <categoryId>1077451</categoryId>
+        <categoryId>100158</categoryId>
+        <categoryId>1077452</categoryId>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FSF/722MC/836_1214_2/FSF91900_722MC_20.webp?cdn=1745003479</picture>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FSF/722MC/836_1214_2/FSF91900_722MC_30.webp?cdn=1745003479</picture>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FSF/722MC/836_1214_2/FSF91900_722MC_90.webp?cdn=1745003479</picture>
+        <delivery>true</delivery>
+        <vendor>Finn-Flare</vendor>
+        <vendorCode>FSF91900</vendorCode>
+        <othercolors>779526_629137</othercolors>
+        <rec title="Образ на модели">766185_704408,703636_583720</rec>
+        <model>Брелок</model>
+        <description><![CDATA[100% металл
+Основной материал 2: 100% натуральная кожа]]></description>
+        <sort>19117</sort>
+        <customSort category="100157">1749</customSort>
+        <customSort category="1077451">1749</customSort>
+        <customSort category="100158">1166</customSort>
+        <customSort category="1077452">1166</customSort>
+        <customSort type="new">1745003479</customSort>
+        <param name="Артикул">FSF91900</param>
+        <param name="Цвет" hex="#f2ebd3">Бежевый</param>
+        <param name="Размер">One Size</param>
+        <param name="Пол">Унисекс</param>
+        <param name="Состав">металл</param>
+        <param name="Состав">натуральная кожа</param>
+        <param name="Акция">786777</param>
+        <param name="Акция">785713</param>
+        <param name="Акция">782055</param>
+        <param name="Акция">777294</param>
+        <param name="Акция">650980</param>
+        <barcode>6439001452114</barcode>
+        <badge textColor="#000000" bgColor="#ffffff">NEW</badge>
+        <preorder>false</preorder>
+        <sizeGridPageUrl>https://www.finn-flare.ru/sizetable/woman/</sizeGridPageUrl>
+      </offer>
+      <offer id="6439001452060" group_id="779526_629137" type="vendor.model" available="true">
+        <url>https://www.finn-flare.ru/catalog/zhenskaya-bijuteria/779526/629137/</url>
+        <price>599</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>559</categoryId>
+        <categoryId>502</categoryId>
+        <categoryId>100157</categoryId>
+        <categoryId>1077451</categoryId>
+        <categoryId>100158</categoryId>
+        <categoryId>1077452</categoryId>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FSF/200MC/836_1214_2/FSF91900_200MC_20.webp?cdn=1745003479</picture>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FSF/200MC/836_1214_2/FSF91900_200MC_30.webp?cdn=1745003479</picture>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FSF/200MC/836_1214_2/FSF91900_200MC_95.webp?cdn=1745003479</picture>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FSF/200MC/836_1214_2/FSF91900_200MC_90.webp?cdn=1745003479</picture>
+        <delivery>true</delivery>
+        <vendor>Finn-Flare</vendor>
+        <vendorCode>FSF91900</vendorCode>
+        <othercolors>779526_629149</othercolors>
+        <model>Брелок</model>
+        <description><![CDATA[100% металл
+Основной материал 2: 100% натуральная кожа]]></description>
+        <sort>19116</sort>
+        <customSort category="100157">1748</customSort>
+        <customSort category="1077451">1748</customSort>
+        <customSort category="100158">1165</customSort>
+        <customSort category="1077452">1165</customSort>
+        <customSort type="new">1745003479</customSort>
+        <param name="Артикул">FSF91900</param>
+        <param name="Цвет" hex="#222222">Черный</param>
+        <param name="Размер">One Size</param>
+        <param name="Пол">Унисекс</param>
+        <param name="Состав">металл</param>
+        <param name="Состав">натуральная кожа</param>
+        <param name="Акция">786777</param>
+        <param name="Акция">785713</param>
+        <param name="Акция">782055</param>
+        <param name="Акция">777294</param>
+        <param name="Акция">650980</param>
+        <barcode>6439001452060</barcode>
+        <badge textColor="#000000" bgColor="#ffffff">NEW</badge>
+        <preorder>false</preorder>
+        <sizeGridPageUrl>https://www.finn-flare.ru/sizetable/woman/</sizeGridPageUrl>
+      </offer>
+      <offer id="6439001439160" group_id="777095_638799" type="vendor.model" available="true">
+        <url>https://www.finn-flare.ru/catalog/zhenskiye-koshelki/777095/638799/</url>
+        <price>2999</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>578</categoryId>
+        <categoryId>513</categoryId>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FBF/724/836_1214_2/FBF91205_724_20.webp?cdn=1741096367</picture>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FBF/724/836_1214_2/FBF91205_724_50.webp?cdn=1741096367</picture>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FBF/724/836_1214_2/FBF91205_724_70.webp?cdn=1741096367</picture>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FBF/724/836_1214_2/FBF91205_724_80.webp?cdn=1741096367</picture>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FBF/724/836_1214_2/FBF91205_724_85.webp?cdn=1741096367</picture>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FBF/724/836_1214_2/FBF91205_724_90.webp?cdn=1741096367</picture>
+        <delivery>true</delivery>
+        <vendor>Finn-Flare</vendor>
+        <vendorCode>FBF91205</vendorCode>
+        <othercolors>777095_619,777095_645178</othercolors>
+        <model>Кошелек</model>
+        <description><![CDATA[100% натуральная кожа
+
+Описание
+Лаконичный и практичный аксессуар. Кошелек из натуральной кожи обладает повышенной износостойкостью, легко переносит перепады температур, не подвержен разрывам и заломам. Компактный размер позволит ему легко поместиться даже в небольшую сумку. Внутри вы найдете несколько вместительных отсеков для купюр, множество слотов для банковских карт и надежную застежку, которая предотвратит случайное открытие.]]></description>
+        <sort>19171</sort>
+        <customSort type="new">0</customSort>
+        <param name="Артикул">FBF91205</param>
+        <param name="Цвет" hex="#f2ebd3">Бежевый</param>
+        <param name="Размер">One Size</param>
+        <param name="Пол">Унисекс</param>
+        <param name="Состав">натуральная кожа</param>
+        <param name="Акция">786777</param>
+        <param name="Акция">786774</param>
+        <param name="Акция">785713</param>
+        <param name="Акция">782055</param>
+        <param name="Акция">776964</param>
+        <param name="Акция">775858</param>
+        <param name="Акция">769788</param>
+        <param name="Акция">650980</param>
+        <barcode>6439001439160</barcode>
+        <preorder>false</preorder>
+        <sizeGridPageUrl>https://www.finn-flare.ru/sizetable/woman/</sizeGridPageUrl>
+      </offer>
+      <offer id="6439001439207" group_id="777095_619" type="vendor.model" available="true">
+        <url>https://www.finn-flare.ru/catalog/zhenskiye-koshelki/777095/619/</url>
+        <price>2999</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>578</categoryId>
+        <categoryId>513</categoryId>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FBF/200/836_1214_2/FBF91205_200_20.webp?cdn=1741096367</picture>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FBF/200/836_1214_2/FBF91205_200_50.webp?cdn=1741096367</picture>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FBF/200/836_1214_2/FBF91205_200_70.webp?cdn=1741096367</picture>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FBF/200/836_1214_2/FBF91205_200_80.webp?cdn=1741096367</picture>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FBF/200/836_1214_2/FBF91205_200_85.webp?cdn=1741096367</picture>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FBF/200/836_1214_2/FBF91205_200_90.webp?cdn=1741096367</picture>
+        <delivery>true</delivery>
+        <vendor>Finn-Flare</vendor>
+        <vendorCode>FBF91205</vendorCode>
+        <othercolors>777095_638799,777095_645178</othercolors>
+        <model>Кошелек</model>
+        <description><![CDATA[100% натуральная кожа
+
+Описание
+Лаконичный и практичный аксессуар. Кошелек из натуральной кожи обладает повышенной износостойкостью, легко переносит перепады температур, не подвержен разрывам и заломам. Компактный размер позволит ему легко поместиться даже в небольшую сумку. Внутри вы найдете несколько вместительных отсеков для купюр, множество слотов для банковских карт и надежную застежку, которая предотвратит случайное открытие.]]></description>
+        <sort>19170</sort>
+        <customSort type="new">0</customSort>
+        <param name="Артикул">FBF91205</param>
+        <param name="Цвет" hex="#222222">Черный</param>
+        <param name="Размер">One Size</param>
+        <param name="Пол">Унисекс</param>
+        <param name="Состав">натуральная кожа</param>
+        <param name="Акция">786777</param>
+        <param name="Акция">786774</param>
+        <param name="Акция">785713</param>
+        <param name="Акция">782055</param>
+        <param name="Акция">776964</param>
+        <param name="Акция">775858</param>
+        <param name="Акция">769788</param>
+        <param name="Акция">650980</param>
+        <barcode>6439001439207</barcode>
+        <preorder>false</preorder>
+        <sizeGridPageUrl>https://www.finn-flare.ru/sizetable/woman/</sizeGridPageUrl>
+      </offer>
+      <offer id="6439001439092" group_id="777095_645178" type="vendor.model" available="true">
+        <url>https://www.finn-flare.ru/catalog/zhenskiye-koshelki/777095/645178/</url>
+        <price>2999</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>578</categoryId>
+        <categoryId>513</categoryId>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FBF/546/836_1214_2/FBF91205_546_20.webp?cdn=1741096367</picture>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FBF/546/836_1214_2/FBF91205_546_50.webp?cdn=1741096367</picture>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FBF/546/836_1214_2/FBF91205_546_70.webp?cdn=1741096367</picture>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FBF/546/836_1214_2/FBF91205_546_85.webp?cdn=1741096367</picture>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FBF/546/836_1214_2/FBF91205_546_80.webp?cdn=1741096367</picture>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FBF/546/836_1214_2/FBF91205_546_90.webp?cdn=1741096367</picture>
+        <delivery>true</delivery>
+        <vendor>Finn-Flare</vendor>
+        <vendorCode>FBF91205</vendorCode>
+        <othercolors>777095_638799,777095_619</othercolors>
+        <model>Кошелек</model>
+        <description><![CDATA[100% натуральная кожа
+
+Описание
+Лаконичный и практичный аксессуар. Кошелек из натуральной кожи обладает повышенной износостойкостью, легко переносит перепады температур, не подвержен разрывам и заломам. Компактный размер позволит ему легко поместиться даже в небольшую сумку. Внутри вы найдете несколько вместительных отсеков для купюр, множество слотов для банковских карт и надежную застежку, которая предотвратит случайное открытие.]]></description>
+        <sort>19169</sort>
+        <customSort type="new">0</customSort>
+        <param name="Артикул">FBF91205</param>
+        <param name="Цвет" hex="#8bce88">Зеленый</param>
+        <param name="Размер">One Size</param>
+        <param name="Пол">Унисекс</param>
+        <param name="Состав">натуральная кожа</param>
+        <param name="Акция">786777</param>
+        <param name="Акция">786774</param>
+        <param name="Акция">785713</param>
+        <param name="Акция">782055</param>
+        <param name="Акция">776964</param>
+        <param name="Акция">775858</param>
+        <param name="Акция">769788</param>
+        <param name="Акция">650980</param>
+        <barcode>6439001439092</barcode>
+        <preorder>false</preorder>
+        <sizeGridPageUrl>https://www.finn-flare.ru/sizetable/woman/</sizeGridPageUrl>
+      </offer>
+      <offer id="6439001439122" group_id="777078_619" type="vendor.model" available="true">
+        <url>https://www.finn-flare.ru/catalog/zhenskie-sumki/777078/619/</url>
+        <price>2999</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>580</categoryId>
+        <categoryId>515</categoryId>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FBF/200/836_1214_2/FBF91201_200_20.webp?cdn=1741096520</picture>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FBF/200/836_1214_2/FBF91201_200_50.webp?cdn=1741096520</picture>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FBF/200/836_1214_2/FBF91201_200_60.webp?cdn=1741096520</picture>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FBF/200/836_1214_2/FBF91201_200_70.webp?cdn=1741096520</picture>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FBF/200/836_1214_2/FBF91201_200_85.webp?cdn=1741096520</picture>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FBF/200/836_1214_2/FBF91201_200_80.webp?cdn=1741096520</picture>
+        <delivery>true</delivery>
+        <vendor>Finn-Flare</vendor>
+        <vendorCode>FBF91201</vendorCode>
+        <model>Сумка для смартфона</model>
+        <description><![CDATA[100% натуральная кожа
+Длина сумки, см: 19
+Ширина сумки по низу, см: 12
+
+Описание
+Маленькая и элегантная сумка для вашего смартфона – идеальное завершение образа, когда не хочется брать с собой ничего лишнего.  Тонкий ремешок позволяет удобно носить ее на плече, а компактный размер вмещает только самое необходимое: телефон, карту и немного наличных. Мягкая кожа гарантирует долговечность изделия, натуральный материал устойчив к разрыву, образованию заломов и царапин.]]></description>
+        <sort>19085</sort>
+        <customSort category="580">16</customSort>
+        <customSort category="515">3</customSort>
+        <customSort type="new">0</customSort>
+        <param name="Артикул">FBF91201</param>
+        <param name="Цвет" hex="#222222">Черный</param>
+        <param name="Размер">One Size</param>
+        <param name="Пол">Унисекс</param>
+        <param name="Состав">натуральная кожа</param>
+        <param name="Акция">786777</param>
+        <param name="Акция">786774</param>
+        <param name="Акция">785713</param>
+        <param name="Акция">782055</param>
+        <param name="Акция">776964</param>
+        <param name="Акция">775858</param>
+        <param name="Акция">769788</param>
+        <param name="Акция">650980</param>
+        <barcode>6439001439122</barcode>
+        <preorder>false</preorder>
+        <sizeGridPageUrl>https://www.finn-flare.ru/sizetable/woman/</sizeGridPageUrl>
+      </offer>
+      <offer id="6439001439078" group_id="777074_2152" type="vendor.model" available="true">
+        <url>https://www.finn-flare.ru/catalog/zhenskiye-koshelki/777074/2152/</url>
+        <price>2999</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>578</categoryId>
+        <categoryId>513</categoryId>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FBF/711/836_1214_2/FBF91204_711_20.webp?cdn=1741096520</picture>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FBF/711/836_1214_2/FBF91204_711_50.webp?cdn=1741096520</picture>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FBF/711/836_1214_2/FBF91204_711_60.webp?cdn=1741096520</picture>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FBF/711/836_1214_2/FBF91204_711_70.webp?cdn=1741096520</picture>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FBF/711/836_1214_2/FBF91204_711_85.webp?cdn=1741096520</picture>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FBF/711/836_1214_2/FBF91204_711_80.webp?cdn=1741096520</picture>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FBF/711/836_1214_2/FBF91204_711_90.webp?cdn=1741096520</picture>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FBF/711/836_1214_2/FBF91204_711_95.webp?cdn=1741096520</picture>
+        <delivery>true</delivery>
+        <vendor>Finn-Flare</vendor>
+        <vendorCode>FBF91204</vendorCode>
+        <othercolors>777074_619,777074_754503,777074_638799</othercolors>
+        <model>Кошелек</model>
+        <description><![CDATA[100% натуральная кожа
+
+Описание
+Кошелек из натуральной кожи, который поместится в любой карман. Множество слотов для карт, отсек для мелочей, удобный брелок для ключей или крепления к сумке. И трогательный акцент – замочек-сердечко. Стильный и практичный аксессуар для тех, кто ценит свободу движения.]]></description>
+        <sort>19165</sort>
+        <customSort type="new">0</customSort>
+        <param name="Артикул">FBF91204</param>
+        <param name="Цвет" hex="#ffffff" itemImage="https://cdn.finnflare.com/upload/iblock/e5e/white.png">Белый</param>
+        <param name="Размер">One Size</param>
+        <param name="Пол">Унисекс</param>
+        <param name="Состав">натуральная кожа</param>
+        <param name="Акция">786777</param>
+        <param name="Акция">786774</param>
+        <param name="Акция">785713</param>
+        <param name="Акция">782055</param>
+        <param name="Акция">776964</param>
+        <param name="Акция">775858</param>
+        <param name="Акция">769788</param>
+        <param name="Акция">650980</param>
+        <barcode>6439001439078</barcode>
+        <preorder>false</preorder>
+        <sizeGridPageUrl>https://www.finn-flare.ru/sizetable/woman/</sizeGridPageUrl>
+      </offer>
+      <offer id="6439001439146" group_id="777074_619" type="vendor.model" available="true">
+        <url>https://www.finn-flare.ru/catalog/zhenskiye-koshelki/777074/619/</url>
+        <price>2999</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>578</categoryId>
+        <categoryId>513</categoryId>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FBF/200/836_1214_2/FBF91204_200_20.webp?cdn=1741096523</picture>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FBF/200/836_1214_2/FBF91204_200_50.webp?cdn=1741096523</picture>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FBF/200/836_1214_2/FBF91204_200_60.webp?cdn=1741096523</picture>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FBF/200/836_1214_2/FBF91204_200_70.webp?cdn=1741096523</picture>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FBF/200/836_1214_2/FBF91204_200_80.webp?cdn=1741096523</picture>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FBF/200/836_1214_2/FBF91204_200_85.webp?cdn=1741096523</picture>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FBF/200/836_1214_2/FBF91204_200_90.webp?cdn=1741096523</picture>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FBF/200/836_1214_2/FBF91204_200_95.webp?cdn=1741096523</picture>
+        <delivery>true</delivery>
+        <vendor>Finn-Flare</vendor>
+        <vendorCode>FBF91204</vendorCode>
+        <othercolors>777074_2152,777074_754503,777074_638799</othercolors>
+        <model>Кошелек</model>
+        <description><![CDATA[100% натуральная кожа
+
+Описание
+Кошелек из натуральной кожи, который поместится в любой карман. Множество слотов для карт, отсек для мелочей, удобный брелок для ключей или крепления к сумке. И трогательный акцент – замочек-сердечко. Стильный и практичный аксессуар для тех, кто ценит свободу движения.]]></description>
+        <sort>19163</sort>
+        <customSort type="new">0</customSort>
+        <param name="Артикул">FBF91204</param>
+        <param name="Цвет" hex="#222222">Черный</param>
+        <param name="Размер">One Size</param>
+        <param name="Пол">Унисекс</param>
+        <param name="Состав">натуральная кожа</param>
+        <param name="Акция">786777</param>
+        <param name="Акция">786774</param>
+        <param name="Акция">785713</param>
+        <param name="Акция">782055</param>
+        <param name="Акция">776964</param>
+        <param name="Акция">775858</param>
+        <param name="Акция">769788</param>
+        <param name="Акция">650980</param>
+        <barcode>6439001439146</barcode>
+        <preorder>false</preorder>
+        <sizeGridPageUrl>https://www.finn-flare.ru/sizetable/woman/</sizeGridPageUrl>
+      </offer>
+      <offer id="6439001439108" group_id="777074_754503" type="vendor.model" available="true">
+        <url>https://www.finn-flare.ru/catalog/zhenskiye-koshelki/777074/754503/</url>
+        <price>2999</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>578</categoryId>
+        <categoryId>513</categoryId>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FBF/569/836_1214_2/FBF91204_569_20.webp?cdn=1741096368</picture>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FBF/569/836_1214_2/FBF91204_569_50.webp?cdn=1741096368</picture>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FBF/569/836_1214_2/FBF91204_569_60.webp?cdn=1741096368</picture>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FBF/569/836_1214_2/FBF91204_569_70.webp?cdn=1741096368</picture>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FBF/569/836_1214_2/FBF91204_569_80.webp?cdn=1741096368</picture>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FBF/569/836_1214_2/FBF91204_569_85.webp?cdn=1741096368</picture>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FBF/569/836_1214_2/FBF91204_569_90.webp?cdn=1741096368</picture>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FBF/569/836_1214_2/FBF91204_569_95.webp?cdn=1741096368</picture>
+        <delivery>true</delivery>
+        <vendor>Finn-Flare</vendor>
+        <vendorCode>FBF91204</vendorCode>
+        <othercolors>777074_2152,777074_619,777074_638799</othercolors>
+        <model>Кошелек</model>
+        <description><![CDATA[100% натуральная кожа
+
+Описание
+Кошелек из натуральной кожи, который поместится в любой карман. Множество слотов для карт, отсек для мелочей, удобный брелок для ключей или крепления к сумке. И трогательный акцент – замочек-сердечко. Стильный и практичный аксессуар для тех, кто ценит свободу движения.]]></description>
+        <sort>19168</sort>
+        <customSort type="new">0</customSort>
+        <param name="Артикул">FBF91204</param>
+        <param name="Цвет" hex="#8bce88">Зеленый</param>
+        <param name="Размер">One Size</param>
+        <param name="Пол">Унисекс</param>
+        <param name="Состав">натуральная кожа</param>
+        <param name="Акция">786777</param>
+        <param name="Акция">786774</param>
+        <param name="Акция">786716</param>
+        <param name="Акция">785713</param>
+        <param name="Акция">782055</param>
+        <param name="Акция">775858</param>
+        <param name="Акция">769788</param>
+        <param name="Акция">650980</param>
+        <barcode>6439001439108</barcode>
+        <preorder>false</preorder>
+        <sizeGridPageUrl>https://www.finn-flare.ru/sizetable/woman/</sizeGridPageUrl>
+      </offer>
+      <offer id="6439001439085" group_id="777074_638799" type="vendor.model" available="true">
+        <url>https://www.finn-flare.ru/catalog/zhenskiye-koshelki/777074/638799/</url>
+        <price>2999</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>578</categoryId>
+        <categoryId>513</categoryId>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FBF/724/836_1214_2/FBF91204_724_20.webp?cdn=1741096522</picture>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FBF/724/836_1214_2/FBF91204_724_50.webp?cdn=1741096522</picture>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FBF/724/836_1214_2/FBF91204_724_60.webp?cdn=1741096522</picture>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FBF/724/836_1214_2/FBF91204_724_70.webp?cdn=1741096522</picture>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FBF/724/836_1214_2/FBF91204_724_85.webp?cdn=1741096522</picture>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FBF/724/836_1214_2/FBF91204_724_80.webp?cdn=1741096522</picture>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FBF/724/836_1214_2/FBF91204_724_90.webp?cdn=1741096522</picture>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FBF/724/836_1214_2/FBF91204_724_95.webp?cdn=1741096522</picture>
+        <delivery>true</delivery>
+        <vendor>Finn-Flare</vendor>
+        <vendorCode>FBF91204</vendorCode>
+        <othercolors>777074_2152,777074_619,777074_754503</othercolors>
+        <model>Кошелек</model>
+        <description><![CDATA[100% натуральная кожа
+
+Описание
+Кошелек из натуральной кожи, который поместится в любой карман. Множество слотов для карт, отсек для мелочей, удобный брелок для ключей или крепления к сумке. И трогательный акцент – замочек-сердечко. Стильный и практичный аксессуар для тех, кто ценит свободу движения.]]></description>
+        <sort>19164</sort>
+        <customSort type="new">0</customSort>
+        <param name="Артикул">FBF91204</param>
+        <param name="Цвет" hex="#f2ebd3">Бежевый</param>
+        <param name="Размер">One Size</param>
+        <param name="Пол">Унисекс</param>
+        <param name="Состав">натуральная кожа</param>
+        <param name="Акция">786777</param>
+        <param name="Акция">786774</param>
+        <param name="Акция">785713</param>
+        <param name="Акция">782055</param>
+        <param name="Акция">776964</param>
+        <param name="Акция">775858</param>
+        <param name="Акция">769788</param>
+        <param name="Акция">650980</param>
+        <barcode>6439001439085</barcode>
+        <preorder>false</preorder>
+        <sizeGridPageUrl>https://www.finn-flare.ru/sizetable/woman/</sizeGridPageUrl>
+      </offer>
+      <offer id="6439001439191" group_id="777065_777117" type="vendor.model" available="true">
+        <url>https://www.finn-flare.ru/catalog/zhenskiye-koshelki/777065/777117/</url>
+        <price>1999</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>578</categoryId>
+        <categoryId>513</categoryId>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FBF/364/836_1214_2/FBF91203_364_20.webp?cdn=1741096520</picture>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FBF/364/836_1214_2/FBF91203_364_50.webp?cdn=1741096520</picture>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FBF/364/836_1214_2/FBF91203_364_70.webp?cdn=1741096520</picture>
+        <delivery>true</delivery>
+        <vendor>Finn-Flare</vendor>
+        <vendorCode>FBF91203</vendorCode>
+        <othercolors>777065_619,777065_657695</othercolors>
+        <model>Кошелек</model>
+        <description><![CDATA[100% натуральная кожа
+Длина сумки, см: 8
+Ширина сумки по низу, см: 10
+
+Описание
+Минималистичный кошелек из прочной и мягкой кожи. Натуральный материал обладает повышенной износостойкостью, легко переносит перепады температур, не подвержен разрывам и заломам. Удобный размер позволяет всегда держать кошелек под рукой – легко поместиться в карман или небольшую сумку. Множество слотов для карт и отсек для купюр и других необходимых мелочей.]]></description>
+        <sort>19167</sort>
+        <customSort type="new">0</customSort>
+        <param name="Артикул">FBF91203</param>
+        <param name="Цвет" hex="#881129">Бордовый</param>
+        <param name="Размер">One Size</param>
+        <param name="Пол">Унисекс</param>
+        <param name="Состав">натуральная кожа</param>
+        <param name="Акция">786777</param>
+        <param name="Акция">786774</param>
+        <param name="Акция">785713</param>
+        <param name="Акция">782055</param>
+        <param name="Акция">775858</param>
+        <param name="Акция">769788</param>
+        <param name="Акция">650980</param>
+        <barcode>6439001439191</barcode>
+        <preorder>false</preorder>
+        <sizeGridPageUrl>https://www.finn-flare.ru/sizetable/woman/</sizeGridPageUrl>
+      </offer>
+      <offer id="6439001439177" group_id="777065_619" type="vendor.model" available="true">
+        <url>https://www.finn-flare.ru/catalog/zhenskiye-koshelki/777065/619/</url>
+        <price>1999</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>578</categoryId>
+        <categoryId>513</categoryId>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FBF/200/836_1214_2/FBF91203_200_20.webp?cdn=1741096366</picture>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FBF/200/836_1214_2/FBF91203_200_50.webp?cdn=1741096366</picture>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FBF/200/836_1214_2/FBF91203_200_70.webp?cdn=1741096366</picture>
+        <delivery>true</delivery>
+        <vendor>Finn-Flare</vendor>
+        <vendorCode>FBF91203</vendorCode>
+        <othercolors>777065_777117,777065_657695</othercolors>
+        <model>Кошелек</model>
+        <description><![CDATA[100% натуральная кожа
+Длина сумки, см: 8
+Ширина сумки по низу, см: 10
+
+Описание
+Минималистичный кошелек из прочной и мягкой кожи. Натуральный материал обладает повышенной износостойкостью, легко переносит перепады температур, не подвержен разрывам и заломам. Удобный размер позволяет всегда держать кошелек под рукой – легко поместиться в карман или небольшую сумку. Множество слотов для карт и отсек для купюр и других необходимых мелочей.]]></description>
+        <sort>19172</sort>
+        <customSort type="new">0</customSort>
+        <param name="Артикул">FBF91203</param>
+        <param name="Цвет" hex="#222222">Черный</param>
+        <param name="Размер">One Size</param>
+        <param name="Пол">Унисекс</param>
+        <param name="Состав">натуральная кожа</param>
+        <param name="Акция">786777</param>
+        <param name="Акция">786774</param>
+        <param name="Акция">785713</param>
+        <param name="Акция">782055</param>
+        <param name="Акция">775858</param>
+        <param name="Акция">769788</param>
+        <param name="Акция">650980</param>
+        <barcode>6439001439177</barcode>
+        <preorder>false</preorder>
+        <sizeGridPageUrl>https://www.finn-flare.ru/sizetable/woman/</sizeGridPageUrl>
+      </offer>
+      <offer id="6439001439061" group_id="777065_657695" type="vendor.model" available="true">
+        <url>https://www.finn-flare.ru/catalog/zhenskiye-koshelki/777065/657695/</url>
+        <price>1999</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>578</categoryId>
+        <categoryId>513</categoryId>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FBF/646/836_1214_2/FBF91203_646_20.webp?cdn=1741096520</picture>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FBF/646/836_1214_2/FBF91203_646_50.webp?cdn=1741096520</picture>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FBF/646/836_1214_2/FBF91203_646_70.webp?cdn=1741096520</picture>
+        <delivery>true</delivery>
+        <vendor>Finn-Flare</vendor>
+        <vendorCode>FBF91203</vendorCode>
+        <othercolors>777065_777117,777065_619</othercolors>
+        <model>Кошелек</model>
+        <description><![CDATA[100% натуральная кожа
+Длина сумки, см: 8
+Ширина сумки по низу, см: 10
+
+Описание
+Минималистичный кошелек из прочной и мягкой кожи. Натуральный материал обладает повышенной износостойкостью, легко переносит перепады температур, не подвержен разрывам и заломам. Удобный размер позволяет всегда держать кошелек под рукой – легко поместиться в карман или небольшую сумку. Множество слотов для карт и отсек для купюр и других необходимых мелочей.]]></description>
+        <sort>19166</sort>
+        <customSort type="new">0</customSort>
+        <param name="Артикул">FBF91203</param>
+        <param name="Цвет" hex="#7F5943">Коричневый</param>
+        <param name="Размер">One Size</param>
+        <param name="Пол">Унисекс</param>
+        <param name="Состав">натуральная кожа</param>
+        <param name="Акция">786777</param>
+        <param name="Акция">786774</param>
+        <param name="Акция">785713</param>
+        <param name="Акция">782055</param>
+        <param name="Акция">775858</param>
+        <param name="Акция">769788</param>
+        <param name="Акция">650980</param>
+        <barcode>6439001439061</barcode>
+        <preorder>false</preorder>
+        <sizeGridPageUrl>https://www.finn-flare.ru/sizetable/woman/</sizeGridPageUrl>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
