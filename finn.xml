@@ -5,7 +5,7 @@
     <company>Finn-Flare</company>
     <url>https://www.finn-flare.ru</url>
 <offers>
-        <offer id="6439001439160" group_id="777095_638799" type="vendor.model" available="true">
+        <offer id="6439001439160" group_id="777095_638799" type="vendor.model" available="false">
         <url>https://www.finn-flare.ru/catalog/zhenskiye-koshelki/777095/638799/</url>
         <price>2999</price>
         <currencyId>RUR</currencyId>
