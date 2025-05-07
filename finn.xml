@@ -5,6 +5,46 @@
     <company>Finn-Flare</company>
     <url>https://www.finn-flare.ru</url>
 <offers>
+        <offer id="6439001439160" group_id="777095_638799" type="vendor.model" available="true">
+        <url>https://www.finn-flare.ru/catalog/zhenskiye-koshelki/777095/638799/</url>
+        <price>2999</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>578</categoryId>
+        <categoryId>513</categoryId>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FBF/724/836_1214_2/FBF91205_724_20.webp?cdn=1741096367</picture>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FBF/724/836_1214_2/FBF91205_724_50.webp?cdn=1741096367</picture>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FBF/724/836_1214_2/FBF91205_724_70.webp?cdn=1741096367</picture>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FBF/724/836_1214_2/FBF91205_724_80.webp?cdn=1741096367</picture>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FBF/724/836_1214_2/FBF91205_724_85.webp?cdn=1741096367</picture>
+        <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FBF/724/836_1214_2/FBF91205_724_90.webp?cdn=1741096367</picture>
+        <delivery>true</delivery>
+        <vendor>Finn-Flare</vendor>
+        <vendorCode>FBF91205</vendorCode>
+        <othercolors>777095_619,777095_645178</othercolors>
+        <model>Кошелек</model>
+        <description><![CDATA[100% натуральная кожа
+
+Описание
+Лаконичный и практичный аксессуар. Кошелек из натуральной кожи обладает повышенной износостойкостью, легко переносит перепады температур, не подвержен разрывам и заломам. Компактный размер позволит ему легко поместиться даже в небольшую сумку. Внутри вы найдете несколько вместительных отсеков для купюр, множество слотов для банковских карт и надежную застежку, которая предотвратит случайное открытие.]]></description>
+        <sort>19171</sort>
+        <customSort type="new">0</customSort>
+        <param name="Артикул">FBF91205</param>
+        <param name="Цвет" hex="#f2ebd3">Бежевый</param>
+        <param name="Размер">One Size</param>
+        <param name="Пол">Унисекс</param>
+        <param name="Состав">натуральная кожа</param>
+        <param name="Акция">786777</param>
+        <param name="Акция">786774</param>
+        <param name="Акция">785713</param>
+        <param name="Акция">782055</param>
+        <param name="Акция">776964</param>
+        <param name="Акция">775858</param>
+        <param name="Акция">769788</param>
+        <param name="Акция">650980</param>
+        <barcode>6439001439160</barcode>
+        <preorder>false</preorder>
+        <sizeGridPageUrl>https://www.finn-flare.ru/sizetable/woman/</sizeGridPageUrl>
+      </offer>
       <offer id="6439001454248" group_id="779553_2091" type="vendor.model" available="false">
         <url>https://www.finn-flare.ru/catalog/zhenskaya-bijuteria/779553/2091/</url>
         <price>599</price>
