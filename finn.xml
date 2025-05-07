@@ -308,7 +308,7 @@
         <preorder>false</preorder>
         <sizeGridPageUrl>https://www.finn-flare.ru/sizetable/woman/</sizeGridPageUrl>
       </offer>
-      <offer id="6439001439160" group_id="777095_638799" type="vendor.model" available="false">
+      <offer id="6439001439160" group_id="777095_638799" type="vendor.model" available="true">
         <url>https://www.finn-flare.ru/catalog/zhenskiye-koshelki/777095/638799/</url>
         <price>2999</price>
         <currencyId>RUR</currencyId>
