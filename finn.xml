@@ -218,7 +218,7 @@
         <preorder>false</preorder>
         <sizeGridPageUrl>https://www.finn-flare.ru/sizetable/woman/</sizeGridPageUrl>
       </offer>
-      <offer id="6439001452077" group_id="779542_2185" type="vendor.model" available="false">
+      <offer id="6439001452077" group_id="779542_2185" type="vendor.model" available="true">
         <url>https://www.finn-flare.ru/catalog/zhenskie-sumki/779542/2185/</url>
         <price>1599</price>
         <currencyId>RUR</currencyId>
