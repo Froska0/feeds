@@ -1,0 +1,1257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2025-05-08 05:14">
+<shop>
+<categories>
+</categories>
+<offers>
+<offer id="168700083" available="false" group_id="153300075">
+<url>https://www.letu.ru/product/dos-lunas-mylo-dlya-litsa-s-limonom/153300075/sku/168700083</url>
+<price>161</price>
+<categoryId>1280</categoryId>
+<picture>https://www.letu.ru/common/img/pim/2024/12/GT_2913e143-a5f7-4769-a64a-f85311e55053.jpg</picture>
+<description><![CDATA[Мыло для лица с лимоном Dos Lunas - это натуральное косметическое средство, разработанное специально для повседневного ухода за кожей. Сочетание богатых белков и питательных веществ в составе мыла помогает успокоить и увлажнить сухую кожу, способствуя ее регенерации и обновлению клеток. Уникальная формула мыла делает его идеальным выбором для чувствительной кожи, обеспечивая мягкое очищение, снятие макияжа и интенсивное питание. Аромат лимона добавляет свежести и приятного запаха, делая процесс умывания еще более приятным. Этот продукт Dos Lunas упакован в красивую картонную коробку и может стать отличным подарком по любому поводу. Наслаждайтесь процессом ухода за кожей и балуйте себя увлажняющим и ароматным мылом для лица с лимоном от Dos Lunas.]]></description>
+<vendor>DOS LUNAS</vendor>
+<name>MPL322729 - DOS LUNAS Мыло для лица с лимоном, 100 г</name>
+<stock id="12135">
+<available>false</available>
+</stock>
+<stock id="65108">
+<available>false</available>
+</stock>
+<stock id="53120">
+<available>false</available>
+</stock>
+<stock id="15121">
+<available>false</available>
+</stock>
+<stock id="8113">
+<available>false</available>
+</stock>
+<stock id="53122">
+<available>false</available>
+</stock>
+<stock id="49141">
+<available>false</available>
+</stock>
+<stock id="53116">
+<available>false</available>
+</stock>
+<stock id="52942">
+<available>false</available>
+</stock>
+<stock id="85109">
+<available>false</available>
+</stock>
+<stock id="52941">
+<available>false</available>
+</stock>
+<stock id="52943">
+<available>false</available>
+</stock>
+<stock id="52945">
+<available>false</available>
+</stock>
+<stock id="49149">
+<available>false</available>
+</stock>
+<stock id="52948">
+<available>false</available>
+</stock>
+<stock id="15114">
+<available>false</available>
+</stock>
+<stock id="15116">
+<available>false</available>
+</stock>
+<stock id="74109">
+<available>false</available>
+</stock>
+<stock id="53110">
+<available>false</available>
+</stock>
+<stock id="52894">
+<available>false</available>
+</stock>
+<stock id="52893">
+<available>false</available>
+</stock>
+<stock id="52931">
+<available>false</available>
+</stock>
+<stock id="52933">
+<available>false</available>
+</stock>
+<stock id="53109">
+<available>false</available>
+</stock>
+<stock id="53108">
+<available>false</available>
+</stock>
+<stock id="52936">
+<available>false</available>
+</stock>
+<stock id="49137">
+<available>false</available>
+</stock>
+<stock id="12110">
+<available>false</available>
+</stock>
+<stock id="106">
+<available>false</available>
+</stock>
+<stock id="17120">
+<available>false</available>
+</stock>
+<stock id="104">
+<available>false</available>
+</stock>
+<stock id="52960">
+<available>false</available>
+</stock>
+<stock id="53135">
+<available>false</available>
+</stock>
+<stock id="53137">
+<available>false</available>
+</stock>
+<stock id="49161">
+<available>false</available>
+</stock>
+<stock id="52965">
+<available>false</available>
+</stock>
+<stock id="52967">
+<available>false</available>
+</stock>
+<stock id="20108">
+<available>false</available>
+</stock>
+<stock id="15172">
+<available>false</available>
+</stock>
+<stock id="53131">
+<available>false</available>
+</stock>
+<stock id="53133">
+<available>false</available>
+</stock>
+<stock id="103">
+<available>false</available>
+</stock>
+<stock id="49155">
+<available>false</available>
+</stock>
+<stock id="53127">
+<available>false</available>
+</stock>
+<stock id="49153">
+<available>false</available>
+</stock>
+<stock id="52950">
+<available>false</available>
+</stock>
+<stock id="53126">
+<available>false</available>
+</stock>
+<stock id="52952">
+<available>false</available>
+</stock>
+<stock id="52955">
+<available>false</available>
+</stock>
+<stock id="52954">
+<available>false</available>
+</stock>
+<stock id="52957">
+<available>false</available>
+</stock>
+<stock id="52956">
+<available>false</available>
+</stock>
+<stock id="52959">
+<available>false</available>
+</stock>
+<stock id="52958">
+<available>false</available>
+</stock>
+<stock id="49158">
+<available>false</available>
+</stock>
+<stock id="52909">
+<available>false</available>
+</stock>
+<stock id="11120">
+<available>false</available>
+</stock>
+<stock id="15168">
+<available>false</available>
+</stock>
+<stock id="11121">
+<available>false</available>
+</stock>
+<stock id="15160">
+<available>false</available>
+</stock>
+<stock id="52861">
+<available>false</available>
+</stock>
+<stock id="52865">
+<available>false</available>
+</stock>
+<stock id="52864">
+<available>false</available>
+</stock>
+<stock id="52867">
+<available>false</available>
+</stock>
+<stock id="52902">
+<available>false</available>
+</stock>
+<stock id="52868">
+<available>false</available>
+</stock>
+<stock id="52904">
+<available>false</available>
+</stock>
+<stock id="23113">
+<available>false</available>
+</stock>
+<stock id="52906">
+<available>false</available>
+</stock>
+<stock id="52908">
+<available>false</available>
+</stock>
+<stock id="15155">
+<available>false</available>
+</stock>
+<stock id="12169">
+<available>false</available>
+</stock>
+<stock id="57111">
+<available>false</available>
+</stock>
+<stock id="9132">
+<available>false</available>
+</stock>
+<stock id="15151">
+<available>false</available>
+</stock>
+<stock id="9137">
+<available>false</available>
+</stock>
+<stock id="52971">
+<available>false</available>
+</stock>
+<stock id="52970">
+<available>false</available>
+</stock>
+<stock id="52856">
+<available>false</available>
+</stock>
+<stock id="52977">
+<available>false</available>
+</stock>
+<stock id="52855">
+<available>false</available>
+</stock>
+<stock id="52859">
+<available>false</available>
+</stock>
+<stock id="12156">
+<available>false</available>
+</stock>
+<stock id="52890">
+<available>false</available>
+</stock>
+<stock id="52892">
+<available>false</available>
+</stock>
+<stock id="52891">
+<available>false</available>
+</stock>
+<stock id="52882">
+<available>false</available>
+</stock>
+<stock id="52885">
+<available>false</available>
+</stock>
+<stock id="52921">
+<available>false</available>
+</stock>
+<stock id="13117">
+<available>false</available>
+</stock>
+<stock id="52923">
+<available>false</available>
+</stock>
+<stock id="15133">
+<available>false</available>
+</stock>
+<stock id="52881">
+<available>false</available>
+</stock>
+<stock id="48261">
+<available>false</available>
+</stock>
+<stock id="52874">
+<available>false</available>
+</stock>
+<stock id="52875">
+<available>false</available>
+</stock>
+<stock id="52911">
+<available>false</available>
+</stock>
+<stock id="55109">
+<available>false</available>
+</stock>
+<stock id="52916">
+<available>false</available>
+</stock>
+<stock id="52918">
+<available>false</available>
+</stock>
+<stock id="inStock">
+<available>false</available>
+</stock>
+</offer>
+<offer id="168800094" available="true" group_id="153400079">
+<url>https://www.letu.ru/product/moroccanoil-shampun-moisturizing-dlya-okrashennyh-volos/153400079/sku/168800094</url>
+<price>2539</price>
+<categoryId>1284</categoryId>
+<picture>https://www.letu.ru/common/img/pim/2024/12/GT_3315e34e-fb15-4870-81b8-c851b6c88df5.jpg</picture>
+<description><![CDATA[Важная информация: данный товар отправляется из-за рубежа. Пожалуйста, имейте в виду, что сроки могут быть изменены, в том числе из-за таможенных процедур или непредвиденных обстоятельств. Шампунь со сбалансированным уровнем pH мягко очищает волосы и сокращает вымывание цвета. Высокоэффективная формула продукта защищает от негативных воздействий окружающей среды. Продукт включает в себя технологию ArganID, которая обеспечивает превосходные результаты для сохранения цвета волос: помогает восстановить и «запечатать» кутикулу, чтобы зафиксировать цвет, продлевает стойкость окрашивания, сбалансированный уровень pH защищает от вымывания цвета, усиливает яркость, способствует более здоровому виду волос. Экстракт граната помогает защитить кератин, содержащийся в волосах, от агрессивного воздействия окружающей среды. Не содержит сульфатов, фосфатов и парабенов. Упаковка на 50% изготовлена из переработанного пластика (PCR). Применение Нанесите шампунь массажными движениями на влажные волосы и кожу головы. Тщательно смойте. При необходимости повторите. Затем нанесите кондиционер Moroccanoil Color Care для окрашенных волос]]></description>
+<vendor>MOROCCANOIL</vendor>
+<name>MPL319607 - MOROCCANOIL Шампунь Moisturizing для окрашенных волос, 70 мл</name>
+<stock id="12135">
+<available>true</available>
+</stock>
+<stock id="65108">
+<available>true</available>
+</stock>
+<stock id="53120">
+<available>true</available>
+</stock>
+<stock id="15121">
+<available>true</available>
+</stock>
+<stock id="8113">
+<available>true</available>
+</stock>
+<stock id="53122">
+<available>true</available>
+</stock>
+<stock id="49141">
+<available>true</available>
+</stock>
+<stock id="53116">
+<available>true</available>
+</stock>
+<stock id="52942">
+<available>true</available>
+</stock>
+<stock id="85109">
+<available>true</available>
+</stock>
+<stock id="52941">
+<available>true</available>
+</stock>
+<stock id="52943">
+<available>true</available>
+</stock>
+<stock id="52945">
+<available>true</available>
+</stock>
+<stock id="49149">
+<available>true</available>
+</stock>
+<stock id="52948">
+<available>true</available>
+</stock>
+<stock id="15114">
+<available>true</available>
+</stock>
+<stock id="15116">
+<available>true</available>
+</stock>
+<stock id="74109">
+<available>true</available>
+</stock>
+<stock id="53110">
+<available>true</available>
+</stock>
+<stock id="52894">
+<available>true</available>
+</stock>
+<stock id="52893">
+<available>true</available>
+</stock>
+<stock id="52931">
+<available>true</available>
+</stock>
+<stock id="52933">
+<available>true</available>
+</stock>
+<stock id="53109">
+<available>true</available>
+</stock>
+<stock id="53108">
+<available>true</available>
+</stock>
+<stock id="52936">
+<available>true</available>
+</stock>
+<stock id="49137">
+<available>true</available>
+</stock>
+<stock id="12110">
+<available>true</available>
+</stock>
+<stock id="106">
+<available>true</available>
+</stock>
+<stock id="17120">
+<available>true</available>
+</stock>
+<stock id="104">
+<available>true</available>
+</stock>
+<stock id="52960">
+<available>true</available>
+</stock>
+<stock id="53135">
+<available>true</available>
+</stock>
+<stock id="53137">
+<available>true</available>
+</stock>
+<stock id="49161">
+<available>true</available>
+</stock>
+<stock id="52965">
+<available>true</available>
+</stock>
+<stock id="52967">
+<available>true</available>
+</stock>
+<stock id="20108">
+<available>true</available>
+</stock>
+<stock id="15172">
+<available>true</available>
+</stock>
+<stock id="53131">
+<available>true</available>
+</stock>
+<stock id="53133">
+<available>true</available>
+</stock>
+<stock id="103">
+<available>true</available>
+</stock>
+<stock id="49155">
+<available>true</available>
+</stock>
+<stock id="53127">
+<available>true</available>
+</stock>
+<stock id="49153">
+<available>true</available>
+</stock>
+<stock id="52950">
+<available>true</available>
+</stock>
+<stock id="53126">
+<available>true</available>
+</stock>
+<stock id="52952">
+<available>true</available>
+</stock>
+<stock id="52955">
+<available>true</available>
+</stock>
+<stock id="52954">
+<available>true</available>
+</stock>
+<stock id="52957">
+<available>true</available>
+</stock>
+<stock id="52956">
+<available>true</available>
+</stock>
+<stock id="52959">
+<available>true</available>
+</stock>
+<stock id="52958">
+<available>true</available>
+</stock>
+<stock id="49158">
+<available>true</available>
+</stock>
+<stock id="52909">
+<available>true</available>
+</stock>
+<stock id="11120">
+<available>true</available>
+</stock>
+<stock id="15168">
+<available>true</available>
+</stock>
+<stock id="11121">
+<available>true</available>
+</stock>
+<stock id="15160">
+<available>true</available>
+</stock>
+<stock id="52861">
+<available>true</available>
+</stock>
+<stock id="52865">
+<available>true</available>
+</stock>
+<stock id="52864">
+<available>true</available>
+</stock>
+<stock id="52867">
+<available>true</available>
+</stock>
+<stock id="52902">
+<available>true</available>
+</stock>
+<stock id="52868">
+<available>true</available>
+</stock>
+<stock id="52904">
+<available>true</available>
+</stock>
+<stock id="23113">
+<available>true</available>
+</stock>
+<stock id="52906">
+<available>true</available>
+</stock>
+<stock id="52908">
+<available>true</available>
+</stock>
+<stock id="15155">
+<available>true</available>
+</stock>
+<stock id="12169">
+<available>true</available>
+</stock>
+<stock id="57111">
+<available>true</available>
+</stock>
+<stock id="9132">
+<available>true</available>
+</stock>
+<stock id="15151">
+<available>true</available>
+</stock>
+<stock id="9137">
+<available>true</available>
+</stock>
+<stock id="52971">
+<available>true</available>
+</stock>
+<stock id="52970">
+<available>false</available>
+</stock>
+<stock id="52856">
+<available>true</available>
+</stock>
+<stock id="52977">
+<available>true</available>
+</stock>
+<stock id="52855">
+<available>true</available>
+</stock>
+<stock id="52859">
+<available>true</available>
+</stock>
+<stock id="12156">
+<available>true</available>
+</stock>
+<stock id="52890">
+<available>true</available>
+</stock>
+<stock id="52892">
+<available>true</available>
+</stock>
+<stock id="52891">
+<available>true</available>
+</stock>
+<stock id="52882">
+<available>true</available>
+</stock>
+<stock id="52885">
+<available>true</available>
+</stock>
+<stock id="52921">
+<available>true</available>
+</stock>
+<stock id="13117">
+<available>true</available>
+</stock>
+<stock id="52923">
+<available>true</available>
+</stock>
+<stock id="15133">
+<available>true</available>
+</stock>
+<stock id="52881">
+<available>true</available>
+</stock>
+<stock id="48261">
+<available>true</available>
+</stock>
+<stock id="52874">
+<available>true</available>
+</stock>
+<stock id="52875">
+<available>true</available>
+</stock>
+<stock id="52911">
+<available>true</available>
+</stock>
+<stock id="55109">
+<available>true</available>
+</stock>
+<stock id="52916">
+<available>true</available>
+</stock>
+<stock id="52918">
+<available>true</available>
+</stock>
+<stock id="inStock">
+<available>false</available>
+</stock>
+</offer>
+<offer id="170300007" available="false" group_id="153400079">
+<url>https://www.letu.ru/product/moroccanoil-shampun-moisturizing-dlya-okrashennyh-volos/153400079/sku/170300007</url>
+<price>7809</price>
+<categoryId>1284</categoryId>
+<picture>https://www.letu.ru/common/img/pim/2024/12/GT_d76c5458-0933-453f-8004-99439f3e2338.png</picture>
+<description><![CDATA[Важная информация: данный товар отправляется из-за рубежа. Пожалуйста, имейте в виду, что сроки могут быть изменены, в том числе из-за таможенных процедур или непредвиденных обстоятельств. Шампунь со сбалансированным уровнем pH мягко очищает волосы и сокращает вымывание цвета. Высокоэффективная формула продукта защищает от негативных воздействий окружающей среды. Продукт включает в себя технологию ArganID, которая обеспечивает превосходные результаты для сохранения цвета волос: помогает восстановить и «запечатать» кутикулу, чтобы зафиксировать цвет, продлевает стойкость окрашивания, сбалансированный уровень pH защищает от вымывания цвета, усиливает яркость, способствует более здоровому виду волос. Экстракт граната помогает защитить кератин, содержащийся в волосах, от агрессивного воздействия окружающей среды. Не содержит сульфатов, фосфатов и парабенов. Упаковка на 50% изготовлена из переработанного пластика (PCR). Применение Нанесите шампунь массажными движениями на влажные волосы и кожу головы. Тщательно смойте. При необходимости повторите. Затем нанесите кондиционер Moroccanoil Color Care для окрашенных волос]]></description>
+<vendor>MOROCCANOIL</vendor>
+<name>MPL319611 - MOROCCANOIL Шампунь Moisturizing для окрашенных волос, 1000 мл</name>
+<stock id="12135">
+<available>false</available>
+</stock>
+<stock id="65108">
+<available>false</available>
+</stock>
+<stock id="53120">
+<available>false</available>
+</stock>
+<stock id="15121">
+<available>false</available>
+</stock>
+<stock id="8113">
+<available>false</available>
+</stock>
+<stock id="53122">
+<available>false</available>
+</stock>
+<stock id="49141">
+<available>false</available>
+</stock>
+<stock id="53116">
+<available>false</available>
+</stock>
+<stock id="52942">
+<available>false</available>
+</stock>
+<stock id="85109">
+<available>false</available>
+</stock>
+<stock id="52941">
+<available>false</available>
+</stock>
+<stock id="52943">
+<available>false</available>
+</stock>
+<stock id="52945">
+<available>false</available>
+</stock>
+<stock id="49149">
+<available>false</available>
+</stock>
+<stock id="52948">
+<available>false</available>
+</stock>
+<stock id="15114">
+<available>false</available>
+</stock>
+<stock id="15116">
+<available>false</available>
+</stock>
+<stock id="74109">
+<available>false</available>
+</stock>
+<stock id="53110">
+<available>false</available>
+</stock>
+<stock id="52894">
+<available>false</available>
+</stock>
+<stock id="52893">
+<available>false</available>
+</stock>
+<stock id="52931">
+<available>false</available>
+</stock>
+<stock id="52933">
+<available>false</available>
+</stock>
+<stock id="53109">
+<available>false</available>
+</stock>
+<stock id="53108">
+<available>false</available>
+</stock>
+<stock id="52936">
+<available>false</available>
+</stock>
+<stock id="49137">
+<available>false</available>
+</stock>
+<stock id="12110">
+<available>false</available>
+</stock>
+<stock id="106">
+<available>false</available>
+</stock>
+<stock id="17120">
+<available>false</available>
+</stock>
+<stock id="104">
+<available>false</available>
+</stock>
+<stock id="52960">
+<available>false</available>
+</stock>
+<stock id="53135">
+<available>false</available>
+</stock>
+<stock id="53137">
+<available>false</available>
+</stock>
+<stock id="49161">
+<available>false</available>
+</stock>
+<stock id="52965">
+<available>false</available>
+</stock>
+<stock id="52967">
+<available>false</available>
+</stock>
+<stock id="20108">
+<available>false</available>
+</stock>
+<stock id="15172">
+<available>false</available>
+</stock>
+<stock id="53131">
+<available>false</available>
+</stock>
+<stock id="53133">
+<available>false</available>
+</stock>
+<stock id="103">
+<available>false</available>
+</stock>
+<stock id="49155">
+<available>false</available>
+</stock>
+<stock id="53127">
+<available>false</available>
+</stock>
+<stock id="49153">
+<available>false</available>
+</stock>
+<stock id="52950">
+<available>false</available>
+</stock>
+<stock id="53126">
+<available>false</available>
+</stock>
+<stock id="52952">
+<available>false</available>
+</stock>
+<stock id="52955">
+<available>false</available>
+</stock>
+<stock id="52954">
+<available>false</available>
+</stock>
+<stock id="52957">
+<available>false</available>
+</stock>
+<stock id="52956">
+<available>false</available>
+</stock>
+<stock id="52959">
+<available>false</available>
+</stock>
+<stock id="52958">
+<available>false</available>
+</stock>
+<stock id="49158">
+<available>false</available>
+</stock>
+<stock id="52909">
+<available>false</available>
+</stock>
+<stock id="11120">
+<available>false</available>
+</stock>
+<stock id="15168">
+<available>false</available>
+</stock>
+<stock id="11121">
+<available>false</available>
+</stock>
+<stock id="15160">
+<available>false</available>
+</stock>
+<stock id="52861">
+<available>false</available>
+</stock>
+<stock id="52865">
+<available>false</available>
+</stock>
+<stock id="52864">
+<available>false</available>
+</stock>
+<stock id="52867">
+<available>false</available>
+</stock>
+<stock id="52902">
+<available>false</available>
+</stock>
+<stock id="52868">
+<available>false</available>
+</stock>
+<stock id="52904">
+<available>false</available>
+</stock>
+<stock id="23113">
+<available>false</available>
+</stock>
+<stock id="52906">
+<available>false</available>
+</stock>
+<stock id="52908">
+<available>false</available>
+</stock>
+<stock id="15155">
+<available>false</available>
+</stock>
+<stock id="12169">
+<available>false</available>
+</stock>
+<stock id="57111">
+<available>false</available>
+</stock>
+<stock id="9132">
+<available>false</available>
+</stock>
+<stock id="15151">
+<available>false</available>
+</stock>
+<stock id="9137">
+<available>false</available>
+</stock>
+<stock id="52971">
+<available>false</available>
+</stock>
+<stock id="52970">
+<available>false</available>
+</stock>
+<stock id="52856">
+<available>false</available>
+</stock>
+<stock id="52977">
+<available>false</available>
+</stock>
+<stock id="52855">
+<available>false</available>
+</stock>
+<stock id="52859">
+<available>false</available>
+</stock>
+<stock id="12156">
+<available>false</available>
+</stock>
+<stock id="52890">
+<available>false</available>
+</stock>
+<stock id="52892">
+<available>false</available>
+</stock>
+<stock id="52891">
+<available>false</available>
+</stock>
+<stock id="52882">
+<available>false</available>
+</stock>
+<stock id="52885">
+<available>false</available>
+</stock>
+<stock id="52921">
+<available>false</available>
+</stock>
+<stock id="13117">
+<available>false</available>
+</stock>
+<stock id="52923">
+<available>false</available>
+</stock>
+<stock id="15133">
+<available>false</available>
+</stock>
+<stock id="52881">
+<available>false</available>
+</stock>
+<stock id="48261">
+<available>false</available>
+</stock>
+<stock id="52874">
+<available>false</available>
+</stock>
+<stock id="52875">
+<available>false</available>
+</stock>
+<stock id="52911">
+<available>false</available>
+</stock>
+<stock id="55109">
+<available>false</available>
+</stock>
+<stock id="52916">
+<available>false</available>
+</stock>
+<stock id="52918">
+<available>false</available>
+</stock>
+<stock id="inStock">
+<available>false</available>
+</stock>
+</offer>
+<offer id="170300009" available="true" group_id="153400079">
+<url>https://www.letu.ru/product/moroccanoil-shampun-moisturizing-dlya-okrashennyh-volos/153400079/sku/170300009</url>
+<price>4188</price>
+<categoryId>1284</categoryId>
+<picture>https://www.letu.ru/common/img/pim/2024/12/GT_2fc5258f-a34a-4859-92ad-53c03ee40723.png</picture>
+<description><![CDATA[Важная информация: данный товар отправляется из-за рубежа. Пожалуйста, имейте в виду, что сроки могут быть изменены, в том числе из-за таможенных процедур или непредвиденных обстоятельств. Шампунь со сбалансированным уровнем pH мягко очищает волосы и сокращает вымывание цвета. Высокоэффективная формула продукта защищает от негативных воздействий окружающей среды. Продукт включает в себя технологию ArganID, которая обеспечивает превосходные результаты для сохранения цвета волос: помогает восстановить и «запечатать» кутикулу, чтобы зафиксировать цвет, продлевает стойкость окрашивания, сбалансированный уровень pH защищает от вымывания цвета, усиливает яркость, способствует более здоровому виду волос. Экстракт граната помогает защитить кератин, содержащийся в волосах, от агрессивного воздействия окружающей среды. Не содержит сульфатов, фосфатов и парабенов. Упаковка на 50% изготовлена из переработанного пластика (PCR). Применение Нанесите шампунь массажными движениями на влажные волосы и кожу головы. Тщательно смойте. При необходимости повторите. Затем нанесите кондиционер Moroccanoil Color Care для окрашенных волос]]></description>
+<vendor>MOROCCANOIL</vendor>
+<name>MPL319612 - MOROCCANOIL Шампунь Moisturizing для окрашенных волос, 250 мл</name>
+<stock id="12135">
+<available>true</available>
+</stock>
+<stock id="65108">
+<available>true</available>
+</stock>
+<stock id="53120">
+<available>true</available>
+</stock>
+<stock id="15121">
+<available>true</available>
+</stock>
+<stock id="8113">
+<available>true</available>
+</stock>
+<stock id="53122">
+<available>true</available>
+</stock>
+<stock id="49141">
+<available>true</available>
+</stock>
+<stock id="53116">
+<available>true</available>
+</stock>
+<stock id="52942">
+<available>true</available>
+</stock>
+<stock id="85109">
+<available>true</available>
+</stock>
+<stock id="52941">
+<available>true</available>
+</stock>
+<stock id="52943">
+<available>true</available>
+</stock>
+<stock id="52945">
+<available>true</available>
+</stock>
+<stock id="49149">
+<available>true</available>
+</stock>
+<stock id="52948">
+<available>true</available>
+</stock>
+<stock id="15114">
+<available>true</available>
+</stock>
+<stock id="15116">
+<available>true</available>
+</stock>
+<stock id="74109">
+<available>true</available>
+</stock>
+<stock id="53110">
+<available>true</available>
+</stock>
+<stock id="52894">
+<available>true</available>
+</stock>
+<stock id="52893">
+<available>true</available>
+</stock>
+<stock id="52931">
+<available>true</available>
+</stock>
+<stock id="52933">
+<available>true</available>
+</stock>
+<stock id="53109">
+<available>true</available>
+</stock>
+<stock id="53108">
+<available>true</available>
+</stock>
+<stock id="52936">
+<available>true</available>
+</stock>
+<stock id="49137">
+<available>true</available>
+</stock>
+<stock id="12110">
+<available>true</available>
+</stock>
+<stock id="106">
+<available>true</available>
+</stock>
+<stock id="17120">
+<available>true</available>
+</stock>
+<stock id="104">
+<available>true</available>
+</stock>
+<stock id="52960">
+<available>true</available>
+</stock>
+<stock id="53135">
+<available>true</available>
+</stock>
+<stock id="53137">
+<available>true</available>
+</stock>
+<stock id="49161">
+<available>true</available>
+</stock>
+<stock id="52965">
+<available>true</available>
+</stock>
+<stock id="52967">
+<available>true</available>
+</stock>
+<stock id="20108">
+<available>true</available>
+</stock>
+<stock id="15172">
+<available>true</available>
+</stock>
+<stock id="53131">
+<available>true</available>
+</stock>
+<stock id="53133">
+<available>true</available>
+</stock>
+<stock id="103">
+<available>true</available>
+</stock>
+<stock id="49155">
+<available>true</available>
+</stock>
+<stock id="53127">
+<available>true</available>
+</stock>
+<stock id="49153">
+<available>true</available>
+</stock>
+<stock id="52950">
+<available>true</available>
+</stock>
+<stock id="53126">
+<available>true</available>
+</stock>
+<stock id="52952">
+<available>true</available>
+</stock>
+<stock id="52955">
+<available>true</available>
+</stock>
+<stock id="52954">
+<available>true</available>
+</stock>
+<stock id="52957">
+<available>true</available>
+</stock>
+<stock id="52956">
+<available>true</available>
+</stock>
+<stock id="52959">
+<available>true</available>
+</stock>
+<stock id="52958">
+<available>true</available>
+</stock>
+<stock id="49158">
+<available>true</available>
+</stock>
+<stock id="52909">
+<available>true</available>
+</stock>
+<stock id="11120">
+<available>true</available>
+</stock>
+<stock id="15168">
+<available>true</available>
+</stock>
+<stock id="11121">
+<available>true</available>
+</stock>
+<stock id="15160">
+<available>true</available>
+</stock>
+<stock id="52861">
+<available>true</available>
+</stock>
+<stock id="52865">
+<available>true</available>
+</stock>
+<stock id="52864">
+<available>true</available>
+</stock>
+<stock id="52867">
+<available>true</available>
+</stock>
+<stock id="52902">
+<available>true</available>
+</stock>
+<stock id="52868">
+<available>true</available>
+</stock>
+<stock id="52904">
+<available>true</available>
+</stock>
+<stock id="23113">
+<available>true</available>
+</stock>
+<stock id="52906">
+<available>true</available>
+</stock>
+<stock id="52908">
+<available>true</available>
+</stock>
+<stock id="15155">
+<available>true</available>
+</stock>
+<stock id="12169">
+<available>true</available>
+</stock>
+<stock id="57111">
+<available>true</available>
+</stock>
+<stock id="9132">
+<available>true</available>
+</stock>
+<stock id="15151">
+<available>true</available>
+</stock>
+<stock id="9137">
+<available>true</available>
+</stock>
+<stock id="52971">
+<available>true</available>
+</stock>
+<stock id="52970">
+<available>false</available>
+</stock>
+<stock id="52856">
+<available>true</available>
+</stock>
+<stock id="52977">
+<available>true</available>
+</stock>
+<stock id="52855">
+<available>true</available>
+</stock>
+<stock id="52859">
+<available>true</available>
+</stock>
+<stock id="12156">
+<available>true</available>
+</stock>
+<stock id="52890">
+<available>true</available>
+</stock>
+<stock id="52892">
+<available>true</available>
+</stock>
+<stock id="52891">
+<available>true</available>
+</stock>
+<stock id="52882">
+<available>true</available>
+</stock>
+<stock id="52885">
+<available>true</available>
+</stock>
+<stock id="52921">
+<available>true</available>
+</stock>
+<stock id="13117">
+<available>true</available>
+</stock>
+<stock id="52923">
+<available>true</available>
+</stock>
+<stock id="15133">
+<available>true</available>
+</stock>
+<stock id="52881">
+<available>true</available>
+</stock>
+<stock id="48261">
+<available>true</available>
+</stock>
+<stock id="52874">
+<available>true</available>
+</stock>
+<stock id="52875">
+<available>true</available>
+</stock>
+<stock id="52911">
+<available>true</available>
+</stock>
+<stock id="55109">
+<available>true</available>
+</stock>
+<stock id="52916">
+<available>true</available>
+</stock>
+<stock id="52918">
+<available>true</available>
+</stock>
+<stock id="inStock">
+<available>false</available>
+</stock>
+</offer>
+</offers>
+</shop>
+</yml_catalog>
