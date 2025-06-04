@@ -1,0 +1,1734 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2025-06-04 14:18:00">
+  <shop>
+    <name>VSEINSTRUMENTI</name>
+    <company>ООО &quot;ВсеИнструменты.ру&quot;</company>
+    <url>https://www.vseinstrumenti.ru/</url>
+    <currencies>
+      <currency id="RUR" rate="1"></currency>
+    </currencies>
+    <categories>
+	</categories>
+	<offers>
+            <offer id="934223" available="true" type="vendor.model" bid="10">
+        <typePrefix>Туристический складной стул</typePrefix>
+        <vendor>Следопыт</vendor>
+        <vendorCode></vendorCode>
+        <model>PF-FOR-S07</model>
+        <name>Складной туристический стул Следопыт 320х310х330 мм, камыш PF-FOR-S07</name>
+        <weight>1.02</weight>
+        <dimensions>33/32/31</dimensions>
+        <barcode>4680019100135</barcode>
+        <url>https://www.vseinstrumenti.ru/product/skladnoj-turisticheskij-stul-sledopyt-320h310h330-mm-kamysh-pf-for-s07-934223/?utm_source=market&amp;utm_medium=price&amp;utm_campaign=skladnaya-mebel|moscow&amp;utm_content=skladnye-stulya|sledopyt|934223&amp;utm_term=934223</url>
+        <categoryId>4791</categoryId>
+        <currencyId>RUR</currencyId>
+        <price>567</price>
+        <description>Складной туристический стул Следопыт 320х310х330 мм, камыш PF-FOR-S07 подходит для использования вблизи водоемов благодаря водонепроницаемой ткани сиденья. Благодаря компактным размерам в сложенном виде легко брать с собой и удобно хранить, не занимает много места. Корпус из высокопрочной стали выдерживает значительные нагрузки до 120 килограмм. Не ржавеет, устойчив к воздействиям влаги и перепадам температур, поэтому эксплуатируется круглый год и имеет долгий срок службы. </description>
+        <sales_notes></sales_notes>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <cpa>1</cpa>
+        <param name="Спинка">нет</param>
+        <param name="Подстаканник">нет</param>
+        <param name="Подлокотники">нет</param>
+        <param name="Габариты в сложенном виде" unit="мм">450х300х50</param>
+        <param name="Габариты в разложенном виде" unit="мм">320х310х330</param>
+        <param name="Max нагрузка" unit="кг">120.000</param>
+        <param name="Вес нетто" unit="кг">1.000</param>
+        <param name="Назначение">для кемпинга</param>
+        <param name="Флокированный слой">нет</param>
+        <param name="Водонепроницаемость">есть</param>
+        <param name="Материал каркаса">сталь</param>
+        <param name="Цвет">кмф камыш</param>
+        <param name="unit">шт</param>
+        <param name="Ширина упаковки" unit="мм">310</param>
+        <param name="Длина упаковки" unit="мм">320</param>
+        <param name="Высота упаковки" unit="мм">330</param>
+        <param name="Вес с упаковкой" unit="кг">1.02</param>
+        <sku>15862944</sku>
+        <picture>https://cdn.vseinstrumenti.ru/images/goods/934223/1000x1000/51579419.jpg</picture>
+        <product_code>15862944</product_code>
+        <equipment>&lt;ul&gt; &lt;li&gt;Стул;&lt;/li&gt; &lt;li&gt;Упаковка.&lt;/li&gt; &lt;/ul&gt; </equipment>
+        <delivery-options>
+          <option cost="290" days="1"></option>
+        </delivery-options>
+        <country>Россия</country>
+      </offer>
+      <offer id="7351543" available="true" type="vendor.model" bid="10">
+        <typePrefix>Ручная щетка</typePrefix>
+        <vendor>Vikan</vendor>
+        <vendorCode></vendorCode>
+        <model>41954</model>
+        <name>Ручная щетка Vikan узкая, с короткой ручкой, 300 мм, супер жесткая, красный 41954</name>
+        <weight>0.1</weight>
+        <dimensions>7/2/30</dimensions>
+        <barcode>5705020419546</barcode>
+        <url>https://www.vseinstrumenti.ru/product/ruchnaya-schetka-vikan-uzkaya-s-korotkoj-ruchkoj-300-mm-super-zhestkaya-krasnyj-41954-7351543/?utm_source=market&amp;utm_medium=price&amp;utm_campaign=uborochnyj-inventar-dlya-kuhni|moscow&amp;utm_content=schetki-smetki|vikan|7351543&amp;utm_term=7351543</url>
+        <categoryId>162587</categoryId>
+        <currencyId>RUR</currencyId>
+        <price>711</price>
+        <description>Щетка имеет очень жесткий ворс. Легко удаляет прилипшие остатки продуктов и грязь в труднодоступных местах (например, между кромкой ленты и боковыми стенками конвейера, с резиновых уплотнителей холодильников). Можно использовать для потрошения рыбы. Видимая высота ворса - 33 мм. </description>
+        <sales_notes></sales_notes>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <cpa>1</cpa>
+        <param name="Длина щетки" unit="мм">330.000</param>
+        <param name="Тип">щетка-сметка</param>
+        <param name="Материал рукояти">полипропилен</param>
+        <param name="Материал щетины">полиэстер</param>
+        <param name="Жесткость щетины">жёсткая</param>
+        <param name="Цвет совка">нет</param>
+        <param name="Цвет щетки">красный</param>
+        <param name="Материал совка">нет</param>
+        <param name="unit">шт</param>
+        <param name="Ширина упаковки" unit="мм">300</param>
+        <param name="Длина упаковки" unit="мм">20</param>
+        <param name="Высота упаковки" unit="мм">70</param>
+        <param name="Вес с упаковкой" unit="кг">0.10</param>
+        <sku>26001695</sku>
+        <picture>https://cdn.vseinstrumenti.ru/images/goods/7351543/1000x1000/78016207.jpg</picture>
+        <product_code>26001695</product_code>
+        <equipment></equipment>
+        <country>Дания</country>
+      </offer>
+      <offer id="1183399" available="true" type="vendor.model" bid="10">
+        <typePrefix>Настольный/настенный диспенсер для косметических салфеток</typePrefix>
+        <vendor>LAIMA</vendor>
+        <vendorCode></vendorCode>
+        <model>605392</model>
+        <name>Диспенсер для косметических салфеток ЛАЙМА настольный/настенный, пластиковый, белый 605392</name>
+        <weight>0.413</weight>
+        <dimensions>6.5/13/25.5</dimensions>
+        <barcode>4606224211343</barcode>
+        <url>https://www.vseinstrumenti.ru/product/dispenser-dlya-kosmeticheskih-salfetok-lajma-nastolnyj-nastennyj-plastikovyj-belyj-605392-1183399/?utm_source=market&amp;utm_medium=price&amp;utm_campaign=dispensery|moscow&amp;utm_content=dispensery-dlya-salfetok|laima|1183399&amp;utm_term=1183399</url>
+        <categoryId>169132</categoryId>
+        <currencyId>RUR</currencyId>
+        <price>618</price>
+        <description>Диспенсер для косметических салфеток и одноразовых перчаток ЛАЙМА предназначен для использования в парикмахерских, салонах красоты, гостиницах.В комплект входят крепежные материалы для установки. Обладает функциональностью и стильным дизайном, отлично впишется в любой интерьер. Выполнен в белом цвете. Размер - 60х250х130 мм. </description>
+        <sales_notes></sales_notes>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <cpa>1</cpa>
+        <param name="Полочка для телефона">нет</param>
+        <param name="Вес нетто" unit="кг">0.400</param>
+        <param name="Длина" unit="мм">250.000</param>
+        <param name="Ширина" unit="мм">130.000</param>
+        <param name="Глубина" unit="мм">60.000</param>
+        <param name="Тип установки">настольный/настенный</param>
+        <param name="Поверхность">глянцевая</param>
+        <param name="Цвет">белый</param>
+        <param name="Количество листов" unit="шт">100</param>
+        <param name="Вид">диспенсер для косметических салфеток</param>
+        <param name="Материал">ABS-пластик</param>
+        <param name="Тип управления">ручное</param>
+        <param name="Индикация">нет</param>
+        <param name="unit">шт</param>
+        <param name="Ширина упаковки" unit="мм">255</param>
+        <param name="Длина упаковки" unit="мм">130</param>
+        <param name="Высота упаковки" unit="мм">65</param>
+        <param name="Вес с упаковкой" unit="кг">0.41</param>
+        <sku>16092682</sku>
+        <picture>https://cdn.vseinstrumenti.ru/images/goods/1183399/1000x1000/178803033.jpg</picture>
+        <product_code>16092682</product_code>
+        <equipment>&lt;ul&gt; &lt;li&gt;Диспенсер;&lt;/li&gt; &lt;li&gt;Крепеж.&lt;/li&gt; &lt;/ul&gt; </equipment>
+        <delivery-options>
+          <option cost="290" days="1"></option>
+        </delivery-options>
+        <country>Россия</country>
+      </offer>
+      <offer id="1197847" available="true" type="vendor.model" bid="10">
+        <typePrefix>Светодиодный светильник</typePrefix>
+        <vendor>RSV</vendor>
+        <vendorCode>100187</vendorCode>
+        <model>SPO-02-20W-6500K</model>
+        <name>Светодиодный прозрачный светильник RSV RSV-SPO-02-20W-6500K, IP40 TPR 100187</name>
+        <weight>0.21</weight>
+        <dimensions>2.5/60/7.5</dimensions>
+        <barcode>4660048973108</barcode>
+        <url>https://www.vseinstrumenti.ru/product/svetodiodnyj-prozrachnyj-svetilnik-rsv-rsv-spo-02-20w-6500k-ip40-tpr-100187-1197847/?utm_source=market&amp;utm_medium=price&amp;utm_campaign=linejnye-svetilniki|moscow&amp;utm_content=svetodiodnye-linejnye-svetilniki|rsv|1197847&amp;utm_term=1197847</url>
+        <categoryId>7177</categoryId>
+        <currencyId>RUR</currencyId>
+        <price>334</price>
+        <description>Светодиодный прозрачный светильник RSV RSV-SPO-02-20W-6500K, IP40 TPR 100187 предназначен для внутреннего освещения общественных помещений. Может использоваться в офисных зданиях, торговых комплексах, административных, офисных и складских помещениях, а также в гаражах, подъездах, коридорах, на лестницах и в иных помещениях. Светодиодный светильник RSV-SPO-02 - это современная альтернатива светильникам с лампой накаливания. Могут крепиться на горизонтальные и вертикальные поверхности. </description>
+        <sales_notes></sales_notes>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <cpa>1</cpa>
+        <param name="Сенсор включения">нет</param>
+        <param name="Лампа в комплекте">да</param>
+        <param name="Шнур питания в комплекте">нет</param>
+        <param name="Влагозащищенный">нет</param>
+        <param name="Пылезащищенный">да</param>
+        <param name="Вилка в комплекте">нет</param>
+        <param name="Габариты без упаковки" unit="мм">600х75х25</param>
+        <param name="Материал корпуса/плафона/арматуры">сталь/поликарбонат</param>
+        <param name="Вес нетто" unit="кг">0.330</param>
+        <param name="Мощность светильника" unit="Вт">20.000</param>
+        <param name="Мощность лампочки" unit="Вт">20.000</param>
+        <param name="Длина светильника" unit="мм">600.000</param>
+        <param name="Ширина светильника" unit="мм">75.000</param>
+        <param name="Высота светильника" unit="мм">25.000</param>
+        <param name="Световой поток" unit="Лм">1600.000</param>
+        <param name="Цветопередача" unit="Ra">80.000</param>
+        <param name="Тип колбы">нет</param>
+        <param name="Тип">настенные/потолочные</param>
+        <param name="Цветовая температура" unit="К">6500</param>
+        <param name="Цветность">холодный белый (более 5000 К)</param>
+        <param name="Вид крепления">накладной</param>
+        <param name="Напряжение питания" unit="В">220</param>
+        <param name="Тип лампы">светодиодная</param>
+        <param name="Выключатель на корпусе">нет</param>
+        <param name="Защита от пыли и влаги">IP40</param>
+        <param name="Цвет плафона/арматуры">прозрачный/белый</param>
+        <param name="Форма корпуса">прямоугольник</param>
+        <param name="Цоколь">нет (встроенные светодиоды)</param>
+        <param name="Коллекция">SPO</param>
+        <param name="unit">шт</param>
+        <param name="Ширина упаковки" unit="мм">75</param>
+        <param name="Длина упаковки" unit="мм">600</param>
+        <param name="Высота упаковки" unit="мм">25</param>
+        <param name="Вес с упаковкой" unit="кг">0.21</param>
+        <sku>16101214</sku>
+        <picture>https://cdn.vseinstrumenti.ru/images/goods/1197847/1000x1000/54535454.jpg</picture>
+        <product_code>16101214</product_code>
+        <equipment>&lt;ul&gt;&lt;li&gt;Светильник&lt;/li&gt;&lt;li&gt;Инструкция&lt;/li&gt;&lt;li&gt;Крепежные скобы&lt;/li&gt;&lt;li&gt;Упаковка&lt;/li&gt;&lt;/ul&gt;</equipment>
+        <delivery-options>
+          <option cost="290" days="1"></option>
+        </delivery-options>
+        <country>Китай</country>
+      </offer>
+      <offer id="1365063" available="true" type="vendor.model" bid="10">
+        <typePrefix>Потолочный светильник</typePrefix>
+        <vendor>ARTE LAMP</vendor>
+        <vendorCode></vendorCode>
+        <model>A1461PL-1WH</model>
+        <name>Потолочный светильник Arte Lamp GALOPIN A1461PL-1WH</name>
+        <weight>0.31</weight>
+        <dimensions>11.5/10.5/10</dimensions>
+        <barcode>4650099139929</barcode>
+        <url>https://www.vseinstrumenti.ru/product/potolochnyj-svetilnik-arte-lamp-a1461pl-1wh-1365063/?utm_source=market&amp;utm_medium=price&amp;utm_campaign=svetilniki|moscow&amp;utm_content=vstraivaemye-tochechnye-svetilniki|arte-lamp|1365063&amp;utm_term=1365063</url>
+        <categoryId>4465</categoryId>
+        <currencyId>RUR</currencyId>
+        <price>2109</price>
+        <description>Потолочный светильник Arte Lamp GALOPIN A1461PL-1WH</description>
+        <sales_notes></sales_notes>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <cpa>1</cpa>
+        <param name="Лампа в комплекте">нет</param>
+        <param name="Наличие диммера">нет</param>
+        <param name="Габариты без упаковки" unit="мм">100х90х90</param>
+        <param name="Вес нетто" unit="кг">0.310</param>
+        <param name="Мощность светильника" unit="Вт">35.000</param>
+        <param name="Мощность лампы" unit="Вт">35.000</param>
+        <param name="Количество светодиодов/ламп" unit="шт">1.000</param>
+        <param name="Стиль">современный</param>
+        <param name="Количество и напряжение элементов питания">220В</param>
+        <param name="Форма внешней части">квадратная</param>
+        <param name="Провод">без провода (клеммная колодка)</param>
+        <param name="Защита от пыли и влаги">IP44</param>
+        <param name="Тип крепления">встраиваемый</param>
+        <param name="Элементы питания">сеть</param>
+        <param name="Цоколь">GU10</param>
+        <param name="Цвет плафона">белый</param>
+        <param name="Материал корпуса">металл</param>
+        <param name="Материал плафона">металл/стекло</param>
+        <param name="Цвет корпуса">белый</param>
+        <param name="Поворотный источник света">нет</param>
+        <param name="Тип лампы">галогенная/светодиодная</param>
+        <param name="unit">шт</param>
+        <param name="Ширина упаковки" unit="мм">100</param>
+        <param name="Длина упаковки" unit="мм">105</param>
+        <param name="Высота упаковки" unit="мм">115</param>
+        <param name="Вес с упаковкой" unit="кг">0.31</param>
+        <sku>16268959</sku>
+        <picture>https://cdn.vseinstrumenti.ru/images/goods/1365063/1000x1000/52250810.jpg</picture>
+        <product_code>16268959</product_code>
+        <equipment></equipment>
+        <delivery-options>
+          <option cost="290" days="1"></option>
+        </delivery-options>
+        <country>Италия</country>
+      </offer>
+      <offer id="5267623" available="true" type="vendor.model" bid="10">
+        <typePrefix>Масляная краска по металлу дереву бетону</typePrefix>
+        <vendor>Радугамалер</vendor>
+        <vendorCode>4630018082598</vendorCode>
+        <model>МА-15 STATUS</model>
+        <name>Масляная краска Радугамалер STATUS МА-15 (желтая; по металлу, дереву, бетону; 0,8 кг) 4630018082598</name>
+        <weight>0.9</weight>
+        <dimensions>13.4/10/10</dimensions>
+        <barcode>4630018082598</barcode>
+        <url>https://www.vseinstrumenti.ru/product/maslyanaya-kraska-radugamaler-status-ma-15-zheltaya-po-metallu-derevu-betonu-0-8-kg-4630018082598-5267623/?utm_source=market&amp;utm_medium=price&amp;utm_campaign=emali|moscow&amp;utm_content=emali-dlya-naruzhnyh-i-vnutrennih-rabot|radugamaler---|5267623&amp;utm_term=5267623</url>
+        <categoryId>174164</categoryId>
+        <currencyId>RUR</currencyId>
+        <price>229</price>
+        <description>Масляная краска Радугамалер STATUS МА-15 (желтая; по металлу, дереву, бетону; 0,8 кг) 4630018082598 предназначена для окраски металлических, деревянных, бетонных, оштукатуренных и других поверхностей, подвергающихся атмосферным воздействиям, а также для отделочных работ внутри помещений. Широкая цветовая палитра, атмосферостойкая. На основе натуральных растительных масел. Расход: 150-180 г/м². Хранение: 24 месяца. </description>
+        <sales_notes></sales_notes>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <cpa>1</cpa>
+        <param name="Для медицинских учреждений">нет</param>
+        <param name="Для детских учреждений">нет</param>
+        <param name="Фактурная ">нет</param>
+        <param name="Молотковая ">нет</param>
+        <param name="Для пластика">нет</param>
+        <param name="Быстросохнущая">нет</param>
+        <param name="Износостойкая ">да</param>
+        <param name="Для стен и потолков">да</param>
+        <param name="Для пола">нет</param>
+        <param name="Металлик">нет</param>
+        <param name="Для кирпича">да</param>
+        <param name="Для бетона">да</param>
+        <param name="Защита от плесени">нет</param>
+        <param name="Для металла">да</param>
+        <param name="Для дерева">да</param>
+        <param name="Для камня">да</param>
+        <param name="Вес нетто" unit="кг">0.800</param>
+        <param name="Время высыхания между слоями" unit="ч">24.000</param>
+        <param name="Базис">нет</param>
+        <param name="Основания">дерево/металл/бетон/кирпич/минеральные поверхности</param>
+        <param name="Моющаяся">да</param>
+        <param name="Срок годности (с даты изготовления)" unit="мес">24</param>
+        <param name="Способ нанесения">кисть/валик/краскораспылитель</param>
+        <param name="Время полного высыхания" unit="ч">24</param>
+        <param name="Тип">масляная</param>
+        <param name="Огнезащитность ">нет</param>
+        <param name="Вид тары">металлическая банка</param>
+        <param name="Степень блеска">глянцевый</param>
+        <param name="Для помещений с повышенной влажностью">да</param>
+        <param name="Место применения">внутри и вне помещения</param>
+        <param name="Оттенок">желтый</param>
+        <param name="Без запаха ">нет</param>
+        <param name=" Экологическая сертификация">нет</param>
+        <param name="Влагостойкость">да</param>
+        <param name="Возможность колеровки">нет</param>
+        <param name="Расход краски" unit="кг/м²">0.15-0.18</param>
+        <param name="Разбавитель">уайт-спирит/скипидар/сольвент</param>
+        <param name="ГОСТ">нет</param>
+        <param name="Марка">МА-15</param>
+        <param name="Серия">STATUS</param>
+        <param name="ТУ">2312-031-89222101-2017</param>
+        <param name="Цвет">желтый</param>
+        <param name="unit">шт</param>
+        <param name="Ширина упаковки" unit="мм">100</param>
+        <param name="Длина упаковки" unit="мм">100</param>
+        <param name="Высота упаковки" unit="мм">134</param>
+        <param name="Вес с упаковкой" unit="кг">0.90</param>
+        <sku>22974213</sku>
+        <picture>https://cdn.vseinstrumenti.ru/images/goods/5267623/1000x1000/134658350.jpg</picture>
+        <product_code>22974213</product_code>
+        <equipment></equipment>
+        <delivery-options>
+          <option cost="290" days="1"></option>
+        </delivery-options>
+        <country>Россия</country>
+      </offer>
+      <offer id="1095147" available="true" type="vendor.model" bid="10">
+        <typePrefix>У-образный</typePrefix>
+        <vendor>CONCORDE</vendor>
+        <vendorCode>6619349</vendorCode>
+        <model>Y-3RV14</model>
+        <name>Переходник Y-3RV14 У-образный, внутренняя резьба 3х1/4&amp;quot; CONCORDE 6619349</name>
+        <weight>0.04</weight>
+        <dimensions>9.5/2/7</dimensions>
+        <barcode>4607954307030</barcode>
+        <url>https://www.vseinstrumenti.ru/product/perehodnik-y-3rv14-u-obraznyj-vnutrennyaya-rezba-3h1-4-concorde-6619349-1095147/?utm_source=market&amp;utm_medium=price&amp;utm_campaign=pnevmoprovod|moscow&amp;utm_content=trojniki-dlya-kompressorov-i-pnevmoinstrumenta|concorde|1095147&amp;utm_term=1095147</url>
+        <categoryId>8045</categoryId>
+        <currencyId>RUR</currencyId>
+        <price>420</price>
+        <description>Внимание, изображение товара может отличаться от реального! Верные параметры указаны в технических характеристиках товара. </description>
+        <sales_notes></sales_notes>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <cpa>1</cpa>
+        <param name="Тип">Y-образный</param>
+        <param name="Соединение">1/4FFF</param>
+        <param name="Вид">тройник</param>
+        <param name="unit">шт</param>
+        <param name="Ширина упаковки" unit="мм">70</param>
+        <param name="Длина упаковки" unit="мм">20</param>
+        <param name="Высота упаковки" unit="мм">95</param>
+        <param name="Вес с упаковкой" unit="кг">0.04</param>
+        <sku>15982247</sku>
+        <picture>https://cdn.vseinstrumenti.ru/images/goods/1095147/1000x1000/52250417.jpg</picture>
+        <product_code>15982247</product_code>
+        <equipment></equipment>
+        <delivery-options>
+          <option cost="290" days="3"></option>
+        </delivery-options>
+        <country>Россия</country>
+      </offer>
+      <offer id="799283" available="true" type="vendor.model" bid="10">
+        <typePrefix>Станочные тиски</typePrefix>
+        <vendor>КОБАЛЬТ</vendor>
+        <vendorCode></vendorCode>
+        <model>246-036</model>
+        <name>Станочные тиски КОБАЛЬТ 246-036</name>
+        <weight>1.88</weight>
+        <dimensions>7/20/16</dimensions>
+        <barcode>4640018246036</barcode>
+        <url>https://www.vseinstrumenti.ru/product/stanochnye-tiski-kobalt-246-036-799283/?utm_source=market&amp;utm_medium=price&amp;utm_campaign=tiski|moscow&amp;utm_content=stanochnye-tiski|kobalt|799283&amp;utm_term=799283</url>
+        <categoryId>3583</categoryId>
+        <currencyId>RUR</currencyId>
+        <price>1920</price>
+        <description>Станочные тиски КОБАЛЬТ 246-036 имеют ширину губок, равную 75 мм. Приспособление выполнено из чугуна - прочного и стойкого к нагрузкам материала. Тиски применяются в качестве дополнительного оборудования станка. Легкость установки обусловлена наличием 4 пазов. Зажим деталей осуществляется поворотом шарнирной ручки. Высота съемных губок - 20 мм. </description>
+        <sales_notes></sales_notes>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <cpa>1</cpa>
+        <param name="Габариты без упаковки" unit="мм">200х160х70</param>
+        <param name="Ширина губок" unit="мм">75.000</param>
+        <param name="Рабочий ход" unit="мм">75.000</param>
+        <param name="Вес нетто" unit="кг">2.000</param>
+        <param name="Применение">для фрезерных станков</param>
+        <param name="Тип">станочные</param>
+        <param name="Класс товара">Бытовой</param>
+        <param name="Материал корпуса">чугун</param>
+        <param name="Материал губок">чугун</param>
+        <param name="Функция поворота">нет</param>
+        <param name="unit">шт</param>
+        <param name="Ширина упаковки" unit="мм">160</param>
+        <param name="Длина упаковки" unit="мм">200</param>
+        <param name="Высота упаковки" unit="мм">70</param>
+        <param name="Вес с упаковкой" unit="кг">1.88</param>
+        <sku>15610316</sku>
+        <picture>https://cdn.vseinstrumenti.ru/images/goods/799283/1000x1000/51668440.jpg</picture>
+        <product_code>15610316</product_code>
+        <equipment>&lt;ul&gt; &lt;li&gt;Тиски;&lt;/li&gt; &lt;li&gt;Картонная упаковка.&lt;/li&gt; &lt;/ul&gt; </equipment>
+        <delivery-options>
+          <option cost="290" days="1"></option>
+        </delivery-options>
+        <country>Россия</country>
+      </offer>
+      <offer id="1807795" available="true" type="vendor.model" bid="10">
+        <typePrefix>Бесщеточная газонокосилка</typePrefix>
+        <vendor>ЗУБР</vendor>
+        <vendorCode></vendorCode>
+        <model>ГКЛ-3736-42</model>
+        <name>Бесщеточная газонокосилка ЗУБР 36 В, 4 А*ч, 2 АКБ и ЗУ ГКЛ-3736-42</name>
+        <weight>16.6</weight>
+        <dimensions>43.5/70.5/38</dimensions>
+        <barcode>4606373395598</barcode>
+        <url>https://www.vseinstrumenti.ru/product/besschetochnaya-gazonokosilka-zubr-36-v-4-a-ch-2-akb-i-zu-gkl-3736-42-1807795/?utm_source=market&amp;utm_medium=price&amp;utm_campaign=gazonokosilki|moscow&amp;utm_content=akkumulyatornye-gazonokosilki|zubr|1807795&amp;utm_term=1807795</url>
+        <categoryId>2977</categoryId>
+        <currencyId>RUR</currencyId>
+        <price>24720</price>
+        <description>Бесщеточная газонокосилка ЗУБР 36 В, 4 А*ч, 2 АКБ и ЗУ ГКЛ-3736-42 подходит для стрижки газонной травы. Благодаря работе от аккумулятора модель отличается отсутствием вредных выхлопов, низким уровнем шума и независимостью от источников электричества. Оснащена бесщеточным двигателем, который характеризуется высокой производительностью, низким потреблением энергии и долгим сроком службы. Удобство использования. Травосборник объемом 35 л оснащен индикатором для удобства контроля за его заполнением. </description>
+        <sales_notes></sales_notes>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <cpa>1</cpa>
+        <param name="Асинхронный двигатель">да</param>
+        <param name="Габариты без упаковки" unit="мм">430х1210х1000</param>
+        <param name="Время заряда" unit="мин">100</param>
+        <param name="Вес нетто" unit="кг">13.800</param>
+        <param name="Ширина скашивания" unit="см">37.000</param>
+        <param name="Высота скашивания max" unit="мм">75.000</param>
+        <param name="Высота скашивания min" unit="мм">25.000</param>
+        <param name="Объем травосборника" unit="л">35.000</param>
+        <param name="Площадь" unit="м²">400.000</param>
+        <param name="Класс товара">полупрофессиональный</param>
+        <param name="Напряжение аккумулятора" unit="В">2х18</param>
+        <param name="Тип аккумулятора">Li-lon</param>
+        <param name="Кол-во режимов регулировки высоты">6</param>
+        <param name="Регулировка высоты">центральная</param>
+        <param name="Самоходная">нет</param>
+        <param name="Тип двигателя">электрический</param>
+        <param name="Тип травосборника">комбинированный</param>
+        <param name="Материал корпуса">пластик</param>
+        <param name="Мульчирование">есть</param>
+        <param name="Емкость аккумулятора" unit="А*ч">4</param>
+        <param name="Привод на нож">прямой</param>
+        <param name="Количество аккумуляторов в комплекте">2</param>
+        <param name="Тип ручки">складная</param>
+        <param name="Травосборник">есть</param>
+        <param name="Большие задние колеса">нет</param>
+        <param name="Щеточный двигатель">нет</param>
+        <param name="Наличие индикатора заполнения">есть</param>
+        <param name="Количество колес" unit="шт">4</param>
+        <param name="unit">шт</param>
+        <param name="Ширина упаковки" unit="мм">380</param>
+        <param name="Длина упаковки" unit="мм">705</param>
+        <param name="Высота упаковки" unit="мм">435</param>
+        <param name="Вес с упаковкой" unit="кг">16.60</param>
+        <sku>16497040</sku>
+        <picture>https://cdn.vseinstrumenti.ru/images/goods/1807795/1000x1000/53465188.jpg</picture>
+        <product_code>16497040</product_code>
+        <equipment>&lt;ul&gt; &lt;li&gt;Газонокосилка&lt;/li&gt; &lt;li&gt;Аккумулятор - 2 шт.&lt;/li&gt; &lt;li&gt;Зарядное устройство - 1 шт.&lt;/li&gt; &lt;li&gt;Травосборник - 1 шт.&lt;/li&gt; &lt;li&gt;Нож - 1 шт.&lt;/li&gt; &lt;li&gt;Рукоятка нижняя - 1 шт.&lt;/li&gt; &lt;li&gt;Рукоятка верхняя - 1 шт.&lt;/li&gt; &lt;li&gt;Кабельный прижим - 2 шт.&lt;/li&gt; &lt;li&gt;Крепеж - 1 комплект&lt;/li&gt; &lt;li&gt;Инструкция&lt;/li&gt; &lt;li&gt;Упаковка&lt;/li&gt; &lt;/ul&gt; </equipment>
+        <delivery-options>
+          <option cost="540" days="1"></option>
+        </delivery-options>
+        <country>Россия</country>
+      </offer>
+      <offer id="1189067" available="true" type="vendor.model" bid="10">
+        <typePrefix>Цилиндровый механизм под вертушку</typePrefix>
+        <vendor>CISA</vendor>
+        <vendorCode>7282</vendorCode>
+        <model>ASIX OE302-82.00</model>
+        <name>Цилиндровый механизм под вертушку CISA ASIX OE302-82.00 70 мм/25+10+35, ЛАТУНЬ 7282</name>
+        <weight>0.311</weight>
+        <dimensions>3/10/4</dimensions>
+        <barcode>8015345562672</barcode>
+        <url>https://www.vseinstrumenti.ru/product/tsilindrovyj-mehanizm-pod-vertushku-cisa-asix-oe302-82-00-70-mm-25-10-35-latun-7282-1189067/?utm_source=market&amp;utm_medium=price&amp;utm_campaign=dvernaya-furnitura|moscow&amp;utm_content=lichinki-lichiny-zamka|cisa|1189067&amp;utm_term=1189067</url>
+        <categoryId>6659</categoryId>
+        <currencyId>RUR</currencyId>
+        <price>3070</price>
+        <description>Цилиндровый механизм под вертушку CISA ASIX OE302-82.00 70 мм/25+10+35, ЛАТУНЬ 7282</description>
+        <sales_notes></sales_notes>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <cpa>1</cpa>
+        <param name="Возможность перекодировки">нет</param>
+        <param name="Длина" unit="мм">70.000</param>
+        <param name="Ширина" unit="мм">17.000</param>
+        <param name="Высота" unit="мм">33.000</param>
+        <param name="Количество комбинаций">30000</param>
+        <param name="Типоразмер цилиндра">30/40</param>
+        <param name="Конструкция">двухсторонний</param>
+        <param name="Покрытие">гальваника</param>
+        <param name="Количество ключей" unit="шт">5</param>
+        <param name="Материал">латунь</param>
+        <param name="Механизм постоянного ключа">с стержнем/штоком</param>
+        <param name="Количество пинов">6</param>
+        <param name="Цвет">латунь матовая</param>
+        <param name="unit">шт</param>
+        <param name="Ширина упаковки" unit="мм">40</param>
+        <param name="Длина упаковки" unit="мм">100</param>
+        <param name="Высота упаковки" unit="мм">30</param>
+        <param name="Вес с упаковкой" unit="кг">0.31</param>
+        <sku>16090331</sku>
+        <picture>https://cdn.vseinstrumenti.ru/images/goods/1189067/1000x1000/52651601.jpg</picture>
+        <product_code>16090331</product_code>
+        <equipment>&lt;ul&gt; &lt;li&gt;Цилиндровый механизм, 1 шт.&lt;/li&gt; &lt;li&gt;Ключи, 5 шт.&lt;/li&gt; &lt;li&gt;Коробка.&lt;/li&gt; &lt;/ul&gt; </equipment>
+        <delivery-options>
+          <option cost="290" days="1"></option>
+        </delivery-options>
+        <country>Италия</country>
+      </offer>
+      <offer id="1541615" available="true" type="vendor.model" bid="10">
+        <typePrefix>Кабель-удлинитель</typePrefix>
+        <vendor>VENTION</vendor>
+        <vendorCode></vendorCode>
+        <model>VAS-A45-B050</model>
+        <name>Кабель-удлинитель Vention USB 3.0 AM/AF - 0.5м Black Edition VAS-A45-B050</name>
+        <weight>0.056</weight>
+        <dimensions>1/14/10</dimensions>
+        <barcode>6922794721319</barcode>
+        <url>https://www.vseinstrumenti.ru/product/kabel-udlinitel-vention-usb-3-0-am-af-0-5m-black-edition-vas-a45-b050-1541615/?utm_source=market&amp;utm_medium=price&amp;utm_campaign=kabeli-i-perehodniki-kompyuternye|moscow&amp;utm_content=usb-kabeli-i-perehodniki|vention|1541615&amp;utm_term=1541615</url>
+        <categoryId>169032</categoryId>
+        <currencyId>RUR</currencyId>
+        <price>540</price>
+        <description>Кабель-удлинитель Vention USB 3.0 AM/AF - 0.5м Black Edition VAS-A45-B050</description>
+        <sales_notes></sales_notes>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <cpa>1</cpa>
+        <param name="Длина кабеля" unit="м">0.500</param>
+        <param name="Кол-во разъемов" unit="шт">2</param>
+        <param name="Материал">медь/ПВХ</param>
+        <param name="Тип разъема">USB 3.0 А вилка/ USB А розетка</param>
+        <param name="Тип">кабель USB</param>
+        <param name="Цвет провода">черный</param>
+        <param name="Цвет корпуса">черный</param>
+        <param name="Упаковка">пакет</param>
+        <param name="unit">шт</param>
+        <param name="Ширина упаковки" unit="мм">100</param>
+        <param name="Длина упаковки" unit="мм">140</param>
+        <param name="Высота упаковки" unit="мм">10</param>
+        <param name="Вес с упаковкой" unit="кг">0.06</param>
+        <sku>16442727</sku>
+        <picture>https://cdn.vseinstrumenti.ru/images/goods/1541615/1000x1000/52608290.jpg</picture>
+        <product_code>16442727</product_code>
+        <equipment></equipment>
+        <delivery-options>
+          <option cost="290" days="18"></option>
+        </delivery-options>
+        <country>Китай</country>
+      </offer>
+      <offer id="1382895" available="true" type="vendor.model" bid="10">
+        <typePrefix>Автомобильная ремонтная металлизированная эмаль</typePrefix>
+        <vendor>KUDO</vendor>
+        <vendorCode></vendorCode>
+        <model>41651 11605238</model>
+        <name>Автомобильная ремонтная металлизированная эмаль KUDO Черный трюфель 651 520 мл 41651 11605238</name>
+        <weight>0.365</weight>
+        <dimensions>19.5/6.5/6.5</dimensions>
+        <barcode>4606445018677</barcode>
+        <url>https://www.vseinstrumenti.ru/product/avtomobilnaya-remontnaya-metallizirovannaya-emal-kudo-chernyj-tryufel-651-520-ml-41651-11605238-1382895/?utm_source=market&amp;utm_medium=price&amp;utm_campaign=avtokosmetika-dlya-kuzova-avtomobilya|moscow&amp;utm_content=avtoemali-kraski-dlya-avto|kudo|1382895&amp;utm_term=1382895</url>
+        <categoryId>12331</categoryId>
+        <currencyId>RUR</currencyId>
+        <price>590</price>
+        <description>Автомобильная ремонтная металлизированная эмаль KUDO Черный трюфель 651 520 мл 41651 11605238 используется в виде базового слова в двухслойном покрытии в связке с поверхностным прозрачным лаком. Применяется для ремонтной окраски деталей автомобиля и других загрунтованных поверхностей. Внимание, изображение товара может отличаться от реального! </description>
+        <sales_notes></sales_notes>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <cpa>1</cpa>
+        <param name="От следов насекомых">нет</param>
+        <param name="Для резины/пластика">да</param>
+        <param name="Для сплавов">да</param>
+        <param name="Для кожи">нет</param>
+        <param name="Для приборной панели">нет</param>
+        <param name="Объем" unit="л">0.520</param>
+        <param name="Класс товара">Бытовой</param>
+        <param name="Цвет">Черный трюфель 651</param>
+        <param name="Вид">автоэмаль</param>
+        <param name="Назначение">для ухода за автомобилем</param>
+        <param name="unit">шт</param>
+        <param name="Ширина упаковки" unit="мм">65</param>
+        <param name="Длина упаковки" unit="мм">65</param>
+        <param name="Высота упаковки" unit="мм">195</param>
+        <param name="Вес с упаковкой" unit="кг">0.36</param>
+        <sku>16283664</sku>
+        <picture>https://cdn.vseinstrumenti.ru/images/goods/1382895/1000x1000/54531805.jpg</picture>
+        <product_code>16283664</product_code>
+        <equipment></equipment>
+        <delivery-options>
+          <option cost="290" days="3"></option>
+        </delivery-options>
+        <country>Россия</country>
+      </offer>
+      <offer id="1185757" available="true" type="vendor.model" bid="10">
+        <typePrefix>Шинный изолятор</typePrefix>
+        <vendor>EKF</vendor>
+        <vendorCode>plc-sl-900</vendorCode>
+        <model>SL-900</model>
+        <name>Шинный изолятор EKF 900А 18кВ Лесенка 2 шт. plc-sl-900</name>
+        <weight>0.575</weight>
+        <dimensions>10/23/3</dimensions>
+        <barcode>4690216029375</barcode>
+        <url>https://www.vseinstrumenti.ru/product/shinnyj-izolyator-ekf-sl-900-lesenka-900a-18kv-ekf-plc-sl-900-1185757/?utm_source=market&amp;utm_medium=price&amp;utm_campaign=izolyatory|moscow&amp;utm_content=shinnye-izolyatory-shinoderzhateli|ekf-|1185757&amp;utm_term=1185757</url>
+        <categoryId>168983</categoryId>
+        <currencyId>RUR</currencyId>
+        <price>1675</price>
+        <description>Шинный изолятор EKF 900А 18кВ Лесенка 2 шт. plc-sl-900</description>
+        <sales_notes></sales_notes>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <cpa>1</cpa>
+        <param name="Габариты без упаковки" unit="мм">230х30х100</param>
+        <param name="Вес нетто" unit="кг">0.575</param>
+        <param name="Max ток" unit="А">900.000</param>
+        <param name="Ширина" unit="мм">30.000</param>
+        <param name="Высота" unit="мм">100.000</param>
+        <param name="Количество полюсов" unit="шт">4</param>
+        <param name="Изолятор">есть</param>
+        <param name="Цвет">красный</param>
+        <param name="Количество в упаковке" unit="шт">2</param>
+        <param name="Тип монтажа">на изолятор</param>
+        <param name="Тип">изолятор</param>
+        <param name="Материал">пластик</param>
+        <param name="unit">шт</param>
+        <param name="Ширина упаковки" unit="мм">30</param>
+        <param name="Длина упаковки" unit="мм">230</param>
+        <param name="Высота упаковки" unit="мм">100</param>
+        <param name="Вес с упаковкой" unit="кг">0.57</param>
+        <sku>15223826</sku>
+        <picture>https://cdn.vseinstrumenti.ru/images/goods/1185757/1000x1000/51176036.jpg</picture>
+        <product_code>15223826</product_code>
+        <equipment>&lt;ul&gt; &lt;li&gt;Изолятор шинный;&lt;/li&gt; &lt;li&gt;Болты;&lt;/li&gt; &lt;li&gt;Трафарет для сверления отверстий.&lt;/li&gt; &lt;/ul&gt; </equipment>
+        <delivery-options>
+          <option cost="290" days="3"></option>
+        </delivery-options>
+        <country>Россия</country>
+      </offer>
+      <offer id="2042192" available="true" type="vendor.model" bid="10">
+        <typePrefix>Ударопрочный влагостойкий стеновой молдинг под покраску</typePrefix>
+        <vendor>Decor-Dizayn</vendor>
+        <vendorCode></vendorCode>
+        <model>DD623</model>
+        <name>Стеновой молдинг Decor-Dizayn ударопрочный влагостойкий под покраску 30Х10Х2000 мм DD623</name>
+        <weight>0.21</weight>
+        <dimensions>3/200/1</dimensions>
+        <barcode>4601234755009</barcode>
+        <url>https://www.vseinstrumenti.ru/product/stenovoj-molding-decor-dizayn-udaroprochnyj-vlagostojkij-pod-pokrasku-30h10h2000-mm-dd623-2042192/?utm_source=market&amp;utm_medium=price&amp;utm_campaign=lepnina|moscow&amp;utm_content=moldingi-dlya-sten|decor-dizayn|2042192&amp;utm_term=2042192</url>
+        <categoryId>171680</categoryId>
+        <currencyId>RUR</currencyId>
+        <price>290</price>
+        <description>Стеновой молдинг Decor-Dizayn ударопрочный влагостойкий под покраску 30Х10Х2000 мм DD623 из полистирола высокой плотности под покраску. Для внутренних работ.&amp;nbsp; Для помещений с обычной и повышенной степенью влажности и загрязнения - гостиные, спальни, детские, кухни, коридоры, ванные комнаты, санузлы, офисы. Легкий монтаж и окрас - клеится на монтажный клей/жидкие гвозди, окрашивается всеми видами красок на водной, акриловой и алкидной основе. Для равномерного окраса карниза рекомендуется использовать краскопульт и/или ворсяные валики.&amp;nbsp; Основные потребительские свойства: Полная влагостойкость - можно использовать в ванной комнате, кухнях, коридорах. Долговечность. Ударопрочность - плотность 500 кг./м3. Легкий монтаж и окрас.&amp;nbsp; Экологичность и безопасность. Современные европейские формы. </description>
+        <sales_notes></sales_notes>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <cpa>1</cpa>
+        <param name="Под подсветку">нет</param>
+        <param name="Под покраску">да</param>
+        <param name="Ударопрочный">да</param>
+        <param name="Влагостойкий">да</param>
+        <param name="Толщина" unit="мм">10.000</param>
+        <param name="Ширина" unit="мм">30.000</param>
+        <param name="Длина" unit="мм">2000.000</param>
+        <param name="Цвет">белый</param>
+        <param name="Поверхность">с рельефом</param>
+        <param name="Тип монтажа">жидкие гвозди</param>
+        <param name="Тип">молдинг</param>
+        <param name="Коллекция">DD</param>
+        <param name="Материал">Полистирол высокой плотности</param>
+        <param name="unit">шт</param>
+        <param name="Ширина упаковки" unit="мм">10</param>
+        <param name="Длина упаковки" unit="мм">2000</param>
+        <param name="Высота упаковки" unit="мм">30</param>
+        <param name="Вес с упаковкой" unit="кг">0.21</param>
+        <sku>19766674</sku>
+        <picture>https://cdn.vseinstrumenti.ru/images/goods/2042192/1000x1000/54178951.jpg</picture>
+        <product_code>19766674</product_code>
+        <equipment></equipment>
+        <delivery-options>
+          <option cost="290" days="7"></option>
+        </delivery-options>
+        <country>Россия</country>
+      </offer>
+      <offer id="5964157" available="true" type="vendor.model" bid="10">
+        <typePrefix>Счетчик воды</typePrefix>
+        <vendor>ДЕКАСТ</vendor>
+        <vendorCode>75-25-01</vendorCode>
+        <model>ОСВУ-25 НЕПТУН</model>
+        <name>Счетчик воды ДЕКАСТ ОСВУ-25 &amp;quot;НЕПТУН&amp;quot; 75-25-01</name>
+        <weight>1.5</weight>
+        <dimensions>11/17.5/10</dimensions>
+        <barcode>4610214202983</barcode>
+        <url>https://www.vseinstrumenti.ru/product/schetchik-vody-dekast-osvu-25-neptun-75-25-01-5964157/?utm_source=market&amp;utm_medium=price&amp;utm_campaign=schetchiki-i-avtomatika|moscow&amp;utm_content=schetchiki-vody|dekast-|5964157&amp;utm_term=5964157</url>
+        <categoryId>6935</categoryId>
+        <currencyId>RUR</currencyId>
+        <price>11312</price>
+        <description>Общедомовые счетчики воды используются для установки на узлы водоснабжения в жилых домах, небольших и средних предприятиях, магазинах. Такие приборы, как правило, имеют диаметры условного прохода от 25 до 50 мм.</description>
+        <sales_notes></sales_notes>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <cpa>1</cpa>
+        <param name="Для горячей воды">да</param>
+        <param name="Для холодной воды">да</param>
+        <param name="Сгоны в комплекте">да</param>
+        <param name="Импульсный выход">нет</param>
+        <param name="Фланцевое присоединение">нет</param>
+        <param name="Обратный клапан">нет</param>
+        <param name="Мокроходный">нет</param>
+        <param name="Тип устройства">одноструйный</param>
+        <param name="Номинальный диаметр (условный проход)" unit="мм">25</param>
+        <param name="Максимальная рабочая температура теплоносителя" unit="°С">95</param>
+        <param name="Материал корпуса">латунь</param>
+        <param name="Материал">латунь, пластик</param>
+        <param name="Расход номинальный" unit="м³/ч">3.5</param>
+        <param name="Межповерочный интервал на холодную воду">6 лет</param>
+        <param name="Межповерочный интервал на горячую воду">6 лет</param>
+        <param name="Термодатчик">нет</param>
+        <param name="Присоединительный размер (сгон)">1 дюйм</param>
+        <param name="Расход максимальный" unit="м³/ч">7</param>
+        <param name="Присоединительный размер (корпус счетчика)">1 1/4 дюйма</param>
+        <param name="Установочная длина без сгонов" unit="мм">170</param>
+        <param name="Расход минимальный" unit="м³/ч">0.07</param>
+        <param name="unit">шт</param>
+        <param name="Ширина упаковки" unit="мм">100</param>
+        <param name="Длина упаковки" unit="мм">175</param>
+        <param name="Высота упаковки" unit="мм">110</param>
+        <param name="Вес с упаковкой" unit="кг">1.50</param>
+        <sku>24364191</sku>
+        <picture>https://cdn.vseinstrumenti.ru/images/goods/5964157/1000x1000/152623010.jpg</picture>
+        <product_code>24364191</product_code>
+        <equipment>&lt;ul&gt; &lt;li&gt;Счетчик воды&lt;/li&gt; &lt;li&gt;Паспорт&lt;/li&gt; &lt;li&gt;Комплект монтажных частей&lt;/li&gt; &lt;/ul&gt; </equipment>
+        <delivery-options>
+          <option cost="290" days="1"></option>
+        </delivery-options>
+        <country>Россия</country>
+      </offer>
+      <offer id="1793825" available="true" type="vendor.model" bid="10">
+        <typePrefix>Наконечник</typePrefix>
+        <vendor>ЗЭТАРУС</vendor>
+        <vendorCode>zeta10654</vendorCode>
+        <model>ТМЛ 16-8-6</model>
+        <name>Наконечник ЗЭТАРУС ТМЛ 16-8-6, упаковка 5 штук zeta10654</name>
+        <weight>0.064</weight>
+        <dimensions>1.5/5/4</dimensions>
+        <barcode>4630038587189</barcode>
+        <url>https://www.vseinstrumenti.ru/product/nakonechnik-zetarus-tml-16-8-6-upakovka-5-shtuk-zeta10654-1793825/?utm_source=market&amp;utm_medium=price&amp;utm_campaign=koltsevye-klemmy-i-nakonechniki-tip-o|moscow&amp;utm_content=neizolirovannye-koltsevye-klemmy-i-nakonechniki|zetarus|1793825&amp;utm_term=1793825</url>
+        <categoryId>169121</categoryId>
+        <currencyId>RUR</currencyId>
+        <price>291</price>
+        <description>Наконечник ЗЭТАРУС ТМЛ 16-8-6, упаковка 5 штук zeta10654 используется для оконцевания проводов и кабелей с медными жилами сечением от 2,5 до 240мм² и применяются для кабелей напряжением до 35 кВ. Наконечники закрепляются на жилах опрессовкой. Наконечники ТМЛ изготавливаются из медной трубы марки М2 с защитным покрытием олово-висмут (электролитическое лужение). Наконечник одевается на жилу кабеля и опрессовывается гидравлическим или ручным прессом. Такой метод жестко скрепляет наконечник и жилу кабеля, обеспечивая надежный контакт. </description>
+        <sales_notes></sales_notes>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <cpa>1</cpa>
+        <param name="Наличие изоляции">нет</param>
+        <param name="Габариты без упаковки" unit="мм">40х80х14</param>
+        <param name="Количество в упаковке" unit="шт">5.000</param>
+        <param name="Вес нетто" unit="кг">0.064</param>
+        <param name="Диаметр кольца" unit="мм">8.000</param>
+        <param name="Сечение кабеля (Cu)" unit="мм²">16</param>
+        <param name="Крепление винта">М8</param>
+        <param name="Изоляция">нет</param>
+        <param name="Материал">медь луженая</param>
+        <param name="Тип">наконечник кольцевой прямой</param>
+        <param name="Модельный ряд">ТМЛ</param>
+        <param name="Тип монтажа">опрессовка/обжим</param>
+        <param name="ГОСТ">ГОСТ 7386-80</param>
+        <param name="Сечение кабеля (Al)" unit="мм²">16</param>
+        <param name="unit">шт</param>
+        <param name="Ширина упаковки" unit="мм">40</param>
+        <param name="Длина упаковки" unit="мм">50</param>
+        <param name="Высота упаковки" unit="мм">15</param>
+        <param name="Вес с упаковкой" unit="кг">0.06</param>
+        <sku>16788169</sku>
+        <picture>https://cdn.vseinstrumenti.ru/images/goods/1793825/1000x1000/67181101.jpg</picture>
+        <product_code>16788169</product_code>
+        <equipment>&lt;ul&gt; &lt;li&gt;Наконечник ЗЭТАРУС ТМЛ 16-8-6, упаковка 5 штук&lt;/li&gt; &lt;/ul&gt; </equipment>
+        <delivery-options>
+          <option cost="290" days="1"></option>
+        </delivery-options>
+        <country>Россия</country>
+      </offer>
+      <offer id="1748423" available="true" type="vendor.model" bid="10">
+        <typePrefix>Кресло</typePrefix>
+        <vendor>Tetchair</vendor>
+        <vendorCode>13249</vendorCode>
+        <model>RACER GT new</model>
+        <name>Кресло TetChair RACER GT new кожзам/ткань, металлик/красный, 36/08 13249</name>
+        <weight>16.7</weight>
+        <dimensions>35/64/79</dimensions>
+        <barcode>4640015847243</barcode>
+        <url>https://www.vseinstrumenti.ru/product/kreslo-tetchair-racer-gt-new-kozhzam-tkan-metallik-krasnyj-36-08-13249-1748423/?utm_source=market&amp;utm_medium=price&amp;utm_campaign=ofisnye-i-kompyuternye-kresla|moscow&amp;utm_content=igrovye-kresla-gejmerskie|tetchair|1748423&amp;utm_term=1748423</url>
+        <categoryId>167666</categoryId>
+        <currencyId>RUR</currencyId>
+        <price>14450</price>
+        <description>Кресло TetChair RACER GT new кожзам/ткань, металлик/красный, 36/08 13249 предназначено для размещения дома или в офисе. Кресло обладает эргономичной формой и обеспечивает комфорт при использовании. Модель имеет прочное и надежное основание, которое выдерживает значительную нагрузку. </description>
+        <sales_notes></sales_notes>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <cpa>1</cpa>
+        <param name="Регулировка высоты сиденья">да</param>
+        <param name="Требует сборки">да</param>
+        <param name="Подлокотники">да</param>
+        <param name="Подъемный механизм">да</param>
+        <param name="Механизм качания">да</param>
+        <param name="Регулировка высоты спинки">нет</param>
+        <param name="Регулировка высоты подлокотников">нет</param>
+        <param name="Механизм вращения">да</param>
+        <param name="Подголовник">да</param>
+        <param name="Регулировка наклона спинки">да</param>
+        <param name="Подставка для ног">нет</param>
+        <param name="Габариты без упаковки" unit="мм">1320х680</param>
+        <param name="Max нагрузка" unit="кг">120.000</param>
+        <param name="Ширина сиденья" unit="мм">500.000</param>
+        <param name="Глубина сиденья" unit="мм">500.000</param>
+        <param name="Ширина спинки" unit="мм">500.000</param>
+        <param name="Высота спинки" unit="мм">780.000</param>
+        <param name="Min высота сиденья" unit="мм">470.000</param>
+        <param name="Мах высота сиденья" unit="мм">570.000</param>
+        <param name="Вес нетто" unit="кг">16.700</param>
+        <param name="Поясничный упор">нет</param>
+        <param name="Материал крестовины">пластик</param>
+        <param name="Материал подлокотников">пластик/экокожа</param>
+        <param name="Цвет сиденья">серый/красный</param>
+        <param name="Материал обивки">ткань/кожзам</param>
+        <param name="Цвет спинки">серый/красный</param>
+        <param name="Колеса">есть</param>
+        <param name="Стиль">современный</param>
+        <param name="С подсветкой">нет</param>
+        <param name="unit">шт</param>
+        <param name="Ширина упаковки" unit="мм">790</param>
+        <param name="Длина упаковки" unit="мм">640</param>
+        <param name="Высота упаковки" unit="мм">350</param>
+        <param name="Вес с упаковкой" unit="кг">16.70</param>
+        <sku>17267400</sku>
+        <picture>https://cdn.vseinstrumenti.ru/images/goods/1748423/1000x1000/84637807.jpg</picture>
+        <product_code>17267400</product_code>
+        <equipment>&lt;ul&gt;&lt;li&gt;Кресло&lt;/li&gt;&lt;li&gt;Инструкция&lt;/li&gt;&lt;li&gt;Упаковка&lt;/li&gt;&lt;/ul&gt;</equipment>
+        <delivery-options>
+          <option cost="540" days="3"></option>
+        </delivery-options>
+        <country>Россия</country>
+      </offer>
+      <offer id="7429525" available="true" type="vendor.model" bid="10">
+        <typePrefix>Барабан для фрезеровальной машины MC10</typePrefix>
+        <vendor>KOMAN</vendor>
+        <vendorCode></vendorCode>
+        <model>Барабан для MC10</model>
+        <name>Барабан для фрезеровальной машины MC10 KOMAN Барабан для MC10</name>
+        <weight>26</weight>
+        <dimensions>19/28.5/19</dimensions>
+        <barcode>4687202362653</barcode>
+        <url>https://www.vseinstrumenti.ru/product/baraban-dlya-frezerovalnoj-mashiny-mc10-koman-baraban-dlya-mc10-7429525/?utm_source=market&amp;utm_medium=price&amp;utm_campaign=rashodniki-dlya-stroitelnogo-oborudovaniya|moscow&amp;utm_content=rashodniki-dlya-frezerovalnyh-mashin-po-betonu|koman|7429525&amp;utm_term=7429525</url>
+        <categoryId>172942</categoryId>
+        <currencyId>RUR</currencyId>
+        <price>84500</price>
+        <description>Барабан для фрезеровальной машины MC10 предназначен для фрезеровальной машины KOMAN MC10-4 и KOMAN MC10E. Может быть использован при выравнивании бетонных полов и грубого снятия слоев бетона, для нанесения шероховатостей на скользкие ступеньки, а также в качестве демаркировки дорожной разметки. Оснащен высококачественными режущими ламелями, изготовленными из сплава карбида и вольфрама. Является расходным материалом. При износе режущих ламелей подлежит замене. </description>
+        <sales_notes></sales_notes>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <cpa>1</cpa>
+        <param name="Габариты без упаковки" unit="мм">285х190х190 мм</param>
+        <param name="Вес нетто" unit="кг">26.000</param>
+        <param name="Наружный диаметр" unit="мм">190.000</param>
+        <param name="Количество" unit="шт">1</param>
+        <param name="unit">шт</param>
+        <param name="Ширина упаковки" unit="мм">190</param>
+        <param name="Длина упаковки" unit="мм">285</param>
+        <param name="Высота упаковки" unit="мм">190</param>
+        <param name="Вес с упаковкой" unit="кг">26.00</param>
+        <sku>26168195</sku>
+        <picture>https://cdn.vseinstrumenti.ru/images/goods/7429525/1000x1000/85555357.jpg</picture>
+        <product_code>26168195</product_code>
+        <equipment></equipment>
+        <delivery-options>
+          <option cost="540" days="4"></option>
+        </delivery-options>
+        <country>Китай</country>
+      </offer>
+      <offer id="1192241" available="true" type="vendor.model" bid="10">
+        <typePrefix>Пороги Mitsubishi Pajero Sport II 2008-2016</typePrefix>
+        <vendor>Rival</vendor>
+        <vendorCode>A173ALP.4003.1</vendorCode>
+        <model>Premium</model>
+        <name>Пороги Rival Premium Mitsubishi Pajero Sport II 2008-2016, 173 см, 2 шт., A173ALP.4003.1</name>
+        <weight>15</weight>
+        <dimensions>37.5/21/200.2</dimensions>
+        <barcode>4631157354355</barcode>
+        <url>https://www.vseinstrumenti.ru/product/porogi-rival-premium-mitsubishi-pajero-sport-ii-2008-2016-173-sm-2-sht-a173alp-4003-1-1192241/?utm_source=market&amp;utm_medium=price&amp;utm_campaign=aksessuary-dlya-zaschity-avto|moscow&amp;utm_content=porogi-dlya-avto|rival|1192241&amp;utm_term=1192241</url>
+        <categoryId>162969</categoryId>
+        <currencyId>RUR</currencyId>
+        <price>27219</price>
+        <description>Пороги Rival Premium Mitsubishi Pajero Sport II 2008-2016, 173 см, 2 шт., A173ALP.4003.1</description>
+        <sales_notes></sales_notes>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <cpa>1</cpa>
+        <param name="Год выпуска автомобиля">2008-2016</param>
+        <param name="Длина площадки" unit="мм">1730.000</param>
+        <param name="Модель автомобиля">Pajero Sport</param>
+        <param name="Марка автомобиля">Mitsubishi</param>
+        <param name="Материал">алюминий</param>
+        <param name="Количество в комплекте" unit="шт">2</param>
+        <param name="unit">шт</param>
+        <param name="Ширина упаковки" unit="мм">2002</param>
+        <param name="Длина упаковки" unit="мм">210</param>
+        <param name="Высота упаковки" unit="мм">375</param>
+        <param name="Вес с упаковкой" unit="кг">15.00</param>
+        <sku>16104766</sku>
+        <picture>https://cdn.vseinstrumenti.ru/images/goods/1192241/1000x1000/52063635.jpg</picture>
+        <product_code>16104766</product_code>
+        <equipment></equipment>
+        <delivery-options>
+          <option cost="540" days="3"></option>
+        </delivery-options>
+        <country>Россия</country>
+      </offer>
+      <offer id="2710340" available="true" type="vendor.model" bid="10">
+        <typePrefix>Коврики для Peugeot 508 2011 - 2018</typePrefix>
+        <vendor>Vicecar</vendor>
+        <vendorCode></vendorCode>
+        <model>EV34010-изумрудный</model>
+        <name>Коврики Vicecar ЕВА / EVA / ЭВА для Peugeot 508 2011 - 2018 EV34010-изумрудный</name>
+        <weight>1.5</weight>
+        <dimensions>5/80/60</dimensions>
+        <barcode>2027127292703</barcode>
+        <url>https://www.vseinstrumenti.ru/product/kovriki-vicecar-eva-eva-eva-dlya-peugeot-508-2011-2018-ev34010-izumrudnyj-2710340/?utm_source=market&amp;utm_medium=price&amp;utm_campaign=aksessuary-v-salon-avtomobilya|moscow&amp;utm_content=kovriki-avtomobilnye|vicecar|2710340&amp;utm_term=2710340</url>
+        <categoryId>5494</categoryId>
+        <currencyId>RUR</currencyId>
+        <price>2105</price>
+        <description>Коврики Vicecar ЕВА / EVA / ЭВА для Peugeot 508 2011 - 2018 EV34010-изумрудный</description>
+        <sales_notes></sales_notes>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <cpa>1</cpa>
+        <param name="Год выпуска автомобиля">2011; 2012; 2013; 2014; 2015; 2016; 2017; 2018</param>
+        <param name="Класс товара">Бытовой</param>
+        <param name="Наличие бортиков">нет</param>
+        <param name="Марка автомобиля">Peugeot</param>
+        <param name="Материал">ЭВА</param>
+        <param name="Тип">салонные</param>
+        <param name="Модель автомобиля">508</param>
+        <param name="unit">шт</param>
+        <param name="Ширина упаковки" unit="мм">600</param>
+        <param name="Длина упаковки" unit="мм">800</param>
+        <param name="Высота упаковки" unit="мм">50</param>
+        <param name="Вес с упаковкой" unit="кг">1.50</param>
+        <sku>21106228</sku>
+        <picture>https://cdn.vseinstrumenti.ru/images/goods/2710340/1000x1000/56448782.jpg</picture>
+        <product_code>21106228</product_code>
+        <equipment>&lt;ul&gt;&lt;li&gt;Комплект ковриков в салон&lt;/li&gt;&lt;/ul&gt;</equipment>
+        <delivery-options>
+          <option cost="290" days="4"></option>
+        </delivery-options>
+        <country>Россия</country>
+      </offer>
+      <offer id="1792472" available="true" type="vendor.model" bid="10">
+        <typePrefix>Винт</typePrefix>
+        <vendor>ВИРТУОЗ</vendor>
+        <vendorCode>21878</vendorCode>
+        <model>5 х 90 DIN965 5 шт.</model>
+        <name>Винт с потайной головкой ВИРТУОЗ DIN965 5 х 90, 5 шт 21878</name>
+        <weight>0.03</weight>
+        <dimensions>2.5/17/9</dimensions>
+        <barcode>4603302404543</barcode>
+        <url>https://www.vseinstrumenti.ru/product/vint-s-potajnoj-golovkoj-virtuoz-din965-5-h-90-5-sht-21878-1792472/?utm_source=market&amp;utm_medium=price&amp;utm_campaign=metricheskij-krepezh|moscow&amp;utm_content=vinty|virtuoz|1792472&amp;utm_term=1792472</url>
+        <categoryId>3377</categoryId>
+        <currencyId>RUR</currencyId>
+        <price>47</price>
+        <description>Винт с потайной головкой ВИРТУОЗ DIN965 5 х 90, 5 шт 21878</description>
+        <sales_notes></sales_notes>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <cpa>1</cpa>
+        <param name="ISO">7046-1</param>
+        <param name="Фасовка" unit="шт">5.000</param>
+        <param name="Шаг резьбы" unit="мм">0.800</param>
+        <param name="Направление резьбы">правая</param>
+        <param name="Тип">полная резьба</param>
+        <param name="Диаметр резьбы">М5</param>
+        <param name="Длина" unit="мм">90</param>
+        <param name="Тип фасовки">шт.</param>
+        <param name="Материал">сталь</param>
+        <param name="Покрытие">оцинкованное</param>
+        <param name="Диаметр" unit="мм">5</param>
+        <param name="Вид головки">потайная</param>
+        <param name="ГОСТ">17475-80</param>
+        <param name="DIN">965</param>
+        <param name="unit">шт</param>
+        <param name="Ширина упаковки" unit="мм">90</param>
+        <param name="Длина упаковки" unit="мм">170</param>
+        <param name="Высота упаковки" unit="мм">25</param>
+        <param name="Вес с упаковкой" unit="кг">0.03</param>
+        <sku>17917069</sku>
+        <picture>https://cdn.vseinstrumenti.ru/images/goods/1792472/1000x1000/180614855.jpg</picture>
+        <product_code>17917069</product_code>
+        <equipment></equipment>
+        <delivery-options>
+          <option cost="290" days="14"></option>
+        </delivery-options>
+        <country>Россия</country>
+      </offer>
+      <offer id="1186305" available="true" type="vendor.model" bid="10">
+        <typePrefix>Проходной одноклавишный выключатель</typePrefix>
+        <vendor>Simon</vendor>
+        <vendorCode>27204-62</vendorCode>
+        <model>S27</model>
+        <name>Одноклавишный проходной выключатель с подсветкой Simon 10А, 250В, S27, слоновая кость 27204-62</name>
+        <weight>0.34</weight>
+        <dimensions>5.3/22.1/10.5</dimensions>
+        <barcode>8421053035757</barcode>
+        <url>https://www.vseinstrumenti.ru/product/odnoklavishnyj-prohodnoj-vyklyuchatel-s-podsvetkoj-simon-10a-250v-s27-slonovaya-kost-27204-62-1186305/?utm_source=market&amp;utm_medium=price&amp;utm_campaign=rozetki-i-vyklyuchateli|moscow&amp;utm_content=prohodnye-vyklyuchateli|simon|1186305&amp;utm_term=1186305</url>
+        <categoryId>7070</categoryId>
+        <currencyId>RUR</currencyId>
+        <price>2016</price>
+        <description>Одноклавишный проходной выключатель с подсветкой Simon 10А, 250В, S27, слоновая кость 27204-62</description>
+        <sales_notes></sales_notes>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <cpa>1</cpa>
+        <param name="Модульная">да</param>
+        <param name="Индикатор">есть</param>
+        <param name="Количество клавиш">1</param>
+        <param name="Степень защиты">IP20</param>
+        <param name="Max ток" unit="А">10</param>
+        <param name="Материал">пластик</param>
+        <param name="Тип комплектации">механизм проходного переключателя с накладкой</param>
+        <param name="Серия">Simon 27</param>
+        <param name="Заземление">нет</param>
+        <param name="Цвет">слоновая кость</param>
+        <param name="Палитра">бежевый</param>
+        <param name="Тип">проходной</param>
+        <param name="Монтаж">в кабель-канал</param>
+        <param name="Количество модулей">2</param>
+        <param name="Рамка">нет в комплекте</param>
+        <param name="unit">шт</param>
+        <param name="Ширина упаковки" unit="мм">105</param>
+        <param name="Длина упаковки" unit="мм">221</param>
+        <param name="Высота упаковки" unit="мм">53</param>
+        <param name="Вес с упаковкой" unit="кг">0.34</param>
+        <sku>16034261</sku>
+        <picture>https://cdn.vseinstrumenti.ru/images/goods/1186305/1000x1000/51514317.jpg</picture>
+        <product_code>16034261</product_code>
+        <equipment></equipment>
+        <delivery-options>
+          <option cost="290" days="4"></option>
+        </delivery-options>
+        <country>Испания</country>
+      </offer>
+      <offer id="1859805" available="true" type="vendor.model" bid="10">
+        <typePrefix>Смеситель для ванны и душа</typePrefix>
+        <vendor>Rossinka</vendor>
+        <vendorCode></vendorCode>
+        <model>RS27-46</model>
+        <name>Смеситель для ванны и душа Rossinka RS27-46</name>
+        <weight>5.93</weight>
+        <dimensions>12.5/36.5/72</dimensions>
+        <barcode>4600124262726</barcode>
+        <url>https://www.vseinstrumenti.ru/product/smesitel-dlya-vanny-i-dusha-rossinka-rs27-46-1859805/?utm_source=market&amp;utm_medium=price&amp;utm_campaign=dushevaya-programma|moscow&amp;utm_content=dushevye-sistemy|rossinka|1859805&amp;utm_term=1859805</url>
+        <categoryId>171201</categoryId>
+        <currencyId>RUR</currencyId>
+        <price>21980</price>
+        <description>Смеситель для ванны и душа Rossinka RS27-46</description>
+        <sales_notes></sales_notes>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <cpa>1</cpa>
+        <param name="Излив">да</param>
+        <param name="Длина шланга" unit="мм">1500.000</param>
+        <param name="Тип смесителя">однорычажный</param>
+        <param name="Поворотный излив">нет</param>
+        <param name="Цвет">хром</param>
+        <param name="Термостатический смеситель">нет</param>
+        <param name="Мыльница">нет</param>
+        <param name="Верхний душ">есть</param>
+        <param name="Форма ручного душа">овальная</param>
+        <param name="Смеситель в комплекте">есть</param>
+        <param name="Форма верхнего душа">прямоугольная</param>
+        <param name="Материал">латунь</param>
+        <param name="Количество режимов лейки ">3</param>
+        <param name="Расположение рычага">по центру</param>
+        <param name="Палитра">серый</param>
+        <param name="unit">шт</param>
+        <param name="Ширина упаковки" unit="мм">720</param>
+        <param name="Длина упаковки" unit="мм">365</param>
+        <param name="Высота упаковки" unit="мм">125</param>
+        <param name="Вес с упаковкой" unit="кг">5.93</param>
+        <sku>18453181</sku>
+        <picture>https://cdn.vseinstrumenti.ru/images/goods/1859805/1000x1000/188573597.jpg</picture>
+        <product_code>18453181</product_code>
+        <equipment>&lt;ul&gt; &lt;li&gt;Смеситель.&lt;/li&gt; &lt;li&gt;Лейка для душа.&lt;/li&gt; &lt;li&gt;Шланг.&lt;/li&gt; &lt;li&gt;Держатель.&lt;/li&gt; &lt;li&gt;Крепеж.&lt;/li&gt; &lt;/ul&gt; </equipment>
+        <delivery-options>
+          <option cost="290" days="4"></option>
+        </delivery-options>
+        <country>Китай</country>
+      </offer>
+      <offer id="1992969" available="true" type="vendor.model" bid="10">
+        <typePrefix>Термоусадочная трубка</typePrefix>
+        <vendor>KLR</vendor>
+        <vendorCode>5700254</vendorCode>
+        <model>KLR-GSHS-3X-25.4-BK</model>
+        <name>Термоусадочная трубка KLR KLR-GSHS-3X-25.4-BK 25.4/8.5мм/Коэффициент усадки: 3:1/Цвет: чёрный/5700254</name>
+        <weight>5.23</weight>
+        <dimensions>10/44/44</dimensions>
+        <barcode>4613030247589</barcode>
+        <url>https://www.vseinstrumenti.ru/product/termousadochnaya-trubka-klr-klr-gshs-3x-25-4-bk-25-4-8-5mm-koeffitsient-usadki-3-1-tsvet-chernyj-5700254-1992969/?utm_source=market&amp;utm_medium=price&amp;utm_campaign=termousadka|moscow&amp;utm_content=termousadochnye-trubki|klr|1992969&amp;utm_term=1992969</url>
+        <categoryId>168970</categoryId>
+        <currencyId>RUR</currencyId>
+        <price>44492</price>
+        <description>Термоусадочная трубка KLR KLR-GSHS-3X-25.4-BK 25.4/8.5мм/Коэффициент усадки: 3:1/Цвет: чёрный/5700254</description>
+        <sales_notes></sales_notes>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <cpa>1</cpa>
+        <param name="Номинальный диаметр до/после усадки" unit="мм">25.4/8.5</param>
+        <param name="Толщина стенки после усадки" unit="мм">1.2</param>
+        <param name="Диаметр до усадки" unit="мм">25.400</param>
+        <param name="Диаметр после усадки" unit="мм">8.500</param>
+        <param name="Длина" unit="м">100.000</param>
+        <param name="Количество в упаковке" unit="шт">1.000</param>
+        <param name="Материал">полиолефин</param>
+        <param name="Тип">термоусадочная трубка</param>
+        <param name="Напряжение" unit="В">690</param>
+        <param name="Цвет">черный</param>
+        <param name="Температура эксплуатации" unit="°С">от -55 до +135</param>
+        <param name="Палитра">черный</param>
+        <param name="Клеевой слой">нет</param>
+        <param name="unit">шт</param>
+        <param name="Ширина упаковки" unit="мм">440</param>
+        <param name="Длина упаковки" unit="мм">440</param>
+        <param name="Высота упаковки" unit="мм">100</param>
+        <param name="Вес с упаковкой" unit="кг">5.23</param>
+        <sku>19282140</sku>
+        <picture>https://cdn.vseinstrumenti.ru/images/goods/1992969/1000x1000/53987921.jpg</picture>
+        <product_code>19282140</product_code>
+        <equipment></equipment>
+        <delivery-options>
+          <option cost="290" days="7"></option>
+        </delivery-options>
+        <country>Россия</country>
+      </offer>
+      <offer id="672245" available="true" type="vendor.model" bid="10">
+        <typePrefix>Пылесос</typePrefix>
+        <vendor>Bosch</vendor>
+        <vendorCode></vendorCode>
+        <model>GAS 35 L AFC 06019C3200</model>
+        <name>Пылесос Bosch GAS 35 L AFC 0.601.9C3.200</name>
+        <weight>18.55</weight>
+        <dimensions>79/59/39</dimensions>
+        <barcode>3165140705516</barcode>
+        <url>https://www.vseinstrumenti.ru/product/pylesos-bosch-gas-35-l-afc-0-601-9c3-200-672245/?utm_source=market&amp;utm_medium=price&amp;utm_campaign=professionalnye-pylesosy|moscow&amp;utm_content=promyshlennye-pylesosy-stroitelnye|bosch|672245&amp;utm_term=672245</url>
+        <categoryId>189</categoryId>
+        <currencyId>RUR</currencyId>
+        <price>78313</price>
+        <description>Пылесос Bosch GAS 35 L AFC 0.601.9C3.200 используется для сухой и влажной уборки. Система автоматической очистки фильтра исключает необходимость прерывать рабочий процесс. Посредством розетки к аппарату можно подключить электроинструмент и работать совместно для поддержания чистоты на рабочем месте. Класс пыли для влажной/сухой уборки - L. </description>
+        <sales_notes></sales_notes>
+        <manufacturer_warranty>true</manufacturer_warranty>
+        <cpa>1</cpa>
+        <param name="Функция выдувания">нет</param>
+        <param name="Автоматическое сматывание кабеля">нет</param>
+        <param name="Габариты без упаковки" unit="мм">515х450х575</param>
+        <param name="Вес нетто" unit="кг">12.200</param>
+        <param name="Длина всасывающего шланга" unit="м">5.000</param>
+        <param name="Мощность" unit="Вт">1200.000</param>
+        <param name="Объем бака" unit="л">35.000</param>
+        <param name="Расход воздуха" unit="л/с">74.000</param>
+        <param name="Разрежение" unit="мбар">254.000</param>
+        <param name="Возможность работы без мешка">есть</param>
+        <param name="Фильтр тонкой очистки (HEPA)">нет</param>
+        <param name="Розетка для электроинструмента">есть</param>
+        <param name="Система очистки фильтра">автоматическая</param>
+        <param name="Тип пылесоса">строительный</param>
+        <param name="Тип пылесборника">мешок/контейнер (бак)</param>
+        <param name="Тип">сухая уборка + сбор влажного мусора</param>
+        <param name="Диаметр всасывающего шланга" unit="мм">35</param>
+        <param name="Возможность сбора жидкости">есть</param>
+        <param name="Класс пыли">L</param>
+        <param name="Индикация заполнения">есть</param>
+        <param name="Тип питания">сеть</param>
+        <param name="Возможность влажной уборки">есть</param>
+        <param name="Регулировка мощности">есть</param>
+        <param name="Моющий">нет</param>
+        <param name="Пневморозетка">нет</param>
+        <param name="Ранцевый">нет</param>
+        <param name="Тип аккумулятора">нет</param>
+        <param name="Количество аккумуляторов в комплекте">нет</param>
+        <param name="Емкость аккумулятора" unit="А*ч">нет</param>
+        <param name="unit">шт</param>
+        <param name="Ширина упаковки" unit="мм">390</param>
+        <param name="Длина упаковки" unit="мм">590</param>
+        <param name="Высота упаковки" unit="мм">790</param>
+        <param name="Вес с упаковкой" unit="кг">18.55</param>
+        <sku>15277918</sku>
+        <picture>https://cdn.vseinstrumenti.ru/images/goods/672245/1000x1000/51378782.jpg</picture>
+        <product_code>15277918</product_code>
+        <equipment>&lt;ul&gt; &lt;li&gt;3 хромированных патрубка пылеотвода, 0.35 м, 2 608 000 575;&lt;/li&gt; &lt;li&gt;Колено 2 608 000 573;&lt;/li&gt; &lt;li&gt;Мешок для сбора мусора 2 607 432 043;&lt;/li&gt; &lt;li&gt;Набор насадок для пола 1 609 390 478;&lt;/li&gt; &lt;li&gt;Плоский складчатый фильтр из целлюлозы 2 607 432 033;&lt;/li&gt; &lt;li&gt;Шланг 5 м, Ø 35 мм с инструментальной муфтой 2 608 000 565;&lt;/li&gt; &lt;li&gt;Щелевая насадка 250 мм 2 607 000 165;&lt;/li&gt; &lt;li&gt;Упаковка.&lt;/li&gt; &lt;/ul&gt; </equipment>
+        <delivery-options>
+          <option cost="540" days="1"></option>
+        </delivery-options>
+        <country>Германия</country>
+      </offer>
+      <offer id="8860340" available="true" type="vendor.model" bid="10">
+        <typePrefix>Смеситель для кухни</typePrefix>
+        <vendor>Haiba</vendor>
+        <vendorCode></vendorCode>
+        <model>HB41801-2</model>
+        <name>Смеситель для кухни Haiba полированная сталь HB41801-2</name>
+        <weight>1.228</weight>
+        <dimensions>10/25/22</dimensions>
+        <barcode>6944658735157</barcode>
+        <url>https://www.vseinstrumenti.ru/product/smesitel-dlya-kuhni-haiba-polirovannaya-stal-hb41801-2-8860340/?utm_source=market&amp;utm_medium=price&amp;utm_campaign=smesiteli-dlya-kuhni|moscow&amp;utm_content=odnorychazhnye-smesiteli-dlya-kuhni|haiba|8860340&amp;utm_term=8860340</url>
+        <categoryId>169050</categoryId>
+        <currencyId>RUR</currencyId>
+        <price>2647</price>
+        <description>Продукция Haiba Group соответствует общеевропейским стандартам СЕ, международным стандартам качества IS0 9001. Смесители Haiba Group изготовлены из качественной латуни и нержавеющей стали, соответствующей нормам ГОСТ и СанПин, что обеспечивает длительный срок службы и безопасность применения и обеспечивает прочность корпуса смесителя. Керамический картридж 35 мм обеспечивает точную настройку температуры и напора воды. Пластиковая сеточка, которая установлена на аэраторе из ABS-пластика, существенно понижает уровень шума, она защищена от налёта извести, а если сетка засорилась, то её легко почистить. Монтируется смеситель на одно отверстие и притягивается латунной гайкой, которая жестко фиксирует кран. Средний срок службы 15 лет. </description>
+        <sales_notes></sales_notes>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <cpa>1</cpa>
+        <param name="Гибкий излив">нет</param>
+        <param name="Складной">нет</param>
+        <param name="С щеткой">нет</param>
+        <param name="Длина излива" unit="мм">178.000</param>
+        <param name="Высота смесителя" unit="мм">245.000</param>
+        <param name="Высота излива" unit="мм">195.000</param>
+        <param name="Форма смесителя">округлая</param>
+        <param name="Запорный клапан">керамический картридж</param>
+        <param name="Тип крепления">на гайку</param>
+        <param name="Расположение рычага">сбоку</param>
+        <param name="Лейка">нет</param>
+        <param name="Направление струи">под углом</param>
+        <param name="Диаметр отверстия в раковине" unit="мм">35</param>
+        <param name="Стиль">современный</param>
+        <param name="Выдвижной излив">нет</param>
+        <param name="Форма излива воды">традиционная</param>
+        <param name="Поворотный излив">да</param>
+        <param name="Двойной излив">нет</param>
+        <param name="Диаметр картриджа " unit="мм">35</param>
+        <param name="Покрытие">матовое</param>
+        <param name="Материал корпуса">нержавеющая сталь</param>
+        <param name="Назначение">для кухни</param>
+        <param name="Встраиваемый">нет</param>
+        <param name="Излив">есть</param>
+        <param name="Цвет">нержавейка матовая</param>
+        <param name="Аэратор">да</param>
+        <param name="Подводка в комплекте">гибкая</param>
+        <param name="Тип смесителя">однорычажный</param>
+        <param name="Термостат">нет</param>
+        <param name="Размер крепления">G1/2</param>
+        <param name="Тип установки">на раковину</param>
+        <param name="Мах толщина столешницы" unit="мм">35</param>
+        <param name="Расположение термостата">без термостата</param>
+        <param name="unit">шт</param>
+        <param name="Ширина упаковки" unit="мм">220</param>
+        <param name="Длина упаковки" unit="мм">250</param>
+        <param name="Высота упаковки" unit="мм">100</param>
+        <param name="Вес с упаковкой" unit="кг">1.23</param>
+        <sku>27303594</sku>
+        <picture>https://cdn.vseinstrumenti.ru/images/goods/8860340/1000x1000/106377734.jpg</picture>
+        <product_code>27303594</product_code>
+        <equipment>&lt;ul&gt; &lt;li&gt;Смеситель;&lt;/li&gt; &lt;li&gt;Гибкая подводка 40см., 1/2&quot; x 1/2&quot;;&lt;/li&gt; &lt;li&gt;Керамический картридж 35мм;&lt;/li&gt; &lt;li&gt;Инструкция;&lt;/li&gt; &lt;li&gt;Гарантийный талон;&lt;/li&gt; &lt;li&gt;Упаковка&lt;/li&gt; &lt;/ul&gt; </equipment>
+        <delivery-options>
+          <option cost="290" days="3"></option>
+        </delivery-options>
+        <country>Китай</country>
+      </offer>
+      <offer id="1307300" available="true" type="vendor.model" bid="10">
+        <typePrefix>Трос для растяжки</typePrefix>
+        <vendor>КРЕП-КОМП</vendor>
+        <vendorCode></vendorCode>
+        <model>тр3</model>
+        <name>Трос для растяжки КРЕП-КОМП DIN3055 3мм 250м тр3</name>
+        <weight>7</weight>
+        <dimensions>17/26/29</dimensions>
+        <barcode>4623721507694</barcode>
+        <url>https://www.vseinstrumenti.ru/product/tros-dlya-rastyazhki-krep-komp-din3055-3mm-250m-tr3-1307300/?utm_source=market&amp;utm_medium=price&amp;utm_campaign=takelazh|moscow&amp;utm_content=stalnye-trosy-i-kanaty|krep-komp|1307300&amp;utm_term=1307300</url>
+        <categoryId>6578</categoryId>
+        <currencyId>RUR</currencyId>
+        <price>2646</price>
+        <description>Трос для растяжки КРЕП-КОМП DIN3055 3мм 250м тр3</description>
+        <sales_notes></sales_notes>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <cpa>1</cpa>
+        <param name="Вес нетто" unit="кг">6.750</param>
+        <param name="Длина" unit="м">250.000</param>
+        <param name="Диаметр" unit="мм">3.000</param>
+        <param name="Max рабочее усилие" unit="кг">5.290</param>
+        <param name="DIN">3055</param>
+        <param name="ГОСТ">2688-80</param>
+        <param name="В ПВХ изоляции">нет</param>
+        <param name="Цвет">серый</param>
+        <param name="На катушке">есть</param>
+        <param name="Материал">сталь</param>
+        <param name="Покрытие">цинк</param>
+        <param name="unit">шт</param>
+        <param name="Ширина упаковки" unit="мм">290</param>
+        <param name="Длина упаковки" unit="мм">260</param>
+        <param name="Высота упаковки" unit="мм">170</param>
+        <param name="Вес с упаковкой" unit="кг">7.00</param>
+        <sku>16157348</sku>
+        <picture>https://cdn.vseinstrumenti.ru/images/goods/1307300/1000x1000/94435305.jpg</picture>
+        <oldprice>3046</oldprice>
+        <product_code>16157348</product_code>
+        <equipment></equipment>
+        <delivery-options>
+          <option cost="290" days="2"></option>
+        </delivery-options>
+        <country>Россия</country>
+      </offer>
+      <offer id="1585928" available="true" type="vendor.model" bid="10">
+        <typePrefix>Конвектор</typePrefix>
+        <vendor>BEHA</vendor>
+        <vendorCode></vendorCode>
+        <model>210423</model>
+        <name>Конвектор BEHA с передней стальной панелью P 12 210423</name>
+        <weight>6.2</weight>
+        <dimensions>40/92/9</dimensions>
+        <barcode>7026572104239</barcode>
+        <url>https://www.vseinstrumenti.ru/product/konvektor-beha-s-perednej-stalnoj-panelyu-p-12-210423-1585928/?utm_source=market&amp;utm_medium=price&amp;utm_campaign=konvektory-otopleniya|moscow&amp;utm_content=elektricheskie-konvektory|beha|1585928&amp;utm_term=1585928</url>
+        <categoryId>6587</categoryId>
+        <currencyId>RUR</currencyId>
+        <price>16638</price>
+        <description>Конвектор BEHA с передней стальной панелью P 12 210423 обогреет помещение площадью до 12 м.кв. Прибор укомплектован кабелем (1.5м.) со штепсельной вилкой и распределительной коробкой для стационарного соединения. Для управления устройством предусмотрен выключатель и высокоточный электронный термостат. Конвектор имеет ударопрочные боковые поверхности корпуса. Для установки с помощью кронштейна необходимо разметить на стене четыре отверстия, вкрутить в них шурупы и установить обогреватель в стационарное положение. </description>
+        <sales_notes></sales_notes>
+        <manufacturer_warranty>true</manufacturer_warranty>
+        <cpa>1</cpa>
+        <param name="Дисплей">нет</param>
+        <param name="Поддержка Wi-fi">нет</param>
+        <param name="Антизамерзание">да</param>
+        <param name="Для системы Умный дом">нет</param>
+        <param name="Инверторная технология">да</param>
+        <param name="Встроенный вентилятор">нет</param>
+        <param name="Пульт ДУ в комплекте">нет</param>
+        <param name="Защита от перегрева">да</param>
+        <param name="Габариты без упаковки" unit="мм">927х90х400</param>
+        <param name="Серия">P</param>
+        <param name="Вес нетто" unit="кг">5.480</param>
+        <param name="Глубина" unit="мм">400.000</param>
+        <param name="Высота" unit="мм">927.000</param>
+        <param name="Ширина" unit="мм">90.000</param>
+        <param name="Max мощность" unit="кВт">1.250</param>
+        <param name="Рекомендуемая площадь" unit="м²">12.000</param>
+        <param name="Длина шнура" unit="м">1.500</param>
+        <param name="Вид крепления">настенный/напольный</param>
+        <param name="Тип нагревательного элемента">монолит (х-образный)</param>
+        <param name="Наличие сетевой вилки">есть</param>
+        <param name="Степень защиты">IP24</param>
+        <param name="Напряжение" unit="В">220</param>
+        <param name="Вид термостата">электронный</param>
+        <param name="Ножки в комплекте">нет</param>
+        <param name="Цвет">белый</param>
+        <param name="Заземление">нет</param>
+        <param name="Количество режимов мощности" unit="шт">6</param>
+        <param name="Световая индикация">нет</param>
+        <param name="Материал корпуса">листовая сталь</param>
+        <param name="unit">шт</param>
+        <param name="Ширина упаковки" unit="мм">90</param>
+        <param name="Длина упаковки" unit="мм">920</param>
+        <param name="Высота упаковки" unit="мм">400</param>
+        <param name="Вес с упаковкой" unit="кг">6.20</param>
+        <sku>16506001</sku>
+        <picture>https://cdn.vseinstrumenti.ru/images/goods/1585928/1000x1000/53961703.jpg</picture>
+        <product_code>16506001</product_code>
+        <equipment>&lt;ul&gt; &lt;li&gt;Конвектор.&lt;/li&gt; &lt;li&gt;Кронштейн.&lt;/li&gt; &lt;/ul&gt; </equipment>
+        <delivery-options>
+          <option cost="290" days="1"></option>
+        </delivery-options>
+        <country>Норвегия</country>
+      </offer>
+      <offer id="7113080" available="true" type="vendor.model" bid="10">
+        <typePrefix>Акриловая эмаль</typePrefix>
+        <vendor>Farbitex</vendor>
+        <vendorCode></vendorCode>
+        <model>4100008931</model>
+        <name>Акриловая эмаль Farbitex аэрозоль, 520 мл, RAL 3009 оксидно-красный 4100008931</name>
+        <weight>0.348</weight>
+        <dimensions>20/6.9/6.5</dimensions>
+        <barcode>4690416093602</barcode>
+        <url>https://www.vseinstrumenti.ru/product/akrilovaya-emal-farbitex-aerozol-520-ml-ral-3009-oksidno-krasnyj-4100008931-7113080/?utm_source=market&amp;utm_medium=price&amp;utm_campaign=kraski-i-emali|moscow&amp;utm_content=aerozolnye-kraski|farbitex|7113080&amp;utm_term=7113080</url>
+        <categoryId>174374</categoryId>
+        <currencyId>RUR</currencyId>
+        <price>168</price>
+        <description>Акриловая эмаль Farbitex аэрозоль, 520 мл, RAL 3009 оксидно-красный 4100008931 - быстросохнущая акриловая эмаль, предназначенная для нанесения на все виды поверхностей при наружных и внутренних работах. Удобна в нанесении, наносится с минимальными потерями Можно легко оформить плавный переход и сливание одного оттенка в другой Обеспечивает отличный результат для любых декоративных и оформительских работ Легко наносится на труднодоступные места, имеет хорошие укрывистость и атмосферостойкость, превосходную адгезию к загрунтованной поверхности </description>
+        <sales_notes></sales_notes>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <cpa>1</cpa>
+        <param name="Фактурная ">нет</param>
+        <param name="Молотковая ">нет</param>
+        <param name="По ржавчине">нет</param>
+        <param name="Для пластика">да</param>
+        <param name="Быстросохнущая">да</param>
+        <param name="Износостойкая ">да</param>
+        <param name="Для дорог">нет</param>
+        <param name="Для стен и потолков">да</param>
+        <param name="Для пола">нет</param>
+        <param name="Металлик">нет</param>
+        <param name="Для кирпича">да</param>
+        <param name="Для бетона">да</param>
+        <param name="Защита от плесени">нет</param>
+        <param name="Для металла">да</param>
+        <param name="Для дерева">да</param>
+        <param name="Для камня">да</param>
+        <param name="Термостойкость">нет</param>
+        <param name="Температура основания" unit="°С">не ниже +10</param>
+        <param name="Объем" unit="л">0.520</param>
+        <param name="Время высыхания между слоями" unit="ч">0.100</param>
+        <param name="Количество в упаковке" unit="шт">1.000</param>
+        <param name="Тип">акриловая (водно-дисперсионная)</param>
+        <param name="Вид тары">аэрозоль</param>
+        <param name="Цвет RAL">3009</param>
+        <param name="Оттенок">оксидно-красный</param>
+        <param name="Степень блеска">глянцевый</param>
+        <param name="Свойства">атмосферостойкая/высокая укрывистость/износостойкая/без запаха</param>
+        <param name="Место применения">внутри и вне помещения</param>
+        <param name="Рекомендуемое количество слоев">2-3</param>
+        <param name="Расход" unit="л/м²">0.17-0.26</param>
+        <param name="Время полного высыхания" unit="ч">2</param>
+        <param name="Срок годности (с даты изготовления)" unit="мес">36</param>
+        <param name="Без запаха ">да</param>
+        <param name="Марка">ВД-АК</param>
+        <param name="Серия">нет</param>
+        <param name="Огнезащитность ">нет</param>
+        <param name="Влагостойкость">да</param>
+        <param name="Для помещений с повышенной влажностью">нет</param>
+        <param name="Способ нанесения">аэрозольное распыление</param>
+        <param name="Цвет">красный</param>
+        <param name="unit">шт</param>
+        <param name="Ширина упаковки" unit="мм">65</param>
+        <param name="Длина упаковки" unit="мм">69</param>
+        <param name="Высота упаковки" unit="мм">200</param>
+        <param name="Вес с упаковкой" unit="кг">0.35</param>
+        <sku>25780923</sku>
+        <picture>https://cdn.vseinstrumenti.ru/images/goods/7113080/1000x1000/101550584.jpg</picture>
+        <product_code>25780923</product_code>
+        <equipment></equipment>
+        <delivery-options>
+          <option cost="290" days="1"></option>
+        </delivery-options>
+        <country>Россия</country>
+      </offer>
+      <offer id="985508" available="true" type="vendor.model" bid="10">
+        <typePrefix>Набор комбинированных трещоточных ключей</typePrefix>
+        <vendor>Berger BG</vendor>
+        <vendorCode></vendorCode>
+        <model>BG1259</model>
+        <name>Набор ключей комбинированных трещоточных с шарниром 8 предметов Berger BG BG1259</name>
+        <weight>1.205</weight>
+        <dimensions>6/28/8</dimensions>
+        <barcode>6906328102591</barcode>
+        <url>https://www.vseinstrumenti.ru/product/nabor-klyuchej-kombinirovannyh-treschotochnyh-s-sharnirom-8-predmetov-berger-bg-bg1259-985508/?utm_source=market&amp;utm_medium=price&amp;utm_campaign=gaechnye-klyuchi|moscow&amp;utm_content=nabory-gaechnyh-klyuchej|berger-bg|985508&amp;utm_term=985508</url>
+        <categoryId>4255</categoryId>
+        <currencyId>RUR</currencyId>
+        <price>7452</price>
+        <description>Набор ключей комбинированных трещоточных с шарниром 8 предметов в матерчатом чехле 8,10,12,13,14,15,17,19 мм.Ключи выполнены из хром-ванадиевой стали CR-V, с антикоррозийным покрытием &quot;Сатин&quot;.Двухсторонняя маркировка ключа облегчает идентификацию.</description>
+        <sales_notes></sales_notes>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <cpa>1</cpa>
+        <param name="Ключ 10 мм">да</param>
+        <param name="Ключ 11 мм">нет</param>
+        <param name="Ключ 12 мм">да</param>
+        <param name="Ключ 13 мм">да</param>
+        <param name="Ключ 14 мм">да</param>
+        <param name="Ключ 15 мм">да</param>
+        <param name="Ключ 16 мм">нет</param>
+        <param name="Ключ 17 мм">да</param>
+        <param name="Ключ 19 мм">да</param>
+        <param name="Ключ 20 мм">нет</param>
+        <param name="Ключ 21 мм">нет</param>
+        <param name="Ключ 22 мм">нет</param>
+        <param name="Ключ 23 мм">нет</param>
+        <param name="Ключ 24 мм">нет</param>
+        <param name="Ключ 30 мм">нет</param>
+        <param name="Ключ 32 мм">нет</param>
+        <param name="Ключ 35 мм">нет</param>
+        <param name="Ключ 40 мм">нет</param>
+        <param name="Ключ 5 мм">нет</param>
+        <param name="Ключ 5.5 мм">нет</param>
+        <param name="Ключ 50 мм">нет</param>
+        <param name="Ключ 6 мм">нет</param>
+        <param name="Ключ 7 мм">нет</param>
+        <param name="Ключ 8 мм">да</param>
+        <param name="Ключ 9 мм">да</param>
+        <param name="Ключ 18 мм">нет</param>
+        <param name="Ключ 27 мм">нет</param>
+        <param name="Ключ 25 мм">нет</param>
+        <param name="Ключ 26 мм">нет</param>
+        <param name="Ключ 28 мм">нет</param>
+        <param name="Ключ 29 мм">нет</param>
+        <param name="Ключ 1.5 мм">нет</param>
+        <param name="Ключ 2 мм">нет</param>
+        <param name="Ключ 2.5 мм">нет</param>
+        <param name="Ключ 3 мм">нет</param>
+        <param name="Ключ 4 мм">нет</param>
+        <param name="Ключ 0.7 мм">нет</param>
+        <param name="Ключ 0.9 мм">нет</param>
+        <param name="Ключ 1.3 мм">нет</param>
+        <param name="Ключ 4.5 мм">нет</param>
+        <param name="С шаровым окончанием">нет</param>
+        <param name="Диэлектрическое покрытие">нет</param>
+        <param name="Ключ 3.5 мм">нет</param>
+        <param name="Шарнирный механизм">да</param>
+        <param name="Вес нетто" unit="кг">1.220</param>
+        <param name="Количество в наборе" unit="шт">8.000</param>
+        <param name="Форма">прямой</param>
+        <param name="Размер min (мм)">8</param>
+        <param name="Тип">рожковые/накидные</param>
+        <param name="Покрытие">сатинирование</param>
+        <param name="Трещотка">есть</param>
+        <param name="Размер max (мм)">19</param>
+        <param name="Материал">CrV</param>
+        <param name="Размер min (дюйм)">нет</param>
+        <param name="Размер max (дюйм)">нет</param>
+        <param name=" Размер max (T/E)">нет</param>
+        <param name="Вид">миллиметровый</param>
+        <param name=" Размер min (Т/E)">нет</param>
+        <param name="Вид упаковки">чехол(сумка)/полотно</param>
+        <param name="unit">шт</param>
+        <param name="Ширина упаковки" unit="мм">80</param>
+        <param name="Длина упаковки" unit="мм">280</param>
+        <param name="Высота упаковки" unit="мм">60</param>
+        <param name="Вес с упаковкой" unit="кг">1.21</param>
+        <sku>15908655</sku>
+        <picture>https://cdn.vseinstrumenti.ru/images/goods/985508/1000x1000/192095610.jpg</picture>
+        <product_code>15908655</product_code>
+        <equipment>&lt;ul&gt;&lt;li&gt;Ключи: 8, 10, 12, 13, 14, 15, 17, 19 мм.&lt;/li&gt;&lt;li&gt;Матерчатый чехол&lt;/li&gt;&lt;/ul&gt;</equipment>
+        <delivery-options>
+          <option cost="290" days="2"></option>
+        </delivery-options>
+        <country>Россия</country>
+      </offer>
+      <offer id="7438189" available="true" type="vendor.model" bid="10">
+        <typePrefix>Бордюрная лента</typePrefix>
+        <vendor>ПРОТЭКТ</vendor>
+        <vendorCode></vendorCode>
+        <model>БЛ-30/9 кор</model>
+        <name>Бордюрная лента ПРОТЭКТ 9 м, коричневая БЛ-30/9 кор</name>
+        <weight>2.18</weight>
+        <dimensions>30/11.3/11.3</dimensions>
+        <barcode>4630216301804</barcode>
+        <url>https://www.vseinstrumenti.ru/product/bordyurnaya-lenta-protekt-9-m-korichnevaya-bl-30-9-kor-7438189/?utm_source=market&amp;utm_medium=price&amp;utm_campaign=ograzhdeniya-dlya-gryadok-i-klumb|moscow&amp;utm_content=bordyurnye-lenty-dlya-sada|protekt|7438189&amp;utm_term=7438189</url>
+        <categoryId>187499</categoryId>
+        <currencyId>RUR</currencyId>
+        <price>1240</price>
+        <description>Бордюрная лента используется для оформления тропинок, клумб и декорирования других элементов ландшафта на садово-огородном участке. Изделие обладает гибкостью, что позволяет создавать интересные формы. Бордюр изготовлен из пластика, благодаря чему он не подвержен коррозии и гниению. Температурный режим эксплуатации: от -50°С до +65°С. </description>
+        <sales_notes></sales_notes>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <cpa>1</cpa>
+        <param name="Высота" unit="мм">300.000</param>
+        <param name="Длина ограждения" unit="мм">9000.000</param>
+        <param name="Высота ограждения" unit="мм">300.000</param>
+        <param name="unit">шт</param>
+        <param name="Ширина упаковки" unit="мм">113</param>
+        <param name="Длина упаковки" unit="мм">113</param>
+        <param name="Высота упаковки" unit="мм">300</param>
+        <param name="Вес с упаковкой" unit="кг">2.18</param>
+        <sku>26140055</sku>
+        <picture>https://cdn.vseinstrumenti.ru/images/goods/7438189/1000x1000/85585249.jpg</picture>
+        <product_code>26140055</product_code>
+        <equipment></equipment>
+        <delivery-options>
+          <option cost="290" days="4"></option>
+        </delivery-options>
+        <country>Россия</country>
+      </offer>
+      <offer id="5662201" available="true" type="vendor.model" bid="10">
+        <typePrefix>Спиральная однозаходная фреза</typePrefix>
+        <vendor>МНОГОФРЕЗ</vendor>
+        <vendorCode>6880</vendorCode>
+        <model>MF1x3.208</model>
+        <name>Фреза спиральная однозаходная стружка вверх MF1x3.208 (2х8х38 мм, хв-к 3.175 мм) МНОГОФРЕЗ 6880</name>
+        <weight>0.01</weight>
+        <dimensions>1.5/7/1.5</dimensions>
+        <barcode>4687202839629</barcode>
+        <url>https://www.vseinstrumenti.ru/product/freza-spiralnaya-odnozahodnaya-struzhka-vverh-mf1x3-208-2h8h38-mm-hv-k-3-175-mm-mnogofrez-6880-5662201/?utm_source=market&amp;utm_medium=price&amp;utm_campaign=frezy|moscow&amp;utm_content=frezy-po-derevu|mnogofrez|5662201&amp;utm_term=5662201</url>
+        <categoryId>5277</categoryId>
+        <currencyId>RUR</currencyId>
+        <price>408</price>
+        <description>Фреза спиральная однозаходная стружка вверх MF1x3.208 (2х8х38 мм, хв-к 3.175 мм) МНОГОФРЕЗ 6880 применяется для обработки пластиков, ПВХ, акрила, древесины мягких и твердых пород, ДСП, МДФ, ЛДСП и фанеры. Однозаходная концевая спиральная фреза применяется для раскроя, сверления, черновой 3D обработки и выборки. Одна режущая кромка позволяет увеличить площадь сечения фрезы, повысить ее прочность и снизить вероятность поломки. Внимание, изображение товара может отличаться от реального! Верные параметры указаны в технических характеристиках товара. </description>
+        <sales_notes></sales_notes>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <cpa>1</cpa>
+        <param name="Внешний диаметр" unit="мм">2.000</param>
+        <param name="Рабочая высота" unit="мм">8.000</param>
+        <param name="Общая длина" unit="мм">38.000</param>
+        <param name="Тип">спиральная</param>
+        <param name="Вид">концевая</param>
+        <param name="Диаметр хвостовика" unit="мм">3.175</param>
+        <param name="Подшипник">нет</param>
+        <param name="unit">шт</param>
+        <param name="Ширина упаковки" unit="мм">15</param>
+        <param name="Длина упаковки" unit="мм">70</param>
+        <param name="Высота упаковки" unit="мм">15</param>
+        <param name="Вес с упаковкой" unit="кг">0.01</param>
+        <sku>24351627</sku>
+        <picture>https://cdn.vseinstrumenti.ru/images/goods/5662201/1000x1000/67206925.jpg</picture>
+        <product_code>24351627</product_code>
+        <equipment></equipment>
+        <delivery-options>
+          <option cost="290" days="7"></option>
+        </delivery-options>
+        <country>Россия</country>
+      </offer>
+      <offer id="1211159" available="true" type="vendor.model" bid="10">
+        <typePrefix>Расширительный бак для отопления</typePrefix>
+        <vendor>Uni-Fitt</vendor>
+        <vendorCode></vendorCode>
+        <model>WRV18-U</model>
+        <name>Расширительный бак Uni-Fitt 18 л, для отопления WRV18-U</name>
+        <weight>2.9</weight>
+        <dimensions>40.2/28/28</dimensions>
+        <barcode>4620078714034</barcode>
+        <url>https://www.vseinstrumenti.ru/product/rasshiritelnyj-bak-uni-fitt-18-l-dlya-otopleniya-wrv18-u-1211159/?utm_source=market&amp;utm_medium=price&amp;utm_campaign=membrannye-baki|moscow&amp;utm_content=rasshiritelnye-baki-dlya-sistem-otopleniya|uni-fitt|1211159&amp;utm_term=1211159</url>
+        <categoryId>1987</categoryId>
+        <currencyId>RUR</currencyId>
+        <price>2387</price>
+        <description>Расширительный бак Uni-Fitt 18 л, для отопления WRV18-U</description>
+        <sales_notes></sales_notes>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <cpa>1</cpa>
+        <param name="Сменная мембрана">да</param>
+        <param name="Объем" unit="л">18.000</param>
+        <param name="Min рабочее давление" unit="бар">1.500</param>
+        <param name="Max рабочее давление" unit="бар">5.000</param>
+        <param name="Min рабочая температура" unit="°С">-10.000</param>
+        <param name="Мах рабочая температура" unit="°С">100.000</param>
+        <param name="Присоединительная резьба" unit="дюйм">3/4</param>
+        <param name="Форма">цилиндрический</param>
+        <param name="Тип">подвесной</param>
+        <param name="Размер" unit="мм">402</param>
+        <param name="Цвет">красный</param>
+        <param name="Область использования">для систем отопления</param>
+        <param name="Материал фланца">оцинкованная сталь</param>
+        <param name="Материал">сталь</param>
+        <param name="Вид">вертикальный</param>
+        <param name="unit">шт</param>
+        <param name="Ширина упаковки" unit="мм">280</param>
+        <param name="Длина упаковки" unit="мм">280</param>
+        <param name="Высота упаковки" unit="мм">402</param>
+        <param name="Вес с упаковкой" unit="кг">2.90</param>
+        <sku>16141443</sku>
+        <picture>https://cdn.vseinstrumenti.ru/images/goods/1211159/1000x1000/52136705.jpg</picture>
+        <product_code>16141443</product_code>
+        <equipment></equipment>
+        <delivery-options>
+          <option cost="290" days="3"></option>
+        </delivery-options>
+        <country>Италия</country>
+      </offer>
+      <offer id="5645185" available="true" type="vendor.model" bid="10">
+        <typePrefix>Клей</typePrefix>
+        <vendor>Navigator</vendor>
+        <vendorCode>93242</vendorCode>
+        <model>93 242 nem-ks01-11-270-1000</model>
+        <name>Клей 93 242 nem-ks01-11-270-1000 (1 кг; стержень 11х270 мм) Navigator 93242</name>
+        <weight>1.027</weight>
+        <dimensions>5/6/4.5</dimensions>
+        <barcode>4650230932426</barcode>
+        <url>https://www.vseinstrumenti.ru/product/klej-93-242-nem-ks01-11-270-1000-1-kg-sterzhen-11h270-mm-navigator-93242-5645185/?utm_source=market&amp;utm_medium=price&amp;utm_campaign=rashodnye-materialy-dlya-kleevyh-pistoletov|moscow&amp;utm_content=kleevye-sterzhni-dlya-pistoleta|navigator|5645185&amp;utm_term=5645185</url>
+        <categoryId>3580</categoryId>
+        <currencyId>RUR</currencyId>
+        <price>931</price>
+        <description>Клей 93 242 nem-ks01-11-270-1000 (1 кг; стержень 11х270 мм) Navigator 93242 предназначен для профессионального склеивания материалов. Подходит для работы с различными материалами: бумага, дерево, картон, стекло, пластмасса, металл, кожа. Специальная формула этиленвинилацетата отличается упругостью, эластичностью, высокими показателями амортизации и предела прочности на отрыв. </description>
+        <sales_notes></sales_notes>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <cpa>1</cpa>
+        <param name="Флуоресцентные">нет</param>
+        <param name="Вес нетто" unit="кг">1.000</param>
+        <param name="Длина" unit="мм">270.000</param>
+        <param name="Цвет">прозрачный</param>
+        <param name="Применение">универсальный</param>
+        <param name="Диаметр" unit="мм">11</param>
+        <param name="Температура плавления" unit="°С">80</param>
+        <param name="unit">шт</param>
+        <param name="Ширина упаковки" unit="мм">45</param>
+        <param name="Длина упаковки" unit="мм">60</param>
+        <param name="Высота упаковки" unit="мм">50</param>
+        <param name="Вес с упаковкой" unit="кг">1.03</param>
+        <sku>23788773</sku>
+        <picture>https://cdn.vseinstrumenti.ru/images/goods/5645185/1000x1000/67112971.jpg</picture>
+        <product_code>23788773</product_code>
+        <equipment></equipment>
+        <delivery-options>
+          <option cost="290" days="1"></option>
+        </delivery-options>
+        <country>Россия</country>
+      </offer>
+      <offer id="1711597" available="true" type="vendor.model" bid="10">
+        <typePrefix>Термостойкая эмаль</typePrefix>
+        <vendor>Elcon</vendor>
+        <vendorCode></vendorCode>
+        <model>00-00002916</model>
+        <name>Термостойкая краска для металла, печей, мангалов, радиаторов, дымоходов, суппортов Elcon Max Therm серая, 400 градусов, 0,4 кг 00-00002916</name>
+        <weight>0.57</weight>
+        <dimensions>8/10/10</dimensions>
+        <barcode>4670025362740</barcode>
+        <url>https://www.vseinstrumenti.ru/product/termostojkaya-emal-elcon-max-therm-seraya-400-gradusov-0-4-kg-00-00002916-1711597/?utm_source=market&amp;utm_medium=price&amp;utm_campaign=emali|moscow&amp;utm_content=termostojkie-emali|elcon|1711597&amp;utm_term=1711597</url>
+        <categoryId>174206</categoryId>
+        <currencyId>RUR</currencyId>
+        <price>553</price>
+        <description>Термостойкая краска для металла, печей, мангалов, радиаторов, дымоходов, суппортов Elcon Max Therm серая, 400 градусов, 0,4 кг 00-00002916 предназначена для антикоррозионной защиты металлоконструкций, оборудования, печей для саун, дымовых труб, выхлопных систем автомобилей, деталей двигателей, емкостного оборудования, подвергающихся в процессе эксплуатации воздействию температур от -60 °С до +400 °С, а также для окраски минеральных поверхностей, длительно эксплуатируемых в условиях умеренного климата.Важно! Для обеспечения требуемых свойств покрытия необходимо провести термозакалку: выдержать при температуре окружающего воздуха в течение не менее 30минут, затем нагреть до температуры &amp;gt;250°C со скоростью 3,5°C в минуту и поддерживать эту температуру не менее 3часов. При достижении температуры 250°С покрытие начнет слегка дымиться, что является нормальным и свидетельствует о том, что идет процесс термозакалки.Области применения:ПечиОборудованиеМангалыКотлыТрубопроводыМеталлоконструкцииСуппортаВыхлопные системыДетали двигателяРадиаторыТрубы отопления</description>
+        <sales_notes></sales_notes>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <cpa>1</cpa>
+        <param name="Для медицинских учреждений">нет</param>
+        <param name="Для детских учреждений">нет</param>
+        <param name="Фактурная ">нет</param>
+        <param name="Молотковая ">нет</param>
+        <param name="По ржавчине">нет</param>
+        <param name="Быстросохнущая">да</param>
+        <param name="Износостойкая ">да</param>
+        <param name="Для стен и потолков">нет</param>
+        <param name="Для пола">нет</param>
+        <param name="Металлик">нет</param>
+        <param name="Для кирпича">да</param>
+        <param name="Для бетона">да</param>
+        <param name="Для металла">да</param>
+        <param name="Для дерева">нет</param>
+        <param name="Для камня">нет</param>
+        <param name="Термостойкость">да</param>
+        <param name="Температура основания" unit="°С">от -30 до +40</param>
+        <param name="Min температура эксплуатации" unit="°С">-60.000</param>
+        <param name="Max температура эксплуатации" unit="°С">400.000</param>
+        <param name="Вес нетто" unit="кг">0.400</param>
+        <param name="Время высыхания между слоями" unit="ч">0.250</param>
+        <param name="Возможность колеровки">нет</param>
+        <param name="Без запаха ">нет</param>
+        <param name="Место применения">внутри и вне помещения</param>
+        <param name="Влагостойкость">нет</param>
+        <param name="Моющаяся">нет</param>
+        <param name="Разбавитель">ксилол/толуол</param>
+        <param name="Основания">металл/кирпич/бетон</param>
+        <param name="Огнезащитность ">нет</param>
+        <param name="Степень блеска">матовый</param>
+        <param name="Серия">Max Therm</param>
+        <param name="Марка">нет</param>
+        <param name="Тип">кремнийорганическая</param>
+        <param name="Вид тары">металлическая банка</param>
+        <param name="Срок годности (с даты изготовления)" unit="мес">12</param>
+        <param name="Базис">нет</param>
+        <param name="Способ нанесения">кисть/валик/краскораспылитель</param>
+        <param name="Время полного высыхания" unit="ч">24</param>
+        <param name="Покрытие на 1 кг" unit="м²">6-8</param>
+        <param name="Для помещений с повышенной влажностью">да</param>
+        <param name="Расход краски" unit="кг/м²">0.12-0.16</param>
+        <param name="Цвет">серый</param>
+        <param name="Оттенок">серый</param>
+        <param name="unit">шт</param>
+        <param name="Ширина упаковки" unit="мм">100</param>
+        <param name="Длина упаковки" unit="мм">100</param>
+        <param name="Высота упаковки" unit="мм">80</param>
+        <param name="Вес с упаковкой" unit="кг">0.57</param>
+        <sku>17166649</sku>
+        <picture>https://cdn.vseinstrumenti.ru/images/goods/1711597/1000x1000/198270711.jpg</picture>
+        <product_code>17166649</product_code>
+        <equipment></equipment>
+        <delivery-options>
+          <option cost="290" days="1"></option>
+        </delivery-options>
+        <country>Россия</country>
+      </offer>
+	</offers>
+  </shop>
+</yml_catalog>
