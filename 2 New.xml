@@ -3061,9 +3061,9 @@
     
                     <name>Ботильоны-трубы</name>
     				<description><![CDATA[]]></description>
-    				<param name ="SkuName">41</param>
-    				<param name ="SkuGroupName">черный</param>
-    				<param name="Состав">100% кожа</param>
+    				<param name ="SkuName">499</param>
+    				<param name ="SkuGroupName">зелёный</param>
+    				<param name="Состав">100% кожа 999</param>
 				</offer><offer id="145899" group_id="145795" available="true">
     				<url>https://www.ushatava.ru/catalog/kollektsii/garderobe/botilony-truby/?offer=145899</url>
     				<price>45900</price>
